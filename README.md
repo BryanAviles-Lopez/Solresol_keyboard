@@ -20,15 +20,6 @@ This Python script translates MIDI notes to Solresol syllables and then to Engli
 - Mido library (for MIDI input)
 - Arturia MiniLab mkII or a MIDI input device
 
-## Usage
-
-1. Install the required libraries using `pip`:
-
-   ```
-   pip install mido
-```
-
-python script.py
 
 ```
 Listening to Arturia MiniLab mkII... Press keys on your MIDI keyboard.
