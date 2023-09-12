@@ -4,6 +4,14 @@ python -m venv myenv
 source myenv/bin/activate
 pip install mido python-rtmidi
 ```
+For Windows:
+
+```
+python -m venv myenv
+myenv\Scripts\activate
+pip install mido python-rtmidi --prefer-binary
+```
+
 # MIDI to Solresol Translator
 
 This Python script translates MIDI notes to Solresol syllables and then to English words. It uses dictionaries to map MIDI notes to Solresol syllables and Solresol syllables to English words. The script listens to a MIDI input device (e.g., Arturia MiniLab mkII) and displays translations in real-time.
