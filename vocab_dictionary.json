@@ -1,0 +1,13021 @@
+[
+  {
+    "Solresol": "do",
+    "English":
+    [
+      "No",
+      "not",
+      "nor"
+    ]
+  },
+  {
+    "Solresol": "re",
+    "English":
+    [
+      "And"
+    ]
+  },
+  {
+    "Solresol": "mi",
+    "English":
+    [
+      "Or"
+    ]
+  },
+  {
+    "Solresol": "fa",
+    "English":
+    [
+      "At",
+      "to"
+    ]
+  },
+  {
+    "Solresol": "sol",
+    "English":
+    [
+      "If"
+    ]
+  },
+  {
+    "Solresol": "la",
+    "English":
+    [
+      "The"
+    ]
+  },
+  {
+    "Solresol": "si",
+    "English":
+    [
+      "Yes",
+      "willingly"
+    ]
+  },
+  {
+    "Solresol": "dore",
+    "English":
+    [
+      "I",
+      "me",
+      "myself",
+      "personally",
+      "we",
+      "ourselves"
+    ]
+  },
+  {
+    "Solresol": "domi",
+    "English":
+    [
+      "You",
+      "yourself",
+      "(singular or plural)"
+    ]
+  },
+  {
+    "Solresol": "dofa",
+    "English":
+    [
+      "He",
+      "she",
+      "it",
+      "him",
+      "her",
+      "them",
+      "they"
+    ]
+  },
+  {
+    "Solresol": "dosol",
+    "English":
+    [
+      "Self",
+      "oneself"
+    ]
+  },
+  {
+    "Solresol": "dola",
+    "English":
+    [
+      "One",
+      "someone",
+      "another person"
+    ]
+  },
+  {
+    "Solresol": "dosi",
+    "English":
+    [
+      "Other",
+      "another",
+      "different",
+      "alternative"
+    ]
+  },
+  {
+    "Solresol": "redo",
+    "English":
+    [
+      "My",
+      "mine"
+    ]
+  },
+  {
+    "Solresol": "remi",
+    "English":
+    [
+      "Your",
+      "yours"
+    ]
+  },
+  {
+    "Solresol": "refa",
+    "English":
+    [
+      "His",
+      "her",
+      "its"
+    ]
+  },
+  {
+    "Solresol": "resol",
+    "English":
+    [
+      "Our",
+      "ours"
+    ]
+  },
+  {
+    "Solresol": "rela",
+    "English":
+    [
+      "Your",
+      "yours (plural)"
+    ]
+  },
+  {
+    "Solresol": "resi",
+    "English":
+    [
+      "Their",
+      "theirs"
+    ]
+  },
+  {
+    "Solresol": "mido",
+    "English":
+    [
+      "For"
+    ]
+  },
+  {
+    "Solresol": "mire",
+    "English":
+    [
+      "That",
+      "which",
+      "who"
+    ]
+  },
+  {
+    "Solresol": "mifa",
+    "English":
+    [
+      "Whose"
+    ]
+  },
+  {
+    "Solresol": "misol",
+    "English":
+    [
+      "Well",
+      "well done",
+      "good"
+    ]
+  },
+  {
+    "Solresol": "mila",
+    "English":
+    [
+      "Voila",
+      "behold",
+      "here is"
+    ]
+  },
+  {
+    "Solresol": "fado",
+    "English":
+    [
+      "What?",
+      "what is this?"
+    ]
+  },
+  {
+    "Solresol": "fare",
+    "English":
+    [
+      "That",
+      "that one",
+      "those (people or things)"
+    ]
+  },
+  {
+    "Solresol": "fami",
+    "English":
+    [
+      "This",
+      "this one",
+      "these (people or things)"
+    ]
+  },
+  {
+    "Solresol": "fasol",
+    "English":
+    [
+      "Here",
+      "here is",
+      "this is"
+    ]
+  },
+  {
+    "Solresol": "fala",
+    "English":
+    [
+      "Good",
+      "tasty",
+      "delectable",
+      "exquisite",
+      "delicious"
+    ]
+  },
+  {
+    "Solresol": "fasi",
+    "English":
+    [
+      "Much",
+      "very",
+      "a lot",
+      "many (augmentative)"
+    ]
+  },
+  {
+    "Solresol": "soldo",
+    "English":
+    [
+      "Nothing",
+      "nil",
+      "naught",
+      "null"
+    ]
+  },
+  {
+    "Solresol": "solre",
+    "English":
+    [
+      "Why? What for?"
+    ]
+  },
+  {
+    "Solresol": "solmi",
+    "English":
+    [
+      "Wrong",
+      "evil"
+    ]
+  },
+  {
+    "Solresol": "solfa",
+    "English":
+    [
+      "Because",
+      "for"
+    ]
+  },
+  {
+    "Solresol": "solla",
+    "English":
+    [
+      "Always",
+      "perpetuate",
+      "perpetuately",
+      "constantly"
+    ]
+  },
+  {
+    "Solresol": "lado",
+    "English":
+    [
+      "Yesterday"
+    ]
+  },
+  {
+    "Solresol": "lare",
+    "English":
+    [
+      "Today",
+      "this day"
+    ]
+  },
+  {
+    "Solresol": "lami",
+    "English":
+    [
+      "Tomorrow"
+    ]
+  },
+  {
+    "Solresol": "lafa",
+    "English":
+    [
+      "Bad"
+    ]
+  },
+  {
+    "Solresol": "lasol",
+    "English":
+    [
+      "Never"
+    ]
+  },
+  {
+    "Solresol": "lasi",
+    "English":
+    [
+      "Of"
+    ]
+  },
+  {
+    "Solresol": "sido",
+    "English":
+    [
+      "How"
+    ]
+  },
+  {
+    "Solresol": "sire",
+    "English":
+    [
+      "Each",
+      "every"
+    ]
+  },
+  {
+    "Solresol": "sifa",
+    "English":
+    [
+      "Little",
+      "scarcely"
+    ]
+  },
+  {
+    "Solresol": "sisol",
+    "English":
+    [
+      "Mister",
+      "sir"
+    ]
+  },
+  {
+    "Solresol": "sila",
+    "English":
+    [
+      "Madame",
+      "Ms"
+    ]
+  },
+  {
+    "Solresol": "doredo",
+    "English":
+    [
+      "Time"
+    ]
+  },
+  {
+    "Solresol": "doremi",
+    "English":
+    [
+      "Day"
+    ]
+  },
+  {
+    "Solresol": "dorefa",
+    "English":
+    [
+      "Week"
+    ]
+  },
+  {
+    "Solresol": "doresol",
+    "English":
+    [
+      "Month"
+    ]
+  },
+  {
+    "Solresol": "dorela",
+    "English":
+    [
+      "Year"
+    ]
+  },
+  {
+    "Solresol": "doresi",
+    "English":
+    [
+      "Century"
+    ]
+  },
+  {
+    "Solresol": "domido",
+    "English":
+    [
+      "Universe",
+      "Creation"
+    ]
+  },
+  {
+    "Solresol": "domire",
+    "English":
+    [
+      "Infinity",
+      "unlimited",
+      "endless",
+      "undefined",
+      "immensity",
+      "unbounded",
+      "immeasurable"
+    ]
+  },
+  {
+    "Solresol": "domifa",
+    "English":
+    [
+      "Providence",
+      "providential",
+      "welfare"
+    ]
+  },
+  {
+    "Solresol": "domisol",
+    "English":
+    [
+      "God",
+      "the all-powerful",
+      "supreme being"
+    ]
+  },
+  {
+    "Solresol": "domila",
+    "English":
+    [
+      "Eternize",
+      "perpetuate",
+      "eternal",
+      "eternity"
+    ]
+  },
+  {
+    "Solresol": "domisi",
+    "English":
+    [
+      "Immortalize",
+      "immortal",
+      "indestructible",
+      "imperishable"
+    ]
+  },
+  {
+    "Solresol": "dofado",
+    "English":
+    [
+      "Majesty",
+      "grandeur",
+      "magnitude",
+      "imposing",
+      "majestic"
+    ]
+  },
+  {
+    "Solresol": "dofare",
+    "English":
+    [
+      "Supreme",
+      "sovreign"
+    ]
+  },
+  {
+    "Solresol": "dofami",
+    "English":
+    [
+      "Magnificence",
+      "splendor",
+      "superb"
+    ]
+  },
+  {
+    "Solresol": "dofasol",
+    "English":
+    [
+      "Marvel",
+      "wonder"
+    ]
+  },
+  {
+    "Solresol": "dofala",
+    "English":
+    [
+      "Miracle",
+      "supernatural",
+      "miraculous"
+    ]
+  },
+  {
+    "Solresol": "dofasi",
+    "English":
+    [
+      "Adore",
+      "worship"
+    ]
+  },
+  {
+    "Solresol": "dosoldo",
+    "English":
+    [
+      "Pray"
+    ]
+  },
+  {
+    "Solresol": "dosolre",
+    "English":
+    [
+      "Believe"
+    ]
+  },
+  {
+    "Solresol": "dosolmi",
+    "English":
+    [
+      "Jesus Christ"
+    ]
+  },
+  {
+    "Solresol": "dosolfa",
+    "English":
+    [
+      "Holy Virgin"
+    ]
+  },
+  {
+    "Solresol": "dosolla",
+    "English":
+    [
+      "Religion"
+    ]
+  },
+  {
+    "Solresol": "dosolsi",
+    "English":
+    [
+      "Sanctify"
+    ]
+  },
+  {
+    "Solresol": "dolado",
+    "English":
+    [
+      "Charity",
+      "charitable",
+      "charitably"
+    ]
+  },
+  {
+    "Solresol": "dolare",
+    "English":
+    [
+      "Philanthropy",
+      "philanthropist"
+    ]
+  },
+  {
+    "Solresol": "dolami",
+    "English":
+    [
+      "Despise",
+      "contempt",
+      "contemptuous"
+    ]
+  },
+  {
+    "Solresol": "dolafa",
+    "English":
+    [
+      "Sympathize",
+      "pity",
+      "compassion"
+    ]
+  },
+  {
+    "Solresol": "dolasol",
+    "English":
+    [
+      "Inexcusable",
+      "unforgivable"
+    ]
+  },
+  {
+    "Solresol": "dolasi",
+    "English":
+    [
+      "Incomparable",
+      "invaluable",
+      "unparalleled",
+      "without equal"
+    ]
+  },
+  {
+    "Solresol": "dosido",
+    "English":
+    [
+      "Help",
+      "aid",
+      "assist",
+      "rescue"
+    ]
+  },
+  {
+    "Solresol": "dosire",
+    "English":
+    [
+      "Support",
+      "base"
+    ]
+  },
+  {
+    "Solresol": "dosimi",
+    "English":
+    [
+      "Unfaithfulness",
+      "infidelity"
+    ]
+  },
+  {
+    "Solresol": "dosifa",
+    "English":
+    [
+      "Accomplish",
+      "fulfill"
+    ]
+  },
+  {
+    "Solresol": "dosisol",
+    "English":
+    [
+      "Duty",
+      "obligation"
+    ]
+  },
+  {
+    "Solresol": "dosila",
+    "English":
+    [
+      "Noble",
+      "ennobled",
+      "dignity",
+      "worthy",
+      "just",
+      "pride"
+    ]
+  },
+  {
+    "Solresol": "redore",
+    "English":
+    [
+      "Philosophy",
+      "philosopher",
+      "philosophical"
+    ]
+  },
+  {
+    "Solresol": "redomi",
+    "English":
+    [
+      "Loathe",
+      "repugnance",
+      "repulsive"
+    ]
+  },
+  {
+    "Solresol": "redofa",
+    "English":
+    [
+      "Moral",
+      "morally",
+      "moralize"
+    ]
+  },
+  {
+    "Solresol": "redosol",
+    "English":
+    [
+      "Customs"
+    ]
+  },
+  {
+    "Solresol": "redola",
+    "English":
+    [
+      "Proverb",
+      "maxim"
+    ]
+  },
+  {
+    "Solresol": "redosi",
+    "English":
+    [
+      "Honor",
+      "honorable",
+      "venerable",
+      "respectable"
+    ]
+  },
+  {
+    "Solresol": "remido",
+    "English":
+    [
+      "Limit",
+      "confine",
+      "border",
+      "circumscribe"
+    ]
+  },
+  {
+    "Solresol": "remire",
+    "English":
+    [
+      "Merit",
+      "be worthy of",
+      "laudable",
+      "praised"
+    ]
+  },
+  {
+    "Solresol": "remifa",
+    "English":
+    [
+      "Benevolence",
+      "well-doing"
+    ]
+  },
+  {
+    "Solresol": "remisol",
+    "English":
+    [
+      "Alms",
+      "charity"
+    ]
+  },
+  {
+    "Solresol": "remila",
+    "English":
+    [
+      "Give",
+      "gift",
+      "present"
+    ]
+  },
+  {
+    "Solresol": "remisi",
+    "English":
+    [
+      "Inexplicable",
+      "indefinable",
+      "incomprehensible",
+      "inconceiveable",
+      "enigmatic"
+    ]
+  },
+  {
+    "Solresol": "refado",
+    "English":
+    [
+      "Notability",
+      "significant",
+      "fame"
+    ]
+  },
+  {
+    "Solresol": "refare",
+    "English":
+    [
+      "dignities",
+      "honors",
+      "honorary"
+    ]
+  },
+  {
+    "Solresol": "refami",
+    "English":
+    [
+      "Displease",
+      "unpleasant",
+      "uncomfortable"
+    ]
+  },
+  {
+    "Solresol": "refasol",
+    "English":
+    [
+      "Indelible (uneraseable)"
+    ]
+  },
+  {
+    "Solresol": "refasi",
+    "English":
+    [
+      "Qualify",
+      "rights"
+    ]
+  },
+  {
+    "Solresol": "resoldo",
+    "English":
+    [
+      "Doubt",
+      "skepticism",
+      "skeptical"
+    ]
+  },
+  {
+    "Solresol": "resolre",
+    "English":
+    [
+      "Err",
+      "mistake",
+      "error",
+      "wrong"
+    ]
+  },
+  {
+    "Solresol": "resolmi",
+    "English":
+    [
+      "Heresy",
+      "heretic"
+    ]
+  },
+  {
+    "Solresol": "resolfa",
+    "English":
+    [
+      "Atheism",
+      "atheist"
+    ]
+  },
+  {
+    "Solresol": "resolla",
+    "English":
+    [
+      "Materialism",
+      "materialistic",
+      "materialize"
+    ]
+  },
+  {
+    "Solresol": "resolsi",
+    "English":
+    [
+      "Discourage",
+      "discouragement",
+      "tedious"
+    ]
+  },
+  {
+    "Solresol": "relado",
+    "English":
+    [
+      "Misanthropy",
+      "misanthrope"
+    ]
+  },
+  {
+    "Solresol": "relare",
+    "English":
+    [
+      "Antagonize",
+      "thwart",
+      "inconvenience",
+      "annoying",
+      "bother"
+    ]
+  },
+  {
+    "Solresol": "relami",
+    "English":
+    [
+      "Distrust",
+      "suspect",
+      "beware",
+      "skittish"
+    ]
+  },
+  {
+    "Solresol": "relafa",
+    "English":
+    [
+      "Impossible",
+      "impracticable",
+      "impossibility"
+    ]
+  },
+  {
+    "Solresol": "relasol",
+    "English":
+    [
+      "Intolerance",
+      "severity",
+      "rigorism",
+      "inflexible",
+      "rigid"
+    ]
+  },
+  {
+    "Solresol": "relasi",
+    "English":
+    [
+      "Regret",
+      "be sorry",
+      "repent",
+      "rue"
+    ]
+  },
+  {
+    "Solresol": "resido",
+    "English":
+    [
+      "Mistreat",
+      "bully",
+      "maltreatment",
+      "brutality",
+      "rudeness"
+    ]
+  },
+  {
+    "Solresol": "resire",
+    "English":
+    [
+      "Toughen",
+      "hard",
+      "hardness",
+      "tough"
+    ]
+  },
+  {
+    "Solresol": "resimi",
+    "English":
+    [
+      "Spite",
+      "bad mood/attitude",
+      "sulky",
+      "grumpiness",
+      "cantankerous",
+      "recalcitrant"
+    ]
+  },
+  {
+    "Solresol": "resifa",
+    "English":
+    [
+      "Become"
+    ]
+  },
+  {
+    "Solresol": "resisol",
+    "English":
+    [
+      "To be sad",
+      "sadness",
+      "gloom",
+      "melancholy",
+      "sad"
+    ]
+  },
+  {
+    "Solresol": "resila",
+    "English":
+    [
+      "Bored",
+      "boredom"
+    ]
+  },
+  {
+    "Solresol": "midore",
+    "English":
+    [
+      "Sympathy",
+      "inclination",
+      "sympathize",
+      "take pleasure"
+    ]
+  },
+  {
+    "Solresol": "midomi",
+    "English":
+    [
+      "Attract",
+      "draw",
+      "appeal to"
+    ]
+  },
+  {
+    "Solresol": "midofa",
+    "English":
+    [
+      "Prefer",
+      "like the most"
+    ]
+  },
+  {
+    "Solresol": "midosol",
+    "English":
+    [
+      "Trinity"
+    ]
+  },
+  {
+    "Solresol": "midola",
+    "English":
+    [
+      "Reciprocity",
+      "mutuality",
+      "respective",
+      "vice versa"
+    ]
+  },
+  {
+    "Solresol": "midosi",
+    "English":
+    [
+      "Fond of",
+      "attached",
+      "be attached to",
+      "friend",
+      "friendly",
+      "take to"
+    ]
+  },
+  {
+    "Solresol": "miredo",
+    "English":
+    [
+      "Love each other",
+      "agree"
+    ]
+  },
+  {
+    "Solresol": "miremi",
+    "English":
+    [
+      "Beloved",
+      "darling",
+      "dear",
+      "dearly loved"
+    ]
+  },
+  {
+    "Solresol": "mirefa",
+    "English":
+    [
+      "Tenderness",
+      "kindness",
+      "loving",
+      "tenderly",
+      "fondness",
+      "endearment"
+    ]
+  },
+  {
+    "Solresol": "miresol",
+    "English":
+    [
+      "Acknowledge",
+      "gratitude",
+      "recognition",
+      "be grateful"
+    ]
+  },
+  {
+    "Solresol": "mirela",
+    "English":
+    [
+      "Devote",
+      "focus",
+      "devote oneself",
+      "dedication"
+    ]
+  },
+  {
+    "Solresol": "miresi",
+    "English":
+    [
+      "Link",
+      "bond",
+      "chain",
+      "fasten"
+    ]
+  },
+  {
+    "Solresol": "mifado",
+    "English":
+    [
+      "Agreement",
+      "pleasure",
+      "enjoyment"
+    ]
+  },
+  {
+    "Solresol": "mifare",
+    "English":
+    [
+      "Please",
+      "like",
+      "pleasant",
+      "seductive"
+    ]
+  },
+  {
+    "Solresol": "mifami",
+    "English":
+    [
+      "Sigh"
+    ]
+  },
+  {
+    "Solresol": "mifasol",
+    "English":
+    [
+      "Raise",
+      "elevate",
+      "uplift",
+      "high"
+    ]
+  },
+  {
+    "Solresol": "mifala",
+    "English":
+    [
+      "Desire",
+      "wish",
+      "want",
+      "desirous"
+    ]
+  },
+  {
+    "Solresol": "mifasi",
+    "English":
+    [
+      "Incorrigible",
+      "unable to be corrected"
+    ]
+  },
+  {
+    "Solresol": "misoldo",
+    "English":
+    [
+      "The Holy Spirit"
+    ]
+  },
+  {
+    "Solresol": "misolre",
+    "English":
+    [
+      "The grace of God"
+    ]
+  },
+  {
+    "Solresol": "misolmi",
+    "English":
+    [
+      "Sweetness",
+      "pleasantness",
+      "smooth",
+      "even-tempered"
+    ]
+  },
+  {
+    "Solresol": "misolfa",
+    "English":
+    [
+      "Benevolence",
+      "affability",
+      "goodwill"
+    ]
+  },
+  {
+    "Solresol": "misolla",
+    "English":
+    [
+      "Equal",
+      "equality",
+      "equally"
+    ]
+  },
+  {
+    "Solresol": "misolsi",
+    "English":
+    [
+      "Amiability",
+      "kindness",
+      "kind",
+      "pleasant"
+    ]
+  },
+  {
+    "Solresol": "milado",
+    "English":
+    [
+      "Appraise",
+      "estimate",
+      "consider"
+    ]
+  },
+  {
+    "Solresol": "milare",
+    "English":
+    [
+      "Confide",
+      "confidence"
+    ]
+  },
+  {
+    "Solresol": "milami",
+    "English":
+    [
+      "Be passionate",
+      "passion",
+      "ardor",
+      "ardently"
+    ]
+  },
+  {
+    "Solresol": "milafa",
+    "English":
+    [
+      "Idolize",
+      "dote on",
+      "idolatry"
+    ]
+  },
+  {
+    "Solresol": "milasol",
+    "English":
+    [
+      "Love (for things)"
+    ]
+  },
+  {
+    "Solresol": "milasi",
+    "English":
+    [
+      "Love",
+      "cherish",
+      "lover",
+      "enamored"
+    ]
+  },
+  {
+    "Solresol": "misido",
+    "English":
+    [
+      "Fidelity",
+      "fathfulness",
+      "loyalty"
+    ]
+  },
+  {
+    "Solresol": "misire",
+    "English":
+    [
+      "To last",
+      "durable",
+      "stability",
+      "permanent",
+      "duration"
+    ]
+  },
+  {
+    "Solresol": "misimi",
+    "English":
+    [
+      "To get engaged",
+      "engagement",
+      "fiancé"
+    ]
+  },
+  {
+    "Solresol": "misifa",
+    "English":
+    [
+      "Marry",
+      "marriage",
+      "husband",
+      "wife",
+      "spouse"
+    ]
+  },
+  {
+    "Solresol": "misisol",
+    "English":
+    [
+      "To be lucky",
+      "luck",
+      "fortune",
+      "fortunate",
+      "lucky",
+      "fortunately",
+      "luckily"
+    ]
+  },
+  {
+    "Solresol": "misila",
+    "English":
+    [
+      "Enjoy",
+      "enjoyment",
+      "pleasure",
+      "delirium",
+      "intoxicated",
+      "drunk"
+    ]
+  },
+  {
+    "Solresol": "fadore",
+    "English":
+    [
+      "Immoral",
+      "immorality",
+      "without principles"
+    ]
+  },
+  {
+    "Solresol": "fadomi",
+    "English":
+    [
+      "Letter (mail)",
+      "missive",
+      "epistle"
+    ]
+  },
+  {
+    "Solresol": "fadofa",
+    "English":
+    [
+      "Date",
+      "era"
+    ]
+  },
+  {
+    "Solresol": "fadosol",
+    "English":
+    [
+      "To sign",
+      "signature"
+    ]
+  },
+  {
+    "Solresol": "fadola",
+    "English":
+    [
+      "Stamp",
+      "seal"
+    ]
+  },
+  {
+    "Solresol": "fadosi",
+    "English":
+    [
+      "End",
+      "complete",
+      "finish",
+      "final",
+      "finally",
+      "termination",
+      "achieve"
+    ]
+  },
+  {
+    "Solresol": "faredo",
+    "English":
+    [
+      "Contact",
+      "address",
+      "send a letter"
+    ]
+  },
+  {
+    "Solresol": "faremi",
+    "English":
+    [
+      "Be",
+      "exist (auxiliary)"
+    ]
+  },
+  {
+    "Solresol": "farefa",
+    "English":
+    [
+      "Go",
+      "proceed "
+    ]
+  },
+  {
+    "Solresol": "faresol",
+    "English":
+    [
+      "Lengthen",
+      "extend",
+      "extension",
+      "elongation"
+    ]
+  },
+  {
+    "Solresol": "farela",
+    "English":
+    [
+      "Mail",
+      "post",
+      "post office"
+    ]
+  },
+  {
+    "Solresol": "faresi",
+    "English":
+    [
+      "Inexactitude",
+      "inaccuracy",
+      "inexact"
+    ]
+  },
+  {
+    "Solresol": "famido",
+    "English":
+    [
+      "Free",
+      "exempt",
+      "enfranchisement",
+      "emancipate"
+    ]
+  },
+  {
+    "Solresol": "famire",
+    "English":
+    [
+      "Evil",
+      "wicked",
+      "malignant",
+      "harmful",
+      "maleficence"
+    ]
+  },
+  {
+    "Solresol": "famifa",
+    "English":
+    [
+      "Stamp",
+      "postmark (verb)"
+    ]
+  },
+  {
+    "Solresol": "famisol",
+    "English":
+    [
+      "Have (auxiliary)",
+      "possess",
+      "own",
+      "get"
+    ]
+  },
+  {
+    "Solresol": "famila",
+    "English":
+    [
+      "Postman",
+      "courier",
+      "mail"
+    ]
+  },
+  {
+    "Solresol": "famisi",
+    "English":
+    [
+      "Carry",
+      "bring",
+      "portable"
+    ]
+  },
+  {
+    "Solresol": "fasoldo",
+    "English":
+    [
+      "Cause",
+      "because of",
+      "due to"
+    ]
+  },
+  {
+    "Solresol": "fasolre",
+    "English":
+    [
+      "Theism",
+      "deism",
+      "theist",
+      "belief in God"
+    ]
+  },
+  {
+    "Solresol": "fasolmi",
+    "English":
+    [
+      "Malice",
+      "unkindness",
+      "ill will",
+      "disparaging",
+      "malignancy"
+    ]
+  },
+  {
+    "Solresol": "fasolfa",
+    "English":
+    [
+      "Act",
+      "behave",
+      "conduct "
+    ]
+  },
+  {
+    "Solresol": "fasolla",
+    "English":
+    [
+      "Do",
+      "make",
+      "action",
+      "doable",
+      "commit"
+    ]
+  },
+  {
+    "Solresol": "fasolsi",
+    "English":
+    [
+      "Prepare",
+      "make ready",
+      "preparation"
+    ]
+  },
+  {
+    "Solresol": "falado",
+    "English":
+    [
+      "Have to (auxiliary)"
+    ]
+  },
+  {
+    "Solresol": "falare",
+    "English":
+    [
+      "Able",
+      "can",
+      "may",
+      "possible",
+      "practicability"
+    ]
+  },
+  {
+    "Solresol": "falami",
+    "English":
+    [
+      "Means",
+      "resources",
+      "by means of",
+      "via"
+    ]
+  },
+  {
+    "Solresol": "falafa",
+    "English":
+    [
+      "Understand",
+      "intellect"
+    ]
+  },
+  {
+    "Solresol": "falasol",
+    "English":
+    [
+      "Disfavor",
+      "disrepute",
+      "disgrace"
+    ]
+  },
+  {
+    "Solresol": "falasi",
+    "English":
+    [
+      "Trend",
+      "tendency",
+      "inclination to",
+      "disposition"
+    ]
+  },
+  {
+    "Solresol": "fasido",
+    "English":
+    [
+      "Walk",
+      "step"
+    ]
+  },
+  {
+    "Solresol": "fasire",
+    "English":
+    [
+      "Inquire",
+      "investigate"
+    ]
+  },
+  {
+    "Solresol": "fasimi",
+    "English":
+    [
+      "Divorce",
+      "disown",
+      "repudiate",
+      "unmarry"
+    ]
+  },
+  {
+    "Solresol": "fasifa",
+    "English":
+    [
+      "Want (to do something) (for desires and wanting things",
+      "see \"mifala\")"
+    ]
+  },
+  {
+    "Solresol": "fasisol",
+    "English":
+    [
+      "Cry",
+      "weep",
+      "sob",
+      "tears"
+    ]
+  },
+  {
+    "Solresol": "fasila",
+    "English":
+    [
+      "Decide",
+      "determine",
+      "resolve",
+      "decision",
+      "resolution"
+    ]
+  },
+  {
+    "Solresol": "soldore",
+    "English":
+    [
+      "Copy",
+      "transcribe",
+      "transcription"
+    ]
+  },
+  {
+    "Solresol": "soldomi",
+    "English":
+    [
+      "Imitate",
+      "forge",
+      "mimic",
+      "emulate",
+      "counterfeit"
+    ]
+  },
+  {
+    "Solresol": "soldofa",
+    "English":
+    [
+      "Example",
+      "model",
+      "type"
+    ]
+  },
+  {
+    "Solresol": "soldosol",
+    "English":
+    [
+      "Translate",
+      "interpret",
+      "translation",
+      "interpreter"
+    ]
+  },
+  {
+    "Solresol": "soldola",
+    "English":
+    [
+      "Comment",
+      "commentary",
+      "commentator"
+    ]
+  },
+  {
+    "Solresol": "soldosi",
+    "English":
+    [
+      "Tradition",
+      "traditionally",
+      "traditional"
+    ]
+  },
+  {
+    "Solresol": "solredo",
+    "English":
+    [
+      "Imply",
+      "implied"
+    ]
+  },
+  {
+    "Solresol": "solremi",
+    "English":
+    [
+      "Ingratitude",
+      "disregarding",
+      "ungrateful"
+    ]
+  },
+  {
+    "Solresol": "solrefa",
+    "English":
+    [
+      "Shorten",
+      "abbreviate",
+      "concise",
+      "terse",
+      "succinct",
+      "brief"
+    ]
+  },
+  {
+    "Solresol": "solresol",
+    "English":
+    [
+      "Language",
+      "idiom",
+      "dialect",
+      "linguistics",
+      "philology"
+    ]
+  },
+  {
+    "Solresol": "solrela",
+    "English":
+    [
+      "Dictionary",
+      "vocabulary",
+      "glossary"
+    ]
+  },
+  {
+    "Solresol": "solresi",
+    "English":
+    [
+      "Irregularity",
+      "anomaly",
+      "irregular"
+    ]
+  },
+  {
+    "Solresol": "solmido",
+    "English":
+    [
+      "Devil",
+      "Satan",
+      "Lucifer",
+      "demon",
+      "satanic"
+    ]
+  },
+  {
+    "Solresol": "solmire",
+    "English":
+    [
+      "Verb",
+      "noun",
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "Solresol": "solmifa",
+    "English":
+    [
+      "Article"
+    ]
+  },
+  {
+    "Solresol": "solmisol",
+    "English":
+    [
+      "Pronoun"
+    ]
+  },
+  {
+    "Solresol": "solmila",
+    "English":
+    [
+      "Remember",
+      "recollection",
+      "commemorate",
+      "memorial",
+      "souvenir"
+    ]
+  },
+  {
+    "Solresol": "solmisi",
+    "English":
+    [
+      "Complicate",
+      "complication",
+      "make difficult"
+    ]
+  },
+  {
+    "Solresol": "solfado",
+    "English":
+    [
+      "Neutral",
+      "neutrality"
+    ]
+  },
+  {
+    "Solresol": "solfare",
+    "English":
+    [
+      "Delete",
+      "erase",
+      "cross out",
+      "strike out",
+      "efface"
+    ]
+  },
+  {
+    "Solresol": "solfami",
+    "English":
+    [
+      "Lower",
+      "diminish",
+      "step down "
+    ]
+  },
+  {
+    "Solresol": "solfasol",
+    "English":
+    [
+      "Intimidate",
+      "bully",
+      "to trouble"
+    ]
+  },
+  {
+    "Solresol": "solfala",
+    "English":
+    [
+      "Let",
+      "allow"
+    ]
+  },
+  {
+    "Solresol": "solfasi",
+    "English":
+    [
+      "Impatient",
+      "irritable",
+      "impatience",
+      "chafe"
+    ]
+  },
+  {
+    "Solresol": "sollado",
+    "English":
+    [
+      "Excuse",
+      "exonerate",
+      "pardon",
+      "pardonable",
+      "excusable"
+    ]
+  },
+  {
+    "Solresol": "sollare",
+    "English":
+    [
+      "Tolerate",
+      "bear",
+      "indulge",
+      "indulgence",
+      "tolerance"
+    ]
+  },
+  {
+    "Solresol": "sollami",
+    "English":
+    [
+      "Forgive",
+      "pardon",
+      "amnesty",
+      "mercy",
+      "forgiveness"
+    ]
+  },
+  {
+    "Solresol": "sollafa",
+    "English":
+    [
+      "Favor",
+      "favorite",
+      "favorable",
+      "prefer"
+    ]
+  },
+  {
+    "Solresol": "sollasol",
+    "English":
+    [
+      "Permit",
+      "allow",
+      "authorize",
+      "permission"
+    ]
+  },
+  {
+    "Solresol": "sollasi",
+    "English":
+    [
+      "Climb",
+      "mount",
+      "rise",
+      "climbing",
+      "ascent"
+    ]
+  },
+  {
+    "Solresol": "solsido",
+    "English":
+    [
+      "Run",
+      "gallop",
+      "race",
+      "runner"
+    ]
+  },
+  {
+    "Solresol": "solsire",
+    "English":
+    [
+      "To be happy",
+      "happiness",
+      "joy",
+      "playfulness",
+      "elation",
+      "happy",
+      "gay",
+      "joyful",
+      "perky",
+      "merrily",
+      "cheerfully",
+      "happily"
+    ]
+  },
+  {
+    "Solresol": "solsimi",
+    "English":
+    [
+      "To be unlucky",
+      "misfortune",
+      "setback",
+      "calamity",
+      "disaster",
+      "unfortunate"
+    ]
+  },
+  {
+    "Solresol": "solsifa",
+    "English":
+    [
+      "Laugh",
+      "hilarity",
+      "laughing"
+    ]
+  },
+  {
+    "Solresol": "solsisol",
+    "English":
+    [
+      "Smile",
+      "grin",
+      "smiling"
+    ]
+  },
+  {
+    "Solresol": "solsila",
+    "English":
+    [
+      "Skip",
+      "hop",
+      "jump",
+      "pounce",
+      "frolic"
+    ]
+  },
+  {
+    "Solresol": "ladore",
+    "English":
+    [
+      "College",
+      "high school",
+      "institution",
+      "university",
+      "teacher",
+      "professor",
+      "headmaster"
+    ]
+  },
+  {
+    "Solresol": "ladomi",
+    "English":
+    [
+      "School",
+      "student",
+      "pupil",
+      "disciple"
+    ]
+  },
+  {
+    "Solresol": "ladofa",
+    "English":
+    [
+      "Read",
+      "reading",
+      "reader",
+      "readable",
+      "legibly"
+    ]
+  },
+  {
+    "Solresol": "ladosol",
+    "English":
+    [
+      "Book",
+      "volume",
+      "tome"
+    ]
+  },
+  {
+    "Solresol": "ladola",
+    "English":
+    [
+      "Preface",
+      "foreword",
+      "preamble",
+      "introduction"
+    ]
+  },
+  {
+    "Solresol": "ladosi",
+    "English":
+    [
+      "Word",
+      "term"
+    ]
+  },
+  {
+    "Solresol": "laredo",
+    "English":
+    [
+      "Alphabet",
+      "alphabetical(ly)"
+    ]
+  },
+  {
+    "Solresol": "laremi",
+    "English":
+    [
+      "Spell",
+      "spelling"
+    ]
+  },
+  {
+    "Solresol": "larefa",
+    "English":
+    [
+      "Syllable",
+      "syllabic",
+      "monosyllable",
+      "monosyllabic"
+    ]
+  },
+  {
+    "Solresol": "laresol",
+    "English":
+    [
+      "Lesson",
+      "instruction"
+    ]
+  },
+  {
+    "Solresol": "larela",
+    "English":
+    [
+      "Phrase",
+      "sentence"
+    ]
+  },
+  {
+    "Solresol": "laresi",
+    "English":
+    [
+      "Distraction",
+      "inattention",
+      "inadvertently",
+      "inattentive",
+      "carelessness",
+      "disapplied"
+    ]
+  },
+  {
+    "Solresol": "lamido",
+    "English":
+    [
+      "Temporary",
+      "fleeting"
+    ]
+  },
+  {
+    "Solresol": "lamire",
+    "English":
+    [
+      "Write",
+      "writing",
+      "writer"
+    ]
+  },
+  {
+    "Solresol": "lamifa",
+    "English":
+    [
+      "Pen"
+    ]
+  },
+  {
+    "Solresol": "lamisol",
+    "English":
+    [
+      "Forget",
+      "overlook",
+      "neglect",
+      "forgetful",
+      "omit"
+    ]
+  },
+  {
+    "Solresol": "lamila",
+    "English":
+    [
+      "Ink",
+      "inkwell"
+    ]
+  },
+  {
+    "Solresol": "lamisi",
+    "English":
+    [
+      "Difficulty",
+      "trouble",
+      "hardness"
+    ]
+  },
+  {
+    "Solresol": "lafado",
+    "English":
+    [
+      "Paper",
+      "sheet of paper",
+      "parchment"
+    ]
+  },
+  {
+    "Solresol": "lafare",
+    "English":
+    [
+      "Page",
+      "leaf",
+      "flip/thumb through"
+    ]
+  },
+  {
+    "Solresol": "lafami",
+    "English":
+    [
+      "Notebook",
+      "portfolio"
+    ]
+  },
+  {
+    "Solresol": "lafasol",
+    "English":
+    [
+      "Manuscript",
+      "scroll",
+      "writing"
+    ]
+  },
+  {
+    "Solresol": "lafala",
+    "English":
+    [
+      "Text",
+      "textual",
+      "verbatim",
+      "to the letter"
+    ]
+  },
+  {
+    "Solresol": "lafasi",
+    "English":
+    [
+      "Subject",
+      "topic",
+      "thesis",
+      "theme"
+    ]
+  },
+  {
+    "Solresol": "lasoldo",
+    "English":
+    [
+      "Irreligion",
+      "irreligious",
+      "impious",
+      "impiety"
+    ]
+  },
+  {
+    "Solresol": "lasolre",
+    "English":
+    [
+      "Pencil",
+      "sketch"
+    ]
+  },
+  {
+    "Solresol": "lasolmi",
+    "English":
+    [
+      "Inequality",
+      "unequal",
+      "uneven"
+    ]
+  },
+  {
+    "Solresol": "lasolfa",
+    "English":
+    [
+      "Undo",
+      "undone"
+    ]
+  },
+  {
+    "Solresol": "lasolla",
+    "English":
+    [
+      "Align",
+      "line",
+      "row"
+    ]
+  },
+  {
+    "Solresol": "lasolsi",
+    "English":
+    [
+      "Draw",
+      "trace"
+    ]
+  },
+  {
+    "Solresol": "lasido",
+    "English":
+    [
+      "Point",
+      "the main idea"
+    ]
+  },
+  {
+    "Solresol": "lasire",
+    "English":
+    [
+      "Have fun",
+      "enjoy",
+      "be delighted",
+      "entertainment",
+      "amuse"
+    ]
+  },
+  {
+    "Solresol": "lasimi",
+    "English":
+    [
+      "Penalty",
+      "displeasure",
+      "tribulation",
+      "pain",
+      "punishment"
+    ]
+  },
+  {
+    "Solresol": "lasifa",
+    "English":
+    [
+      "Hesitate",
+      "go with uncertainty",
+      "irresolution",
+      "indecisive"
+    ]
+  },
+  {
+    "Solresol": "lasisol",
+    "English":
+    [
+      "Punctuate",
+      "punctuation"
+    ]
+  },
+  {
+    "Solresol": "lasila",
+    "English":
+    [
+      "Punctuation mark",
+      "question mark",
+      "exclamation point",
+      "comma"
+    ]
+  },
+  {
+    "Solresol": "sidore",
+    "English":
+    [
+      "Dishonor",
+      "degrade",
+      "defile",
+      "humiliate"
+    ]
+  },
+  {
+    "Solresol": "sidomi",
+    "English":
+    [
+      "Enmity",
+      "hostility",
+      "enemy",
+      "opponent",
+      "antagonist",
+      "hostile"
+    ]
+  },
+  {
+    "Solresol": "sidofa",
+    "English":
+    [
+      "Start",
+      "begin",
+      "commence"
+    ]
+  },
+  {
+    "Solresol": "sidosol",
+    "English":
+    [
+      "Study"
+    ]
+  },
+  {
+    "Solresol": "sidola",
+    "English":
+    [
+      "Progress",
+      "progressive"
+    ]
+  },
+  {
+    "Solresol": "sidosi",
+    "English":
+    [
+      "Learn",
+      "learning",
+      "education",
+      "apprenticeship"
+    ]
+  },
+  {
+    "Solresol": "siredo",
+    "English":
+    [
+      "Grammar",
+      "syntax",
+      "grammatically"
+    ]
+  },
+  {
+    "Solresol": "siremi",
+    "English":
+    [
+      "Spell",
+      "spelling",
+      "orthography",
+      "orthographic"
+    ]
+  },
+  {
+    "Solresol": "sirefa",
+    "English":
+    [
+      "Accuracy",
+      "exactitude",
+      "punctuality",
+      "assiduity"
+    ]
+  },
+  {
+    "Solresol": "siresol",
+    "English":
+    [
+      "Regular",
+      "symmetric",
+      "symmetry",
+      "correct"
+    ]
+  },
+  {
+    "Solresol": "sirela",
+    "English":
+    [
+      "Attention",
+      "take care",
+      "contemplation",
+      "be careful"
+    ]
+  },
+  {
+    "Solresol": "siresi",
+    "English":
+    [
+      "Apply",
+      "applied",
+      "studious",
+      "studiously"
+    ]
+  },
+  {
+    "Solresol": "simido",
+    "English":
+    [
+      "Distinguish",
+      "differentiate",
+      "discern",
+      "difference",
+      "nuance",
+      ""
+    ]
+  },
+  {
+    "Solresol": "simire",
+    "English":
+    [
+      "Explain",
+      "define",
+      "demonstrate",
+      "expound",
+      "definition",
+      "explanation"
+    ]
+  },
+  {
+    "Solresol": "simifa",
+    "English":
+    [
+      "Meaning",
+      "significance"
+    ]
+  },
+  {
+    "Solresol": "simisol",
+    "English":
+    [
+      "Simplify",
+      "make easy",
+      "simple",
+      "elementary"
+    ]
+  },
+  {
+    "Solresol": "simila",
+    "English":
+    [
+      "Facilitate",
+      "make easy",
+      "aid",
+      "easy"
+    ]
+  },
+  {
+    "Solresol": "simisi",
+    "English":
+    [
+      "Clarify",
+      "lighten",
+      "elucidate",
+      "explicit",
+      "clarity",
+      "conceivable"
+    ]
+  },
+  {
+    "Solresol": "sifado",
+    "English":
+    [
+      "Dictate",
+      "dictation",
+      "read out"
+    ]
+  },
+  {
+    "Solresol": "sifare",
+    "English":
+    [
+      "Fault",
+      "defect",
+      "failure",
+      "defective",
+      "failed"
+    ]
+  },
+  {
+    "Solresol": "sifami",
+    "English":
+    [
+      "Correct",
+      "reform",
+      "correction",
+      "reformation"
+    ]
+  },
+  {
+    "Solresol": "sifasol",
+    "English":
+    [
+      "Wait",
+      "patience",
+      "patient"
+    ]
+  },
+  {
+    "Solresol": "sifala",
+    "English":
+    [
+      "Repeat",
+      "recapitulate"
+    ]
+  },
+  {
+    "Solresol": "sifasi",
+    "English":
+    [
+      "Reiterate",
+      "renew",
+      "again"
+    ]
+  },
+  {
+    "Solresol": "sisoldo",
+    "English":
+    [
+      "Compete",
+      "contest"
+    ]
+  },
+  {
+    "Solresol": "sisolre",
+    "English":
+    [
+      "Encourage",
+      "embolden",
+      "stimulate"
+    ]
+  },
+  {
+    "Solresol": "sisolmi",
+    "English":
+    [
+      "Inspect",
+      "review",
+      "inspector",
+      "inspection"
+    ]
+  },
+  {
+    "Solresol": "sisolfa",
+    "English":
+    [
+      "Review",
+      "scrutinize",
+      "investigate"
+    ]
+  },
+  {
+    "Solresol": "sisolla",
+    "English":
+    [
+      "Analyze",
+      "analysis",
+      "analyst",
+      "analytical"
+    ]
+  },
+  {
+    "Solresol": "sisolsi",
+    "English":
+    [
+      "Question",
+      "interrogate",
+      "query"
+    ]
+  },
+  {
+    "Solresol": "silado",
+    "English":
+    [
+      "Compare",
+      "comparison",
+      "similarity",
+      "similitude",
+      "comparable"
+    ]
+  },
+  {
+    "Solresol": "silare",
+    "English":
+    [
+      "Crown",
+      "tiara",
+      "coronation",
+      "crowned"
+    ]
+  },
+  {
+    "Solresol": "silami",
+    "English":
+    [
+      "Hate",
+      "detest",
+      "abhor",
+      "hatred",
+      "animosity",
+      "aversion"
+    ]
+  },
+  {
+    "Solresol": "silafa",
+    "English":
+    [
+      "Unable",
+      "unfit",
+      "incapable",
+      "inept"
+    ]
+  },
+  {
+    "Solresol": "silasol",
+    "English":
+    [
+      "Down",
+      "descent",
+      "go down"
+    ]
+  },
+  {
+    "Solresol": "silasi",
+    "English":
+    [
+      "Medal",
+      "medallion"
+    ]
+  },
+  {
+    "Solresol": "doredore",
+    "English":
+    [
+      "Birth",
+      "born",
+      "native born"
+    ]
+  },
+  {
+    "Solresol": "doresoldo",
+    "English":
+    [
+      "Disrupt",
+      "disturb",
+      "upset",
+      "upheaval",
+      "disturbance"
+    ]
+  },
+  {
+    "Solresol": "domiredo",
+    "English":
+    [
+      "The five senses"
+    ]
+  },
+  {
+    "Solresol": "domiremi",
+    "English":
+    [
+      "See",
+      "vision",
+      "visual"
+    ]
+  },
+  {
+    "Solresol": "domirefa",
+    "English":
+    [
+      "Touch",
+      "feel",
+      "handle"
+    ]
+  },
+  {
+    "Solresol": "domiresol",
+    "English":
+    [
+      "Taste"
+    ]
+  },
+  {
+    "Solresol": "domirela",
+    "English":
+    [
+      "Smell"
+    ]
+  },
+  {
+    "Solresol": "domiresi",
+    "English":
+    [
+      "Hear",
+      "hearing",
+      "auditory",
+      "audible"
+    ]
+  },
+  {
+    "Solresol": "domifado",
+    "English":
+    [
+      "Humanity",
+      "mankind",
+      "man",
+      "woman",
+      "male",
+      "female"
+    ]
+  },
+  {
+    "Solresol": "domifare",
+    "English":
+    [
+      "Live",
+      "exist",
+      "be",
+      "life",
+      "existence"
+    ]
+  },
+  {
+    "Solresol": "domifami",
+    "English":
+    [
+      "Breathe",
+      "breath",
+      "breathing"
+    ]
+  },
+  {
+    "Solresol": "domifasol",
+    "English":
+    [
+      "Child",
+      "children",
+      "jouvenile",
+      "adolescent"
+    ]
+  },
+  {
+    "Solresol": "domifala",
+    "English":
+    [
+      "Grow",
+      "increase",
+      "growth",
+      "stature",
+      "size"
+    ]
+  },
+  {
+    "Solresol": "domifasi",
+    "English":
+    [
+      "Strength",
+      "force",
+      "vigour",
+      "virility",
+      "strong",
+      "manly"
+    ]
+  },
+  {
+    "Solresol": "domisoldo",
+    "English":
+    [
+      "Superiority",
+      "supreme",
+      "elite",
+      "first order"
+    ]
+  },
+  {
+    "Solresol": "domisolre",
+    "English":
+    [
+      "Power",
+      "authority",
+      "preeminence",
+      "rule"
+    ]
+  },
+  {
+    "Solresol": "domisolmi",
+    "English":
+    [
+      "Grandeur",
+      "magnitude",
+      "magnanimity",
+      "great"
+    ]
+  },
+  {
+    "Solresol": "domisolfa",
+    "English":
+    [
+      "Intelligence",
+      "capacity",
+      "smart",
+      "intellect"
+    ]
+  },
+  {
+    "Solresol": "domisolla",
+    "English":
+    [
+      "Spirit",
+      "spiritual",
+      "have spirit"
+    ]
+  },
+  {
+    "Solresol": "domisolsi",
+    "English":
+    [
+      "Soul"
+    ]
+  },
+  {
+    "Solresol": "domilado",
+    "English":
+    [
+      "Talk",
+      "utter",
+      "speak",
+      "speech",
+      "speaking",
+      "verbal",
+      "speaker",
+      "verbally",
+      "orally"
+    ]
+  },
+  {
+    "Solresol": "domilare",
+    "English":
+    [
+      "Pronounce",
+      "articulate",
+      "pronunciation",
+      "articulation"
+    ]
+  },
+  {
+    "Solresol": "domilami",
+    "English":
+    [
+      "Argue",
+      "reason",
+      "confer"
+    ]
+  },
+  {
+    "Solresol": "domilafa",
+    "English":
+    [
+      "Rationality",
+      "reason",
+      "sense",
+      "reasonable"
+    ]
+  },
+  {
+    "Solresol": "domilasol",
+    "English":
+    [
+      "Discern",
+      "discernment",
+      "judgement",
+      "good sense",
+      "dialectic",
+      "logic",
+      "sensible",
+      "wisely",
+      "logician",
+      "judicious"
+    ]
+  },
+  {
+    "Solresol": "domilasi",
+    "English":
+    [
+      "Insight",
+      "perspicacity",
+      "sagacity",
+      "clairvoyance",
+      "discerning",
+      "sharpness"
+    ]
+  },
+  {
+    "Solresol": "domisido",
+    "English":
+    [
+      "Skill",
+      "ability",
+      "know-how",
+      "competence",
+      "clever",
+      "adroit",
+      "expert",
+      "skillful"
+    ]
+  },
+  {
+    "Solresol": "domisire",
+    "English":
+    [
+      "Pretend",
+      "claim",
+      "pretense"
+    ]
+  },
+  {
+    "Solresol": "domisimi",
+    "English":
+    [
+      "Liberate",
+      "release",
+      "free",
+      "freedom",
+      "independence"
+    ]
+  },
+  {
+    "Solresol": "domisifa",
+    "English":
+    [
+      "Energy",
+      "energetic",
+      "force"
+    ]
+  },
+  {
+    "Solresol": "domisisol",
+    "English":
+    [
+      "Firmness",
+      "stoicism",
+      "strong",
+      "unshakeable",
+      "fortitude",
+      "hardiness"
+    ]
+  },
+  {
+    "Solresol": "domisila",
+    "English":
+    [
+      "To face",
+      "confront",
+      "courage",
+      "bravery",
+      "courageous",
+      "valiant",
+      "intrepid"
+    ]
+  },
+  {
+    "Solresol": "dofadore",
+    "English":
+    [
+      "Wait",
+      "pending",
+      "expectation",
+      "until"
+    ]
+  },
+  {
+    "Solresol": "dofadomi",
+    "English":
+    [
+      "Hope"
+    ]
+  },
+  {
+    "Solresol": "dofadofa",
+    "English":
+    [
+      "Know",
+      "knowledge",
+      "cognizable"
+    ]
+  },
+  {
+    "Solresol": "dofadosol",
+    "English":
+    [
+      "Be related",
+      "related",
+      "relationships"
+    ]
+  },
+  {
+    "Solresol": "dofadola",
+    "English":
+    [
+      "Social",
+      "sociability",
+      "sociably",
+      "sociable"
+    ]
+  },
+  {
+    "Solresol": "dofadosi",
+    "English":
+    [
+      "Educate",
+      "rear (raise)",
+      "education",
+      "educated",
+      "well brought up"
+    ]
+  },
+  {
+    "Solresol": "dofaredo",
+    "English":
+    [
+      "Stinginess",
+      "parsimony",
+      "miser",
+      "sordid",
+      "squalor",
+      "scant",
+      "avarice"
+    ]
+  },
+  {
+    "Solresol": "dofaremi",
+    "English":
+    [
+      "Save",
+      "economy",
+      "savings",
+      "economic",
+      "economically"
+    ]
+  },
+  {
+    "Solresol": "dofarefa",
+    "English":
+    [
+      "Prosper",
+      "prosperity",
+      "prosperous",
+      "flourishing"
+    ]
+  },
+  {
+    "Solresol": "dofaresol",
+    "English":
+    [
+      "Be at ease",
+      "comfortable",
+      "ease",
+      "wellbeing",
+      "comfortably"
+    ]
+  },
+  {
+    "Solresol": "dofarela",
+    "English":
+    [
+      "Enrich",
+      "wealth",
+      "rich",
+      "fortune",
+      "opulence",
+      "opulent"
+    ]
+  },
+  {
+    "Solresol": "dofaresi",
+    "English":
+    [
+      "Luxury",
+      "deluxe",
+      "magnificence",
+      "sumptuous",
+      "pompous",
+      "luxurious",
+      "prosperous"
+    ]
+  },
+  {
+    "Solresol": "dofamido",
+    "English":
+    [
+      "Feelings",
+      "principles"
+    ]
+  },
+  {
+    "Solresol": "dofamire",
+    "English":
+    [
+      "Qualify",
+      "qualification",
+      "quality",
+      "attribute",
+      "qualifier"
+    ]
+  },
+  {
+    "Solresol": "dofamifa",
+    "English":
+    [
+      "Have virtue",
+      "virtue",
+      "virtuous",
+      "virtuously"
+    ]
+  },
+  {
+    "Solresol": "dofamisol",
+    "English":
+    [
+      "Wisdom",
+      "wise",
+      "sage",
+      "wisely"
+    ]
+  },
+  {
+    "Solresol": "dofamila",
+    "English":
+    [
+      "Modesty",
+      "chastity",
+      "modest",
+      "chaste"
+    ]
+  },
+  {
+    "Solresol": "dofamisi",
+    "English":
+    [
+      "Be purified",
+      "purity",
+      "sweetness",
+      "pure",
+      "sweet",
+      "intact",
+      "irreproachable",
+      "blameless"
+    ]
+  },
+  {
+    "Solresol": "dofasoldo",
+    "English":
+    [
+      "Innocence",
+      "innocent",
+      "innocently"
+    ]
+  },
+  {
+    "Solresol": "dofasolre",
+    "English":
+    [
+      "Naivety",
+      "candor",
+      "simplicity",
+      "candid",
+      "naïve",
+      "simply"
+    ]
+  },
+  {
+    "Solresol": "dofasolmi",
+    "English":
+    [
+      "To become beautiful",
+      "make oneself beautiful",
+      "beauty",
+      "lovely",
+      "pretty",
+      "beautiful"
+    ]
+  },
+  {
+    "Solresol": "dofasolfa",
+    "English":
+    [
+      "Grace",
+      "graceful",
+      "graciously"
+    ]
+  },
+  {
+    "Solresol": "dofasolla",
+    "English":
+    [
+      "Charm",
+      "enchant",
+      "attractions",
+      "charms",
+      "charming",
+      "attractive",
+      "enchanting",
+      "delightful"
+    ]
+  },
+  {
+    "Solresol": "dofasolsi",
+    "English":
+    [
+      "Truth",
+      "reality",
+      "true",
+      "veracity",
+      "truthful",
+      "real",
+      "effective",
+      "really",
+      "actually"
+    ]
+  },
+  {
+    "Solresol": "dofalado",
+    "English":
+    [
+      "Frankness",
+      "honesty",
+      "sincerity",
+      "frank",
+      "sincere",
+      "truly"
+    ]
+  },
+  {
+    "Solresol": "dofalare",
+    "English":
+    [
+      "Goodness",
+      "meekness",
+      "benignity"
+    ]
+  },
+  {
+    "Solresol": "dofalami",
+    "English":
+    [
+      "Sensitivity",
+      "impressionability",
+      "sensitive",
+      "impressionable"
+    ]
+  },
+  {
+    "Solresol": "dofalafa",
+    "English":
+    [
+      "Heartfelt",
+      "warmth",
+      "effusion",
+      "profusely"
+    ]
+  },
+  {
+    "Solresol": "dofalasol",
+    "English":
+    [
+      "Generosity",
+      "liberality",
+      "munificence",
+      "liberal",
+      "generous"
+    ]
+  },
+  {
+    "Solresol": "dofalasi",
+    "English":
+    [
+      "Humanity",
+      "helpful",
+      "humanitarian",
+      "humanly"
+    ]
+  },
+  {
+    "Solresol": "dofasido",
+    "English":
+    [
+      "Prudence",
+      "caution",
+      "carefully",
+      "circumspection"
+    ]
+  },
+  {
+    "Solresol": "dofasire",
+    "English":
+    [
+      "Predict",
+      "forecast",
+      "foresee",
+      "anticipate",
+      "foresight"
+    ]
+  },
+  {
+    "Solresol": "dofasimi",
+    "English":
+    [
+      "Discretion",
+      "discrete",
+      "reserved"
+    ]
+  },
+  {
+    "Solresol": "dofasifa",
+    "English":
+    [
+      "Consiousness",
+      "awareness",
+      "conscientous"
+    ]
+  },
+  {
+    "Solresol": "dofasisol",
+    "English":
+    [
+      "Honesty",
+      "integrity",
+      "righteousness",
+      "integrity",
+      "rectitude",
+      "incorruptibility "
+    ]
+  },
+  {
+    "Solresol": "dofasila",
+    "English":
+    [
+      "Delicacy",
+      "tact",
+      "delicate",
+      "gently"
+    ]
+  },
+  {
+    "Solresol": "dosoldore",
+    "English":
+    [
+      "Appeal",
+      "evoke"
+    ]
+  },
+  {
+    "Solresol": "dosoldomi",
+    "English":
+    [
+      "Ask",
+      "request",
+      "demand"
+    ]
+  },
+  {
+    "Solresol": "dosoldofa",
+    "English":
+    [
+      "Open",
+      "opening",
+      "ajar",
+      "gaping",
+      "opener"
+    ]
+  },
+  {
+    "Solresol": "dosoldosol",
+    "English":
+    [
+      "Enter",
+      "penetrate",
+      "entry"
+    ]
+  },
+  {
+    "Solresol": "dosoldola",
+    "English":
+    [
+      "Inside",
+      "in",
+      "internal",
+      "internally"
+    ]
+  },
+  {
+    "Solresol": "dosoldosi",
+    "English":
+    [
+      "Essence",
+      "innate",
+      "fundamentally",
+      "intrinsically",
+      "inherently"
+    ]
+  },
+  {
+    "Solresol": "dosolredo",
+    "English":
+    [
+      "Arrange",
+      "arrangement",
+      "order",
+      "ordered"
+    ]
+  },
+  {
+    "Solresol": "dosolremi",
+    "English":
+    [
+      "Experience",
+      "experienced"
+    ]
+  },
+  {
+    "Solresol": "dosolrefa",
+    "English":
+    [
+      "Regulate",
+      "regularize",
+      "rule",
+      "discipline",
+      "regularity",
+      "statute"
+    ]
+  },
+  {
+    "Solresol": "dosolresol",
+    "English":
+    [
+      "Occupy",
+      "deal with",
+      "get involved",
+      "occupation",
+      "absorbed",
+      "occupied"
+    ]
+  },
+  {
+    "Solresol": "dosolrela",
+    "English":
+    [
+      "Attribute to",
+      "attribution",
+      "attributive"
+    ]
+  },
+  {
+    "Solresol": "dosolresi",
+    "English":
+    [
+      "Accidental",
+      "by chance",
+      "fortuitous"
+    ]
+  },
+  {
+    "Solresol": "dosolmido",
+    "English":
+    [
+      "Inferiority",
+      "lower",
+      "secondary",
+      "subordinate"
+    ]
+  },
+  {
+    "Solresol": "dosolmire",
+    "English":
+    [
+      "Watch",
+      "look after",
+      "standby",
+      "vigil",
+      "watchfulness (vigilance?)"
+    ]
+  },
+  {
+    "Solresol": "dosolmifa",
+    "English":
+    [
+      "Light (verb)",
+      "turn/switch on",
+      "match",
+      "igniter",
+      "lighter"
+    ]
+  },
+  {
+    "Solresol": "dosolmisol",
+    "English":
+    [
+      "Candle",
+      "wax"
+    ]
+  },
+  {
+    "Solresol": "dosolmila",
+    "English":
+    [
+      "Gas",
+      "gasometer"
+    ]
+  },
+  {
+    "Solresol": "dosolmisi",
+    "English":
+    [
+      "Illuminate",
+      "light up",
+      "lighting",
+      "illumination",
+      "clear",
+      "well lit"
+    ]
+  },
+  {
+    "Solresol": "dosolfado",
+    "English":
+    [
+      "Guilt",
+      "culpability",
+      "guilty",
+      "culprit",
+      "reprehensible",
+      "blameworthy",
+      "reproachable",
+      "punishable"
+    ]
+  },
+  {
+    "Solresol": "dosolfare",
+    "English":
+    [
+      "Awaken",
+      "arouse",
+      "awake",
+      "wake up",
+      "alarm clock"
+    ]
+  },
+  {
+    "Solresol": "dosolfami",
+    "English":
+    [
+      "Rise",
+      "stand",
+      "get up",
+      "stand up",
+      "standing",
+      "raised",
+      "lifted",
+      "on foot"
+    ]
+  },
+  {
+    "Solresol": "dosolfasol",
+    "English":
+    [
+      "Appear",
+      "appearance"
+    ]
+  },
+  {
+    "Solresol": "dosolfala",
+    "English":
+    [
+      "Come",
+      "approach",
+      "hasten",
+      "coming"
+    ]
+  },
+  {
+    "Solresol": "dosolfasi",
+    "English":
+    [
+      "Salute",
+      "bow",
+      "greet",
+      "hello",
+      "greetings"
+    ]
+  },
+  {
+    "Solresol": "dosollado",
+    "English":
+    [
+      "Listen",
+      "hearken",
+      "lend an ear",
+      "listener",
+      "earpiece",
+      "earphone"
+    ]
+  },
+  {
+    "Solresol": "dosollare",
+    "English":
+    [
+      "Rid",
+      "unload",
+      "riddance",
+      "discharge",
+      "unloading"
+    ]
+  },
+  {
+    "Solresol": "dosollami",
+    "English":
+    [
+      "Compliment",
+      "commend",
+      "praise",
+      "congratulation",
+      "compliment",
+      "laud",
+      " laudatory"
+    ]
+  },
+  {
+    "Solresol": "dosollafa",
+    "English":
+    [
+      "Exaggerate",
+      "amplify",
+      "magnify",
+      "exaggeration",
+      "amplification"
+    ]
+  },
+  {
+    "Solresol": "dosollasol",
+    "English":
+    [
+      "Flatter",
+      "adulate",
+      "fawn",
+      "flattery",
+      "adulation",
+      "sycophancy",
+      "flattering"
+    ]
+  },
+  {
+    "Solresol": "dosollasi",
+    "English":
+    [
+      "Complacent",
+      "condescend",
+      "complacency",
+      "condescension",
+      "patronizing"
+    ]
+  },
+  {
+    "Solresol": "dosolsido",
+    "English":
+    [
+      "Advise",
+      "urge",
+      "council",
+      "exhortation",
+      "advice"
+    ]
+  },
+  {
+    "Solresol": "dosolsire",
+    "English":
+    [
+      "Remonstrate",
+      "remonstrance (Argue in protest or opposition)"
+    ]
+  },
+  {
+    "Solresol": "dosolsimi",
+    "English":
+    [
+      "Suggest",
+      "insinuate",
+      "insinuation",
+      "innuendo",
+      "allusion"
+    ]
+  },
+  {
+    "Solresol": "dosolsifa",
+    "English":
+    [
+      "Lead",
+      "guide",
+      "conduct",
+      "drive",
+      "mentor",
+      "cicerone"
+    ]
+  },
+  {
+    "Solresol": "dosolsisol",
+    "English":
+    [
+      "Take",
+      "carry",
+      "bring"
+    ]
+  },
+  {
+    "Solresol": "dosolsila",
+    "English":
+    [
+      "Hasten",
+      "rush",
+      "willingness",
+      "enthusiasm",
+      "readiness",
+      "eager"
+    ]
+  },
+  {
+    "Solresol": "doladore",
+    "English":
+    [
+      "Invite",
+      "summon",
+      "call",
+      "invitation"
+    ]
+  },
+  {
+    "Solresol": "doladomi",
+    "English":
+    [
+      "Accept",
+      "acquiesce",
+      "adhere",
+      "consent",
+      "aggree",
+      "acceptance"
+    ]
+  },
+  {
+    "Solresol": "doladofa",
+    "English":
+    [
+      "Put",
+      "lay",
+      "affix",
+      "put",
+      "set",
+      "place",
+      "apposition"
+    ]
+  },
+  {
+    "Solresol": "doladosol",
+    "English":
+    [
+      "Cover (noun)"
+    ]
+  },
+  {
+    "Solresol": "doladola",
+    "English":
+    [
+      "Table"
+    ]
+  },
+  {
+    "Solresol": "doladosi",
+    "English":
+    [
+      "Tablecloth",
+      "napkin"
+    ]
+  },
+  {
+    "Solresol": "dolaredo",
+    "English":
+    [
+      "Tableware",
+      "dishes",
+      "plate",
+      "dish",
+      "cup",
+      "vase"
+    ]
+  },
+  {
+    "Solresol": "dolaremi",
+    "English":
+    [
+      "Fork; also slang: 'to be right'"
+    ]
+  },
+  {
+    "Solresol": "dolarefa",
+    "English":
+    [
+      "Spoon",
+      "scoop",
+      "spoonful"
+    ]
+  },
+  {
+    "Solresol": "dolaresol",
+    "English":
+    [
+      "Cup",
+      "glass",
+      "goblet",
+      "mug",
+      "beaker"
+    ]
+  },
+  {
+    "Solresol": "dolarela",
+    "English":
+    [
+      "Bottle",
+      "jar",
+      "carafe",
+      "flask"
+    ]
+  },
+  {
+    "Solresol": "dolaresi",
+    "English":
+    [
+      "Wine",
+      "champagne",
+      "&c."
+    ]
+  },
+  {
+    "Solresol": "dolamido",
+    "English":
+    [
+      "Silence",
+      "shut up",
+      "hush",
+      "taciturn",
+      "silently"
+    ]
+  },
+  {
+    "Solresol": "dolamire",
+    "English":
+    [
+      "Water",
+      "wet"
+    ]
+  },
+  {
+    "Solresol": "dolamifa",
+    "English":
+    [
+      "Thirsty",
+      "thirst",
+      "parched"
+    ]
+  },
+  {
+    "Solresol": "dolamisol",
+    "English":
+    [
+      "Drink",
+      "drinker"
+    ]
+  },
+  {
+    "Solresol": "dolamila",
+    "English":
+    [
+      "Hunger",
+      "appetite",
+      "starvation"
+    ]
+  },
+  {
+    "Solresol": "dolamisi",
+    "English":
+    [
+      "Eat",
+      "eating",
+      "eater",
+      "eatable"
+    ]
+  },
+  {
+    "Solresol": "dolafado",
+    "English":
+    [
+      "Hide",
+      "conceal",
+      "dissimulate",
+      "sneaky"
+    ]
+  },
+  {
+    "Solresol": "dolafare",
+    "English":
+    [
+      "Feed",
+      "nourish",
+      "food",
+      "substantial",
+      "nourishing",
+      "feeder",
+      "nurse"
+    ]
+  },
+  {
+    "Solresol": "dolafami",
+    "English":
+    [
+      "Soup",
+      "broth"
+    ]
+  },
+  {
+    "Solresol": "dolafasol",
+    "English":
+    [
+      "Pasta",
+      "macaroni",
+      "vermicelli",
+      "&c."
+    ]
+  },
+  {
+    "Solresol": "dolafala",
+    "English":
+    [
+      "Bread",
+      "loaf",
+      "crumb",
+      "crust"
+    ]
+  },
+  {
+    "Solresol": "dolafasi",
+    "English":
+    [
+      "Fish",
+      "oysters",
+      "eels",
+      "salmon"
+    ]
+  },
+  {
+    "Solresol": "dolasoldo",
+    "English":
+    [
+      "Meat",
+      "steak",
+      "beef"
+    ]
+  },
+  {
+    "Solresol": "dolasolre",
+    "English":
+    [
+      "Roast",
+      "roasting",
+      "toast",
+      "grill",
+      "broil"
+    ]
+  },
+  {
+    "Solresol": "dolasolmi",
+    "English":
+    [
+      "Poultry",
+      "pigeon",
+      "chicken",
+      "duck",
+      "turkey"
+    ]
+  },
+  {
+    "Solresol": "dolasolfa",
+    "English":
+    [
+      "Game (food)",
+      "partridge",
+      "hare",
+      "roe"
+    ]
+  },
+  {
+    "Solresol": "dolasolla",
+    "English":
+    [
+      "Pastry",
+      "cake",
+      "meringue",
+      "pie"
+    ]
+  },
+  {
+    "Solresol": "dolasolsi",
+    "English":
+    [
+      "Pork",
+      "ham"
+    ]
+  },
+  {
+    "Solresol": "dolasido",
+    "English":
+    [
+      "Salt",
+      "salted",
+      "salting",
+      "salt shaker"
+    ]
+  },
+  {
+    "Solresol": "dolasire",
+    "English":
+    [
+      "Pepper",
+      "spice",
+      "pepper shaker"
+    ]
+  },
+  {
+    "Solresol": "dolasimi",
+    "English":
+    [
+      "Vinegar",
+      "add vinegar",
+      "vinaigrette"
+    ]
+  },
+  {
+    "Solresol": "dolasifa",
+    "English":
+    [
+      "North",
+      "northern",
+      "northward"
+    ]
+  },
+  {
+    "Solresol": "dolasisol",
+    "English":
+    [
+      "Oil",
+      "oily",
+      "oil dispenser",
+      "lubricate"
+    ]
+  },
+  {
+    "Solresol": "dolasila",
+    "English":
+    [
+      "Mustard"
+    ]
+  },
+  {
+    "Solresol": "dosidore",
+    "English":
+    [
+      "Suffice",
+      "sufficiency",
+      "sufficient",
+      "enough",
+      "necessary"
+    ]
+  },
+  {
+    "Solresol": "dosidomi",
+    "English":
+    [
+      "Vegetables",
+      "peas",
+      "asparagus",
+      "spinach",
+      "artichokes"
+    ]
+  },
+  {
+    "Solresol": "dosidofa",
+    "English":
+    [
+      "Salad",
+      "lettuce"
+    ]
+  },
+  {
+    "Solresol": "dosidosol",
+    "English":
+    [
+      "Season",
+      "flavor",
+      "dress",
+      "seasoning",
+      "dressing"
+    ]
+  },
+  {
+    "Solresol": "dosidola",
+    "English":
+    [
+      "Juice",
+      "sauce",
+      "juicy"
+    ]
+  },
+  {
+    "Solresol": "dosidosi",
+    "English":
+    [
+      "Eggs",
+      "egg shell",
+      "omelette"
+    ]
+  },
+  {
+    "Solresol": "dosiredo",
+    "English":
+    [
+      "Dairy",
+      "milk",
+      "cream",
+      "creamy",
+      "dairyman"
+    ]
+  },
+  {
+    "Solresol": "dosiremi",
+    "English":
+    [
+      "Butter"
+    ]
+  },
+  {
+    "Solresol": "dosirefa",
+    "English":
+    [
+      "Cheese"
+    ]
+  },
+  {
+    "Solresol": "dosiresol",
+    "English":
+    [
+      "Dessert",
+      "hazelnuts",
+      "nuts",
+      "almonds",
+      "chestnuts",
+      "walnuts"
+    ]
+  },
+  {
+    "Solresol": "dosirela",
+    "English":
+    [
+      "Fruit",
+      "strawberries",
+      "raspberries",
+      "currants",
+      "cherries"
+    ]
+  },
+  {
+    "Solresol": "dosiresi",
+    "English":
+    [
+      "Fruit",
+      "grapes",
+      "peaches",
+      "pears",
+      "apples",
+      "plums"
+    ]
+  },
+  {
+    "Solresol": "dosimido",
+    "English":
+    [
+      "Inability",
+      "awkwardness",
+      "clumsiness",
+      "incompetence",
+      "clumsy"
+    ]
+  },
+  {
+    "Solresol": "dosimire",
+    "English":
+    [
+      "Pour",
+      "spill"
+    ]
+  },
+  {
+    "Solresol": "dosimifa",
+    "English":
+    [
+      "Liquors"
+    ]
+  },
+  {
+    "Solresol": "dosimisol",
+    "English":
+    [
+      "Spirits",
+      "alcohol",
+      "brandy",
+      "rum",
+      "absinthe"
+    ]
+  },
+  {
+    "Solresol": "dosimila",
+    "English":
+    [
+      "Withdraw",
+      "disengage",
+      "retract",
+      "withdrawal"
+    ]
+  },
+  {
+    "Solresol": "dosimisi",
+    "English":
+    [
+      "Drunk",
+      "get drunk",
+      "drunkenness",
+      "drunkard"
+    ]
+  },
+  {
+    "Solresol": "dosifado",
+    "English":
+    [
+      "Imprudence",
+      "temerity",
+      "recklessness",
+      "rashness",
+      "indiscretion"
+    ]
+  },
+  {
+    "Solresol": "dosifare",
+    "English":
+    [
+      "Beer",
+      "wing",
+      "wear"
+    ]
+  },
+  {
+    "Solresol": "dosifami",
+    "English":
+    [
+      "Refresh",
+      "refreshing"
+    ]
+  },
+  {
+    "Solresol": "dosifasol",
+    "English":
+    [
+      "Café",
+      "coffee shop"
+    ]
+  },
+  {
+    "Solresol": "dosifala",
+    "English":
+    [
+      "Tea",
+      "teapot"
+    ]
+  },
+  {
+    "Solresol": "dosifasi",
+    "English":
+    [
+      "Sweeten",
+      "sugar",
+      "candy"
+    ]
+  },
+  {
+    "Solresol": "dosisoldo",
+    "English":
+    [
+      "Chocolate",
+      "cocoa"
+    ]
+  },
+  {
+    "Solresol": "dosisolre",
+    "English":
+    [
+      "Uselessness",
+      "redundancy",
+      "superfluous",
+      "useless",
+      "in vain"
+    ]
+  },
+  {
+    "Solresol": "dosisolmi",
+    "English":
+    [
+      "Meal",
+      "feast",
+      "banquet",
+      "lunch",
+      "dinner",
+      "supper"
+    ]
+  },
+  {
+    "Solresol": "dosisolfa",
+    "English":
+    [
+      "Cook",
+      "cooking",
+      "kitchen",
+      "of the kitchen"
+    ]
+  },
+  {
+    "Solresol": "dosisolla",
+    "English":
+    [
+      "Provide",
+      "supply",
+      "fill",
+      "supplies",
+      "provisions",
+      "provider"
+    ]
+  },
+  {
+    "Solresol": "dosisolsi",
+    "English":
+    [
+      "Food",
+      "edible"
+    ]
+  },
+  {
+    "Solresol": "dosilado",
+    "English":
+    [
+      "Fragment",
+      "cutting",
+      "piece",
+      "bit",
+      "slice"
+    ]
+  },
+  {
+    "Solresol": "dosilare",
+    "English":
+    [
+      "Empty",
+      "void",
+      "dry",
+      "blank"
+    ]
+  },
+  {
+    "Solresol": "dosilami",
+    "English":
+    [
+      "Appetizer",
+      "hors d'oeuvres"
+    ]
+  },
+  {
+    "Solresol": "dosilafa",
+    "English":
+    [
+      "Reserve",
+      "keep",
+      "book",
+      "conserve",
+      "reserved",
+      "conservative"
+    ]
+  },
+  {
+    "Solresol": "dosilasol",
+    "English":
+    [
+      "Buffet"
+    ]
+  },
+  {
+    "Solresol": "dosilasi",
+    "English":
+    [
+      "Pantry"
+    ]
+  },
+  {
+    "Solresol": "redoredo",
+    "English":
+    [
+      "Clothes",
+      "outfit",
+      "effects"
+    ]
+  },
+  {
+    "Solresol": "redoremi",
+    "English":
+    [
+      "Generalize",
+      "universalize",
+      "make common",
+      "generality",
+      "universality",
+      "general",
+      "universal",
+      "generally",
+      "in general"
+    ]
+  },
+  {
+    "Solresol": "redorefa",
+    "English":
+    [
+      "Shirt"
+    ]
+  },
+  {
+    "Solresol": "redoresol",
+    "English":
+    [
+      "Sock",
+      "stocking"
+    ]
+  },
+  {
+    "Solresol": "redorela",
+    "English":
+    [
+      "Shoes",
+      "boots",
+      "slippers"
+    ]
+  },
+  {
+    "Solresol": "redoresi",
+    "English":
+    [
+      "Pants",
+      "knickers",
+      "breeches"
+    ]
+  },
+  {
+    "Solresol": "redomido",
+    "English":
+    [
+      "Wash oneself",
+      "clean",
+      "lather",
+      "ablution",
+      "soap"
+    ]
+  },
+  {
+    "Solresol": "redomire",
+    "English":
+    [
+      "Shave",
+      "razor"
+    ]
+  },
+  {
+    "Solresol": "redomifa",
+    "English":
+    [
+      "Mirror",
+      "to be reflected",
+      "to look at oneself in a mirror"
+    ]
+  },
+  {
+    "Solresol": "redomisol",
+    "English":
+    [
+      "Comb oneself",
+      "comb"
+    ]
+  },
+  {
+    "Solresol": "redomila",
+    "English":
+    [
+      "Decrease",
+      "subtract",
+      "deduct",
+      "mitigate",
+      "reduce",
+      "discounts",
+      "reduction"
+    ]
+  },
+  {
+    "Solresol": "redomisi",
+    "English":
+    [
+      "Style hair",
+      "coif",
+      "hairdresser",
+      "wigmaker",
+      "wig"
+    ]
+  },
+  {
+    "Solresol": "redofado",
+    "English":
+    [
+      "Unexpected",
+      "surprising",
+      "unlooked for",
+      "unforeseen",
+      "unexpectedly"
+    ]
+  },
+  {
+    "Solresol": "redofare",
+    "English":
+    [
+      "Move",
+      "dislodge",
+      "displace",
+      "moving"
+    ]
+  },
+  {
+    "Solresol": "redofami",
+    "English":
+    [
+      "Tie",
+      "necktie",
+      "scarf"
+    ]
+  },
+  {
+    "Solresol": "redofasol",
+    "English":
+    [
+      "Vest",
+      "camisole"
+    ]
+  },
+  {
+    "Solresol": "redofala",
+    "English":
+    [
+      "Button",
+      "buttonhole"
+    ]
+  },
+  {
+    "Solresol": "redofasi",
+    "English":
+    [
+      "Clothe",
+      "dress (v)",
+      "dress up",
+      "clothing",
+      "apparel",
+      "costume",
+      "suit"
+    ]
+  },
+  {
+    "Solresol": "redosoldo",
+    "English":
+    [
+      "Coat",
+      "overcoat",
+      "cloak",
+      "jacket"
+    ]
+  },
+  {
+    "Solresol": "redosolre",
+    "English":
+    [
+      "Garnish",
+      "trim",
+      "trimmed",
+      "lined"
+    ]
+  },
+  {
+    "Solresol": "redosolmi",
+    "English":
+    [
+      "Fur"
+    ]
+  },
+  {
+    "Solresol": "redosolfa",
+    "English":
+    [
+      "Glove",
+      "gloves",
+      "mittens"
+    ]
+  },
+  {
+    "Solresol": "redosolsi",
+    "English":
+    [
+      "Umbrella",
+      "parasol"
+    ]
+  },
+  {
+    "Solresol": "redolado",
+    "English":
+    [
+      "Toilet",
+      "toiletries",
+      "personal grooming",
+      "wash"
+    ]
+  },
+  {
+    "Solresol": "redolare",
+    "English":
+    [
+      "Corset",
+      "bodice"
+    ]
+  },
+  {
+    "Solresol": "redolami",
+    "English":
+    [
+      "Lace"
+    ]
+  },
+  {
+    "Solresol": "redolafa",
+    "English":
+    [
+      "Skirt",
+      "underskirt"
+    ]
+  },
+  {
+    "Solresol": "redolasol",
+    "English":
+    [
+      "Dress (n)",
+      "robe"
+    ]
+  },
+  {
+    "Solresol": "redolasi",
+    "English":
+    [
+      "Inevitable",
+      "unavoidable",
+      "immenent",
+      "inevitably"
+    ]
+  },
+  {
+    "Solresol": "redosido",
+    "English":
+    [
+      "Insufficiency",
+      "inadequacy",
+      "inufficient",
+      "not enough"
+    ]
+  },
+  {
+    "Solresol": "redosire",
+    "English":
+    [
+      "Adorn",
+      "decorate",
+      "embelish",
+      "prettify",
+      "ornament",
+      "embellishment"
+    ]
+  },
+  {
+    "Solresol": "redosimi",
+    "English":
+    [
+      "Invisibility",
+      "imperceptibility",
+      "invisible",
+      "imperceptible",
+      "unseen"
+    ]
+  },
+  {
+    "Solresol": "redosifa",
+    "English":
+    [
+      "Ring",
+      "marriage ring"
+    ]
+  },
+  {
+    "Solresol": "redosisol",
+    "English":
+    [
+      "Bracelet",
+      "wristband"
+    ]
+  },
+  {
+    "Solresol": "redosila",
+    "English":
+    [
+      "Glasses",
+      "eyeglasses",
+      "spectacles"
+    ]
+  },
+  {
+    "Solresol": "remidore",
+    "English":
+    [
+      "Shawl",
+      "scarf"
+    ]
+  },
+  {
+    "Solresol": "remidomi",
+    "English":
+    [
+      "Depositary (Bank? Lockbox?)"
+    ]
+  },
+  {
+    "Solresol": "remidofa",
+    "English":
+    [
+      "Brooch",
+      "clasp",
+      "pin"
+    ]
+  },
+  {
+    "Solresol": "remidosol",
+    "English":
+    [
+      "Hat",
+      "cap",
+      "hood",
+      "bonnet"
+    ]
+  },
+  {
+    "Solresol": "remidola",
+    "English":
+    [
+      "Mask",
+      "veil",
+      "veiled"
+    ]
+  },
+  {
+    "Solresol": "remidosi",
+    "English":
+    [
+      "Elegance",
+      "elegant",
+      "elegantly"
+    ]
+  },
+  {
+    "Solresol": "remiredo",
+    "English":
+    [
+      "Walk",
+      "trot",
+      "march",
+      "hike",
+      "walker",
+      "hiker"
+    ]
+  },
+  {
+    "Solresol": "remiremi",
+    "English":
+    [
+      "Walk",
+      "stroll",
+      "wander",
+      "promenade"
+    ]
+  },
+  {
+    "Solresol": "remirefa",
+    "English":
+    [
+      "Car",
+      "carriage",
+      "coupe",
+      "bus"
+    ]
+  },
+  {
+    "Solresol": "remiresol",
+    "English":
+    [
+      "Visit",
+      "tour",
+      "visitor",
+      "guest"
+    ]
+  },
+  {
+    "Solresol": "remirela",
+    "English":
+    [
+      "Ticket",
+      "entry card"
+    ]
+  },
+  {
+    "Solresol": "remiresi",
+    "English":
+    [
+      "The world",
+      "society",
+      "worldly",
+      "mundane"
+    ]
+  },
+  {
+    "Solresol": "remifado",
+    "English":
+    [
+      "Defect",
+      "defective",
+      "fault"
+    ]
+  },
+  {
+    "Solresol": "remifare",
+    "English":
+    [
+      "Property",
+      "domain",
+      "owner"
+    ]
+  },
+  {
+    "Solresol": "remifami",
+    "English":
+    [
+      "Concierge",
+      "porter",
+      "janitor",
+      "caretaker",
+      "doorman",
+      "gatekeeper"
+    ]
+  },
+  {
+    "Solresol": "remifasol",
+    "English":
+    [
+      "Rent",
+      "rental",
+      "lease",
+      "renter"
+    ]
+  },
+  {
+    "Solresol": "remifala",
+    "English":
+    [
+      "Home",
+      "house",
+      "hut",
+      "cottage",
+      "hotel"
+    ]
+  },
+  {
+    "Solresol": "remifasi",
+    "English":
+    [
+      "Live",
+      "reside",
+      "housing",
+      "residence",
+      "inhabitant",
+      "resident",
+      "at home",
+      "residential"
+    ]
+  },
+  {
+    "Solresol": "remisoldo",
+    "English":
+    [
+      "Sleep",
+      "fall asleep",
+      "doze",
+      "drowsiness",
+      "sleeper",
+      "asleep",
+      "dormant"
+    ]
+  },
+  {
+    "Solresol": "remisolre",
+    "English":
+    [
+      "Vestibule",
+      "lobby",
+      "hall",
+      "threshold"
+    ]
+  },
+  {
+    "Solresol": "remisolmi",
+    "English":
+    [
+      "Door",
+      "gate"
+    ]
+  },
+  {
+    "Solresol": "remisolfa",
+    "English":
+    [
+      "Antechamber"
+    ]
+  },
+  {
+    "Solresol": "remisolla",
+    "English":
+    [
+      "Room",
+      "lounge",
+      "dining room"
+    ]
+  },
+  {
+    "Solresol": "remisolsi",
+    "English":
+    [
+      "Office"
+    ]
+  },
+  {
+    "Solresol": "remilado",
+    "English":
+    [
+      "Bedroom",
+      "sleeping room"
+    ]
+  },
+  {
+    "Solresol": "remilare",
+    "English":
+    [
+      "Fireplace",
+      "chimney",
+      "hearth",
+      "flue"
+    ]
+  },
+  {
+    "Solresol": "remilami",
+    "English":
+    [
+      "Lamp",
+      "torch",
+      "chandelier",
+      "lamppost",
+      "candlestick",
+      "light",
+      "beacon"
+    ]
+  },
+  {
+    "Solresol": "remilafa",
+    "English":
+    [
+      "Window"
+    ]
+  },
+  {
+    "Solresol": "remilasol",
+    "English":
+    [
+      "Shutters",
+      "blinds",
+      "lattice"
+    ]
+  },
+  {
+    "Solresol": "remilasi",
+    "English":
+    [
+      "Balcony",
+      "balustrade",
+      "railing"
+    ]
+  },
+  {
+    "Solresol": "remisido",
+    "English":
+    [
+      "Cellar",
+      "vault"
+    ]
+  },
+  {
+    "Solresol": "remisire",
+    "English":
+    [
+      "Cask",
+      "barrel"
+    ]
+  },
+  {
+    "Solresol": "remisimi",
+    "English":
+    [
+      "Ground floor",
+      "first floor"
+    ]
+  },
+  {
+    "Solresol": "remisifa",
+    "English":
+    [
+      "Dally",
+      "dawdle",
+      "linger",
+      "slow",
+      "stragglers",
+      "slowpoke",
+      "slowly"
+    ]
+  },
+  {
+    "Solresol": "remisisol",
+    "English":
+    [
+      "Staircase",
+      "stairs",
+      "steps",
+      "step"
+    ]
+  },
+  {
+    "Solresol": "remisila",
+    "English":
+    [
+      "Floor (1st",
+      "2nd",
+      "3rd…)"
+    ]
+  },
+  {
+    "Solresol": "refadore",
+    "English":
+    [
+      "Move in",
+      "install"
+    ]
+  },
+  {
+    "Solresol": "refadomi",
+    "English":
+    [
+      "Furniture",
+      "furnishings"
+    ]
+  },
+  {
+    "Solresol": "refadofa",
+    "English":
+    [
+      "Household"
+    ]
+  },
+  {
+    "Solresol": "refadosol",
+    "English":
+    [
+      "Furniture",
+      "chest of drawers",
+      "wardrobe"
+    ]
+  },
+  {
+    "Solresol": "refadola",
+    "English":
+    [
+      "Drawer"
+    ]
+  },
+  {
+    "Solresol": "refadosi",
+    "English":
+    [
+      "Library",
+      "librarian"
+    ]
+  },
+  {
+    "Solresol": "refaredo",
+    "English":
+    [
+      "Closet",
+      "wardrobe",
+      "cabinet",
+      "cupboard"
+    ]
+  },
+  {
+    "Solresol": "refaremi",
+    "English":
+    [
+      "Seat",
+      "bench",
+      "chair",
+      "sofa"
+    ]
+  },
+  {
+    "Solresol": "refarefa",
+    "English":
+    [
+      "Sit",
+      "seated",
+      "sitting"
+    ]
+  },
+  {
+    "Solresol": "refaresol",
+    "English":
+    [
+      "Bed",
+      "cradle",
+      "hammock"
+    ]
+  },
+  {
+    "Solresol": "refarela",
+    "English":
+    [
+      "Bedding",
+      "mattress",
+      "featherbed",
+      "pillow"
+    ]
+  },
+  {
+    "Solresol": "refaresi",
+    "English":
+    [
+      "Curtains",
+      "drapes"
+    ]
+  },
+  {
+    "Solresol": "refamido",
+    "English":
+    [
+      "Die",
+      "pass away",
+      "death",
+      "mortality",
+      "fatally"
+    ]
+  },
+  {
+    "Solresol": "refamire",
+    "English":
+    [
+      "Stove",
+      "radiator",
+      "furnace",
+      "oven"
+    ]
+  },
+  {
+    "Solresol": "refamifa",
+    "English":
+    [
+      "Fire tongs",
+      "utensiles for a fire",
+      "andiron"
+    ]
+  },
+  {
+    "Solresol": "refamisol",
+    "English":
+    [
+      "Breathe",
+      "blow",
+      "puff"
+    ]
+  },
+  {
+    "Solresol": "refamila",
+    "English":
+    [
+      "Fuel",
+      "heating",
+      "wood",
+      "log",
+      "pyre"
+    ]
+  },
+  {
+    "Solresol": "refamisi",
+    "English":
+    [
+      "Coal",
+      "embers"
+    ]
+  },
+  {
+    "Solresol": "refasoldo",
+    "English":
+    [
+      "Fire",
+      "furnace",
+      "incendiary"
+    ]
+  },
+  {
+    "Solresol": "refasolre",
+    "English":
+    [
+      "Burn",
+      "kindle",
+      "consume (as in fire)",
+      "burning"
+    ]
+  },
+  {
+    "Solresol": "refasolmi",
+    "English":
+    [
+      "Twinkle",
+      "sparkle",
+      "scintillate",
+      "blaze",
+      "flame",
+      "flamboyant",
+      "blazing"
+    ]
+  },
+  {
+    "Solresol": "refasolfa",
+    "English":
+    [
+      "Pacify",
+      "calme",
+      "peace",
+      "amity",
+      "peacemaker",
+      "peaceful",
+      "peacefully"
+    ]
+  },
+  {
+    "Solresol": "refasolla",
+    "English":
+    [
+      "Chauffeur",
+      "driver"
+    ]
+  },
+  {
+    "Solresol": "refasolsi",
+    "English":
+    [
+      "Hearth",
+      "fireplace",
+      "firebox"
+    ]
+  },
+  {
+    "Solresol": "refalado",
+    "English":
+    [
+      "Rag",
+      "dishtowel",
+      "apron",
+      "pillowcase",
+      "sheet"
+    ]
+  },
+  {
+    "Solresol": "refalare",
+    "English":
+    [
+      "Tear (v)",
+      "snag",
+      "torn",
+      "ragged",
+      "sparce",
+      "in pieces",
+      "tattered"
+    ]
+  },
+  {
+    "Solresol": "refalami",
+    "English":
+    [
+      "Mend",
+      "patch",
+      "mending",
+      "mender"
+    ]
+  },
+  {
+    "Solresol": "refalafa",
+    "English":
+    [
+      "Sew",
+      "sewing",
+      "seamstress"
+    ]
+  },
+  {
+    "Solresol": "refalasol",
+    "English":
+    [
+      "Border",
+      "edge"
+    ]
+  },
+  {
+    "Solresol": "refalasi",
+    "English":
+    [
+      "Embroider",
+      "embroidery",
+      "embroiderer"
+    ]
+  },
+  {
+    "Solresol": "refasido",
+    "English":
+    [
+      "Thimble"
+    ]
+  },
+  {
+    "Solresol": "refasire",
+    "English":
+    [
+      "Case",
+      "cover",
+      "sheath",
+      "box"
+    ]
+  },
+  {
+    "Solresol": "refasimi",
+    "English":
+    [
+      "Needles",
+      "pins"
+    ]
+  },
+  {
+    "Solresol": "refasifa",
+    "English":
+    [
+      "Chisel",
+      "cut",
+      "carving",
+      "scissors"
+    ]
+  },
+  {
+    "Solresol": "refasisol",
+    "English":
+    [
+      "Cut",
+      "knife",
+      "cutter",
+      "cutting",
+      "sharp"
+    ]
+  },
+  {
+    "Solresol": "refasila",
+    "English":
+    [
+      "Work",
+      "worker"
+    ]
+  },
+  {
+    "Solresol": "resoldore",
+    "English":
+    [
+      "Pouch",
+      "backpack",
+      "knapsack",
+      "bag"
+    ]
+  },
+  {
+    "Solresol": "resoldomi",
+    "English":
+    [
+      "Convenience",
+      "ease",
+      "convenient",
+      "conveniently"
+    ]
+  },
+  {
+    "Solresol": "resoldofa",
+    "English":
+    [
+      "Hide",
+      "bury",
+      "stash",
+      "cache",
+      "hidden",
+      "occult",
+      "stealthy",
+      "secretly"
+    ]
+  },
+  {
+    "Solresol": "resoldosol",
+    "English":
+    [
+      "Wallet",
+      "purse"
+    ]
+  },
+  {
+    "Solresol": "resoldola",
+    "English":
+    [
+      "Contain",
+      "include",
+      "containing",
+      "capacity"
+    ]
+  },
+  {
+    "Solresol": "resoldosi",
+    "English":
+    [
+      "Spend",
+      "expenditure",
+      "fees",
+      "disburse",
+      "liabilities",
+      "state of spending"
+    ]
+  },
+  {
+    "Solresol": "resolredo",
+    "English":
+    [
+      "Master",
+      "boss"
+    ]
+  },
+  {
+    "Solresol": "resolremi",
+    "English":
+    [
+      "Order",
+      "command",
+      "precept "
+    ]
+  },
+  {
+    "Solresol": "resolrefa",
+    "English":
+    [
+      "Send",
+      "dispatch",
+      "sending",
+      "ship (v.)",
+      "shipment"
+    ]
+  },
+  {
+    "Solresol": "resolresol",
+    "English":
+    [
+      "Dismiss",
+      "leave",
+      "vacant",
+      "dismissal"
+    ]
+  },
+  {
+    "Solresol": "resolrela",
+    "English":
+    [
+      "Develop",
+      "improve",
+      "development"
+    ]
+  },
+  {
+    "Solresol": "resolresi",
+    "English":
+    [
+      "Remove",
+      "dismiss",
+      "removal",
+      "dismissal",
+      "resignation"
+    ]
+  },
+  {
+    "Solresol": "resolmido",
+    "English":
+    [
+      "Impotence",
+      "powerlessness",
+      "helplessness",
+      "impotent",
+      "without authority",
+      "without influence"
+    ]
+  },
+  {
+    "Solresol": "resolmire",
+    "English":
+    [
+      "Sweep",
+      "broom",
+      "sweeper",
+      "sweeping"
+    ]
+  },
+  {
+    "Solresol": "resolmisol",
+    "English":
+    [
+      "Brush",
+      "dust (v.)"
+    ]
+  },
+  {
+    "Solresol": "resolmisi",
+    "English":
+    [
+      "Clean",
+      "scrub",
+      "degrease",
+      "make clean",
+      "detach",
+      "scour",
+      "cleaning",
+      "cleanliness"
+    ]
+  },
+  {
+    "Solresol": "resolfado",
+    "English":
+    [
+      "Cunning",
+      "do tricks",
+      "ruse",
+      "subterfuge",
+      "stratagem",
+      "crafty",
+      "artful",
+      "sly"
+    ]
+  },
+  {
+    "Solresol": "resolfare",
+    "English":
+    [
+      "Bathe",
+      "bath",
+      "bather"
+    ]
+  },
+  {
+    "Solresol": "resolfami",
+    "English":
+    [
+      "Timidity",
+      "shy",
+      "apprehensive",
+      "fearful",
+      "tentative",
+      "timidly"
+    ]
+  },
+  {
+    "Solresol": "resolfasol",
+    "English":
+    [
+      "Nudity",
+      "naked",
+      "bare",
+      "strip"
+    ]
+  },
+  {
+    "Solresol": "resolfala",
+    "English":
+    [
+      "Mop",
+      "wipe",
+      "sponge"
+    ]
+  },
+  {
+    "Solresol": "resolfasi",
+    "English":
+    [
+      "Rub",
+      "massage "
+    ]
+  },
+  {
+    "Solresol": "resollado",
+    "English":
+    [
+      "To get tired",
+      "grow weary",
+      "fatigue",
+      "weariness",
+      "dejection",
+      "tired",
+      "overwhelmed",
+      "tiring"
+    ]
+  },
+  {
+    "Solresol": "resollare",
+    "English":
+    [
+      "Undress"
+    ]
+  },
+  {
+    "Solresol": "resollami",
+    "English":
+    [
+      "Lie down",
+      "stretch",
+      "lying down"
+    ]
+  },
+  {
+    "Solresol": "resollafa",
+    "English":
+    [
+      "To cover",
+      "shelter",
+      "coverage",
+      "cover",
+      "sheltered",
+      "covered"
+    ]
+  },
+  {
+    "Solresol": "resollasol",
+    "English":
+    [
+      "Rest",
+      "relax",
+      "repose"
+    ]
+  },
+  {
+    "Solresol": "resollasi",
+    "English":
+    [
+      "Dream",
+      "dreaming",
+      "dreamy",
+      "reverie"
+    ]
+  },
+  {
+    "Solresol": "resolsido",
+    "English":
+    [
+      "Need",
+      "require",
+      "necessary",
+      "useful",
+      "indispensable",
+      "utile"
+    ]
+  },
+  {
+    "Solresol": "resolsire",
+    "English":
+    [
+      "Work",
+      "task",
+      "worker",
+      "travail",
+      "laborious",
+      "laboriously"
+    ]
+  },
+  {
+    "Solresol": "resolsimi",
+    "English":
+    [
+      "Practice",
+      "exercise",
+      "practicability",
+      "practitioner",
+      "practicable",
+      "executable"
+    ]
+  },
+  {
+    "Solresol": "resolsifa",
+    "English":
+    [
+      "Business",
+      "occupation",
+      "profession",
+      "career",
+      "worker",
+      "craftsman"
+    ]
+  },
+  {
+    "Solresol": "resolsisol",
+    "English":
+    [
+      "Book",
+      "work"
+    ]
+  },
+  {
+    "Solresol": "resolsila",
+    "English":
+    [
+      "Become accustomed",
+      "accustom",
+      "familiarize",
+      "habit",
+      "usage",
+      "custom",
+      "routine",
+      "familiar",
+      "habitual"
+    ]
+  },
+  {
+    "Solresol": "reladore",
+    "English":
+    [
+      "Wash",
+      "launder",
+      "bleach",
+      "laundry",
+      "launderer"
+    ]
+  },
+  {
+    "Solresol": "reladomi",
+    "English":
+    [
+      "Starch",
+      "stiffen",
+      "starched",
+      "stiffness"
+    ]
+  },
+  {
+    "Solresol": "reladofa",
+    "English":
+    [
+      "Iron (v)",
+      "ironing",
+      "ironer"
+    ]
+  },
+  {
+    "Solresol": "reladosol",
+    "English":
+    [
+      "Wrinkle",
+      "crease",
+      "pleate",
+      "fold"
+    ]
+  },
+  {
+    "Solresol": "reladola",
+    "English":
+    [
+      "Chains",
+      "shackles",
+      "irons"
+    ]
+  },
+  {
+    "Solresol": "reladosi",
+    "English":
+    [
+      "Sharpen",
+      "whet",
+      "hone",
+      ""
+    ]
+  },
+  {
+    "Solresol": "relaredo",
+    "English":
+    [
+      "Crack",
+      "split",
+      "slot",
+      "crevasse",
+      "cracked"
+    ]
+  },
+  {
+    "Solresol": "relaremi",
+    "English":
+    [
+      "Break",
+      "brittle",
+      "fragile",
+      "fragility"
+    ]
+  },
+  {
+    "Solresol": "relarefa",
+    "English":
+    [
+      "Break",
+      "smash",
+      "brokenness",
+      "breaker",
+      "broken"
+    ]
+  },
+  {
+    "Solresol": "relaresol",
+    "English":
+    [
+      "Nail",
+      "pin",
+      "point",
+      "sharp",
+      "piercing",
+      "acute"
+    ]
+  },
+  {
+    "Solresol": "relarela",
+    "English":
+    [
+      "Drill",
+      "bore",
+      "awl",
+      "perforate"
+    ]
+  },
+  {
+    "Solresol": "relaresi",
+    "English":
+    [
+      "Dig",
+      "make holes",
+      "excavate",
+      "hole",
+      "cavity",
+      "hollow"
+    ]
+  },
+  {
+    "Solresol": "relamido",
+    "English":
+    [
+      "Stutter",
+      "mumble",
+      "stammer"
+    ]
+  },
+  {
+    "Solresol": "relamire",
+    "English":
+    [
+      "Neighborhood",
+      "vicinity",
+      "close",
+      "neighborly",
+      "neighbor"
+    ]
+  },
+  {
+    "Solresol": "relamifa",
+    "English":
+    [
+      "Strike",
+      "hit",
+      "impact",
+      "blow"
+    ]
+  },
+  {
+    "Solresol": "relamisol",
+    "English":
+    [
+      "Agitate",
+      "shake",
+      "give motion",
+      "agitation",
+      "jerk",
+      "concussion"
+    ]
+  },
+  {
+    "Solresol": "relamila",
+    "English":
+    [
+      "Cheap",
+      "inexpensive",
+      "a good deal"
+    ]
+  },
+  {
+    "Solresol": "relamisi",
+    "English":
+    [
+      "Ring",
+      "tinkle",
+      "peal",
+      "chime",
+      "bell",
+      "tintinnabulation",
+      "doorbell"
+    ]
+  },
+  {
+    "Solresol": "relafado",
+    "English":
+    [
+      "Malignancy",
+      "wickedness",
+      "darkness",
+      "mischievous",
+      "wicked",
+      "maliciously",
+      "nastily"
+    ]
+  },
+  {
+    "Solresol": "relafare",
+    "English":
+    [
+      "Bend",
+      "stoop",
+      "curvature",
+      "curve",
+      "bent"
+    ]
+  },
+  {
+    "Solresol": "relafami",
+    "English":
+    [
+      "Tilt",
+      "lean",
+      "leaning",
+      "slope",
+      "inclination",
+      "penchant",
+      "tendency"
+    ]
+  },
+  {
+    "Solresol": "relafasol",
+    "English":
+    [
+      "Turn",
+      "turn away"
+    ]
+  },
+  {
+    "Solresol": "relafala",
+    "English":
+    [
+      "Disproportionate",
+      "disproportion",
+      "disproportionately"
+    ]
+  },
+  {
+    "Solresol": "relafasi",
+    "English":
+    [
+      "To hold",
+      "to have in hand"
+    ]
+  },
+  {
+    "Solresol": "relasoldo",
+    "English":
+    [
+      "Embarrass",
+      "embarrassment",
+      "embarrassing",
+      "discomfort"
+    ]
+  },
+  {
+    "Solresol": "relasolre",
+    "English":
+    [
+      "Throw",
+      "launch"
+    ]
+  },
+  {
+    "Solresol": "relasolmi",
+    "English":
+    [
+      "Find"
+    ]
+  },
+  {
+    "Solresol": "relasolfa",
+    "English":
+    [
+      "Pick up",
+      "raise",
+      "lift",
+      "elevator"
+    ]
+  },
+  {
+    "Solresol": "relasolla",
+    "English":
+    [
+      "Object (n)"
+    ]
+  },
+  {
+    "Solresol": "relasolsi",
+    "English":
+    [
+      "Trifel",
+      "bagatelle",
+      "peccadillo",
+      "meticulous",
+      "minutiae "
+    ]
+  },
+  {
+    "Solresol": "relasido",
+    "English":
+    [
+      "Fill",
+      "complete",
+      "filling",
+      "fullness",
+      "filled",
+      "full",
+      "packed",
+      "fully"
+    ]
+  },
+  {
+    "Solresol": "relasire",
+    "English":
+    [
+      "Load",
+      "burden",
+      "cargo",
+      "loading"
+    ]
+  },
+  {
+    "Solresol": "relasimi",
+    "English":
+    [
+      "Overflow",
+      "irruption",
+      "invasion"
+    ]
+  },
+  {
+    "Solresol": "relasifa",
+    "English":
+    [
+      "West",
+      "western"
+    ]
+  },
+  {
+    "Solresol": "relasisol",
+    "English":
+    [
+      "To block",
+      "to constrict",
+      "bottled",
+      "cork"
+    ]
+  },
+  {
+    "Solresol": "relasila",
+    "English":
+    [
+      "Enclose",
+      "confine",
+      "contain",
+      "inclusion",
+      "confined",
+      "withdrawn",
+      "included",
+      "inclusive",
+      "enclosed"
+    ]
+  },
+  {
+    "Solresol": "residore",
+    "English":
+    [
+      "Race (of people/things)",
+      "lineage",
+      "strain (same sense as race)",
+      "breed (n)"
+    ]
+  },
+  {
+    "Solresol": "residomi",
+    "English":
+    [
+      "Genealogy",
+      "genealogist",
+      "genealogical"
+    ]
+  },
+  {
+    "Solresol": "residofa",
+    "English":
+    [
+      "Ancestors",
+      "predecessors",
+      "sires"
+    ]
+  },
+  {
+    "Solresol": "residosol",
+    "English":
+    [
+      "Family",
+      "consanguinity",
+      "kinship",
+      "relative"
+    ]
+  },
+  {
+    "Solresol": "residola",
+    "English":
+    [
+      "Grandparent",
+      "grandfather",
+      "grandmother"
+    ]
+  },
+  {
+    "Solresol": "residosi",
+    "English":
+    [
+      "Father",
+      "mother",
+      "paternity",
+      "maternity",
+      "paternal",
+      "maternal"
+    ]
+  },
+  {
+    "Solresol": "resiredo",
+    "English":
+    [
+      "Cause",
+      "engender",
+      "give rise to",
+      "generate",
+      "procreate",
+      "generative",
+      "genital"
+    ]
+  },
+  {
+    "Solresol": "resiremi",
+    "English":
+    [
+      "Conceive",
+      "conception",
+      "pregnant",
+      "big with child"
+    ]
+  },
+  {
+    "Solresol": "resirefa",
+    "English":
+    [
+      "Birth",
+      "childbirth"
+    ]
+  },
+  {
+    "Solresol": "resiresol",
+    "English":
+    [
+      "Son",
+      "daughter",
+      "filial"
+    ]
+  },
+  {
+    "Solresol": "resirela",
+    "English":
+    [
+      "Kiss"
+    ]
+  },
+  {
+    "Solresol": "resiresi",
+    "English":
+    [
+      "Caress",
+      "caresses",
+      "caressing"
+    ]
+  },
+  {
+    "Solresol": "resimire",
+    "English":
+    [
+      "Brother",
+      "sister",
+      "fraternal",
+      "fraternally"
+    ]
+  },
+  {
+    "Solresol": "resimifa",
+    "English":
+    [
+      "Grandson",
+      "granddaughter"
+    ]
+  },
+  {
+    "Solresol": "resimisol",
+    "English":
+    [
+      "Uncle",
+      "aunt"
+    ]
+  },
+  {
+    "Solresol": "resimila",
+    "English":
+    [
+      "Nephew",
+      "niece"
+    ]
+  },
+  {
+    "Solresol": "resimisi",
+    "English":
+    [
+      "Cousin"
+    ]
+  },
+  {
+    "Solresol": "resifado",
+    "English":
+    [
+      "Improvidence",
+      "lack of foresight",
+      "improvident"
+    ]
+  },
+  {
+    "Solresol": "resifare",
+    "English":
+    [
+      "Stepfather",
+      "stepmother"
+    ]
+  },
+  {
+    "Solresol": "resifami",
+    "English":
+    [
+      "Son-in-law",
+      "daughter-in-law"
+    ]
+  },
+  {
+    "Solresol": "resifasol",
+    "English":
+    [
+      "Stepbrother",
+      "stepsister"
+    ]
+  },
+  {
+    "Solresol": "resifala",
+    "English":
+    [
+      "Tutelage",
+      "tutor"
+    ]
+  },
+  {
+    "Solresol": "resifasi",
+    "English":
+    [
+      "Pupil"
+    ]
+  },
+  {
+    "Solresol": "resisoldo",
+    "English":
+    [
+      "Godfather",
+      "godmother"
+    ]
+  },
+  {
+    "Solresol": "resisolre",
+    "English":
+    [
+      "Name",
+      "nominal",
+      "nominative",
+      "denominative",
+      "by name"
+    ]
+  },
+  {
+    "Solresol": "resisolmi",
+    "English":
+    [
+      "Godson",
+      "goddaughter"
+    ]
+  },
+  {
+    "Solresol": "resisolfa",
+    "English":
+    [
+      "Intimacy",
+      "intimate",
+      "intimately"
+    ]
+  },
+  {
+    "Solresol": "resisolla",
+    "English":
+    [
+      "Familiarity",
+      "familiar",
+      "familiarly"
+    ]
+  },
+  {
+    "Solresol": "resisolsi",
+    "English":
+    [
+      "Camaraderie",
+      "fellowship",
+      "companion",
+      "comrade",
+      "peer"
+    ]
+  },
+  {
+    "Solresol": "resilado",
+    "English":
+    [
+      "Promise",
+      "vow",
+      "solemn promise",
+      "promised"
+    ]
+  },
+  {
+    "Solresol": "resilare",
+    "English":
+    [
+      "Oblige",
+      "to be useful",
+      "helpfulness",
+      "helpful"
+    ]
+  },
+  {
+    "Solresol": "resilami",
+    "English":
+    [
+      "Loan",
+      "lend"
+    ]
+  },
+  {
+    "Solresol": "resilafa",
+    "English":
+    [
+      "Host",
+      "hospitality"
+    ]
+  },
+  {
+    "Solresol": "resilasol",
+    "English":
+    [
+      "Ignore",
+      "ignorance",
+      "illiterate"
+    ]
+  },
+  {
+    "Solresol": "resilasi",
+    "English":
+    [
+      "location",
+      "place",
+      "locality",
+      "local"
+    ]
+  },
+  {
+    "Solresol": "midoredo",
+    "English":
+    [
+      "Moral",
+      "immateriality",
+      "spirituality",
+      "intangible",
+      "spiritualist",
+      "spiritualism"
+    ]
+  },
+  {
+    "Solresol": "midoremi",
+    "English":
+    [
+      "Origin",
+      "source",
+      "original",
+      "primitive",
+      "basic",
+      "originally"
+    ]
+  },
+  {
+    "Solresol": "midorefa",
+    "English":
+    [
+      "Precede",
+      "anteriority",
+      "priority",
+      "primacy",
+      "predecessor",
+      "previous",
+      "before",
+      "antecedent"
+    ]
+  },
+  {
+    "Solresol": "midoresol",
+    "English":
+    [
+      "Posterity",
+      "descendants",
+      "future generation"
+    ]
+  },
+  {
+    "Solresol": "midorela",
+    "English":
+    [
+      "Clear"
+    ]
+  },
+  {
+    "Solresol": "midomido",
+    "English":
+    [
+      "Equip",
+      "endow",
+      "provide"
+    ]
+  },
+  {
+    "Solresol": "midomire",
+    "English":
+    [
+      "Deposit",
+      "drop off"
+    ]
+  },
+  {
+    "Solresol": "midomifa",
+    "English":
+    [
+      "Bequeath",
+      "to leave something for someone",
+      "testament"
+    ]
+  },
+  {
+    "Solresol": "midomisol",
+    "English":
+    [
+      "Inherit",
+      "heritage",
+      "heir",
+      "heiress",
+      "recipient"
+    ]
+  },
+  {
+    "Solresol": "midomila",
+    "English":
+    [
+      "Lack",
+      "miss",
+      "destitution",
+      "shortage",
+      "gap",
+      "famine",
+      "dearth",
+      "devoid",
+      "lacking",
+      "without"
+    ]
+  },
+  {
+    "Solresol": "midomisi",
+    "English":
+    [
+      "Have",
+      "possess",
+      "possession",
+      "property",
+      "asset"
+    ]
+  },
+  {
+    "Solresol": "midofado",
+    "English":
+    [
+      "Despair",
+      "desolation",
+      "desperate",
+      "despairing"
+    ]
+  },
+  {
+    "Solresol": "midofare",
+    "English":
+    [
+      "Mourn",
+      "mourning",
+      "bereavement"
+    ]
+  },
+  {
+    "Solresol": "midofami",
+    "English":
+    [
+      "Widowhood",
+      "widower",
+      "widow"
+    ]
+  },
+  {
+    "Solresol": "midofasol",
+    "English":
+    [
+      "Orphanage",
+      "orphan"
+    ]
+  },
+  {
+    "Solresol": "midofala",
+    "English":
+    [
+      "Abandon",
+      "leave",
+      "abandonment",
+      "abandoned",
+      "forasaken"
+    ]
+  },
+  {
+    "Solresol": "midofasi",
+    "English":
+    [
+      "Suffer",
+      "be distressed",
+      "be tested",
+      "suffering",
+      "affliction",
+      "grief",
+      "pain",
+      "anguish",
+      "distress"
+    ]
+  },
+  {
+    "Solresol": "midosoldo",
+    "English":
+    [
+      "Fear",
+      "apprehend",
+      "apprehension",
+      "fearful",
+      "apprehensive"
+    ]
+  },
+  {
+    "Solresol": "midosolre",
+    "English":
+    [
+      "Inconvenience",
+      "inconvenient",
+      "inconveniently"
+    ]
+  },
+  {
+    "Solresol": "midosolmi",
+    "English":
+    [
+      "Worry",
+      "concern",
+      "anxiety",
+      "alarm",
+      "anxious"
+    ]
+  },
+  {
+    "Solresol": "midosolfa",
+    "English":
+    [
+      "Complain",
+      "groan",
+      "whine",
+      "murmur",
+      "complaint",
+      "lamentation"
+    ]
+  },
+  {
+    "Solresol": "midosolla",
+    "English":
+    [
+      "Destiny",
+      "fate",
+      "predestination",
+      "destined"
+    ]
+  },
+  {
+    "Solresol": "midosolsi",
+    "English":
+    [
+      "Fatalism",
+      "fatalist",
+      "inevitably"
+    ]
+  },
+  {
+    "Solresol": "midolado",
+    "English":
+    [
+      "Refuse",
+      "reject",
+      "repel",
+      "exclude",
+      "dismiss",
+      "rejection",
+      "refusal",
+      "exclusion",
+      "rejectable",
+      "unacceptable "
+    ]
+  },
+  {
+    "Solresol": "midolare",
+    "English":
+    [
+      "Intervene",
+      "intercede",
+      "mediate",
+      "intervention",
+      "intercession",
+      "mediation",
+      "mediator",
+      "intercessor"
+    ]
+  },
+  {
+    "Solresol": "midolami",
+    "English":
+    [
+      "Influence",
+      "influential"
+    ]
+  },
+  {
+    "Solresol": "midolafa",
+    "English":
+    [
+      "Reconcile",
+      "conciliation",
+      "conciliator",
+      "conciliatory",
+      "reconcilable",
+      "accommodative"
+    ]
+  },
+  {
+    "Solresol": "midolasol",
+    "English":
+    [
+      "Console",
+      "comfort",
+      "consolation",
+      "comforter",
+      "consolable"
+    ]
+  },
+  {
+    "Solresol": "midolasi",
+    "English":
+    [
+      "Content",
+      "satisfied",
+      "contentment",
+      "satisfaction",
+      "joy of the heart",
+      "glad"
+    ]
+  },
+  {
+    "Solresol": "midosido",
+    "English":
+    [
+      "Sacrifice",
+      "immolate",
+      "offering",
+      "consecration"
+    ]
+  },
+  {
+    "Solresol": "midosire",
+    "English":
+    [
+      "Refrain",
+      "deprive oneself",
+      "be restricted",
+      "do without",
+      "abstinence",
+      "deprivation"
+    ]
+  },
+  {
+    "Solresol": "midosimi",
+    "English":
+    [
+      "Improbability",
+      "unlikely",
+      "incredible",
+      "implausible"
+    ]
+  },
+  {
+    "Solresol": "midosifa",
+    "English":
+    [
+      "To return",
+      "come back"
+    ]
+  },
+  {
+    "Solresol": "midosisol",
+    "English":
+    [
+      "Try",
+      "endeavor",
+      "strive"
+    ]
+  },
+  {
+    "Solresol": "midosila",
+    "English":
+    [
+      "Get",
+      "obtain"
+    ]
+  },
+  {
+    "Solresol": "miredore",
+    "English":
+    [
+      "Particularize",
+      "specialize",
+      "particularity",
+      "speciality",
+      "particular",
+      "special",
+      "especially",
+      "particularly"
+    ]
+  },
+  {
+    "Solresol": "miredomi",
+    "English":
+    [
+      "Rarity",
+      "rare",
+      "rarely",
+      "almost never"
+    ]
+  },
+  {
+    "Solresol": "miredofa",
+    "English":
+    [
+      "Take the initiative",
+      "initiative"
+    ]
+  },
+  {
+    "Solresol": "miredosol",
+    "English":
+    [
+      "Attempt",
+      "try",
+      "test"
+    ]
+  },
+  {
+    "Solresol": "miredola",
+    "English":
+    [
+      "Undertake",
+      "undertaking",
+      "enterprise",
+      "entrepreneur"
+    ]
+  },
+  {
+    "Solresol": "miredosi",
+    "English":
+    [
+      "Venture",
+      "hazard (v.)",
+      "risk",
+      "adventure",
+      "expose oneself to risk",
+      "risky"
+    ]
+  },
+  {
+    "Solresol": "miremido",
+    "English":
+    [
+      "Blind (v.)",
+      "blindness",
+      "blind",
+      "blindly"
+    ]
+  },
+  {
+    "Solresol": "miremire",
+    "English":
+    [
+      "Enroll",
+      "register",
+      "registration",
+      "enrollment"
+    ]
+  },
+  {
+    "Solresol": "miremifa",
+    "English":
+    [
+      "Document",
+      "title",
+      "written evidence"
+    ]
+  },
+  {
+    "Solresol": "miremisol",
+    "English":
+    [
+      "Official",
+      "formal",
+      "officially"
+    ]
+  },
+  {
+    "Solresol": "miremila",
+    "English":
+    [
+      "Dedicate",
+      "dedication",
+      "dedicatory"
+    ]
+  },
+  {
+    "Solresol": "miremisi",
+    "English":
+    [
+      "Stanza",
+      "verse"
+    ]
+  },
+  {
+    "Solresol": "mirefado",
+    "English":
+    [
+      "Say",
+      "diction",
+      "elocution",
+      "speech",
+      "speaker"
+    ]
+  },
+  {
+    "Solresol": "mirefare",
+    "English":
+    [
+      "Thing",
+      "object",
+      "stuff"
+    ]
+  },
+  {
+    "Solresol": "mirefami",
+    "English":
+    [
+      "The main",
+      "the essential",
+      "main",
+      "essential",
+      "mainly",
+      "essentially"
+    ]
+  },
+  {
+    "Solresol": "mirefasol",
+    "English":
+    [
+      "Seriousness",
+      "gravity",
+      "serious",
+      "grave",
+      "seriously"
+    ]
+  },
+  {
+    "Solresol": "mirefala",
+    "English":
+    [
+      "Precious",
+      "preciously"
+    ]
+  },
+  {
+    "Solresol": "mirefasi",
+    "English":
+    [
+      "A curiosity",
+      "curious to see"
+    ]
+  },
+  {
+    "Solresol": "miresoldo",
+    "English":
+    [
+      "Inexperience",
+      "inexperienced",
+      "unskilled"
+    ]
+  },
+  {
+    "Solresol": "miresolre",
+    "English":
+    [
+      "Participate",
+      "contribute",
+      "cooperate",
+      "be part of",
+      "participation",
+      "cooperation",
+      "participant"
+    ]
+  },
+  {
+    "Solresol": "miresolmi",
+    "English":
+    [
+      "Propose",
+      "plan",
+      "aim at",
+      "premeditate",
+      "project",
+      "intent",
+      "design",
+      "designer",
+      "intentioned"
+    ]
+  },
+  {
+    "Solresol": "miresolfa",
+    "English":
+    [
+      "Goal",
+      "aim",
+      "final cause"
+    ]
+  },
+  {
+    "Solresol": "miresolla",
+    "English":
+    [
+      "To thin",
+      "diminish",
+      "thinning",
+      "thin",
+      "slender"
+    ]
+  },
+  {
+    "Solresol": "miresolsi",
+    "English":
+    [
+      "Destine",
+      "destination",
+      "destinator"
+    ]
+  },
+  {
+    "Solresol": "mirelado",
+    "English":
+    [
+      "Be wrong",
+      "wrong"
+    ]
+  },
+  {
+    "Solresol": "mirelare",
+    "English":
+    [
+      "Reproach",
+      "blame",
+      "find fault"
+    ]
+  },
+  {
+    "Solresol": "mirelami",
+    "English":
+    [
+      "Scold",
+      "reprimand",
+      "admonish",
+      "admonition",
+      "scolding"
+    ]
+  },
+  {
+    "Solresol": "mirelafa",
+    "English":
+    [
+      "Quarrel",
+      "fight",
+      "dispute",
+      "quibble",
+      "altercation"
+    ]
+  },
+  {
+    "Solresol": "mirelasol",
+    "English":
+    [
+      "Insult",
+      "dishonor",
+      "revile",
+      "affront",
+      "snub",
+      "insolence",
+      "insulting",
+      "impertinent"
+    ]
+  },
+  {
+    "Solresol": "mirelasi",
+    "English":
+    [
+      "Incident",
+      "occurance",
+      "event",
+      "incidentally"
+    ]
+  },
+  {
+    "Solresol": "miresido",
+    "English":
+    [
+      "Provoke",
+      "defy",
+      "provocation",
+      "defiance",
+      "provoker"
+    ]
+  },
+  {
+    "Solresol": "miresire",
+    "English":
+    [
+      "Threaten",
+      "threat",
+      "menace",
+      "threatening",
+      "formidable"
+    ]
+  },
+  {
+    "Solresol": "miresimi",
+    "English":
+    [
+      "Slap",
+      "kick",
+      "punch"
+    ]
+  },
+  {
+    "Solresol": "miresifa",
+    "English":
+    [
+      "Hurt",
+      "wound",
+      "bruise"
+    ]
+  },
+  {
+    "Solresol": "miresisol",
+    "English":
+    [
+      "To get angry",
+      "angry",
+      "upset"
+    ]
+  },
+  {
+    "Solresol": "miresila",
+    "English":
+    [
+      "Sulk",
+      "hold a grudge",
+      "resentment",
+      "sulky",
+      "spiteful"
+    ]
+  },
+  {
+    "Solresol": "mifadore",
+    "English":
+    [
+      "Character (trait)",
+      "nature",
+      "characteristic",
+      "characterized"
+    ]
+  },
+  {
+    "Solresol": "mifadomi",
+    "English":
+    [
+      "Require",
+      "requirement"
+    ]
+  },
+  {
+    "Solresol": "mifadofa",
+    "English":
+    [
+      "Envy",
+      "envious"
+    ]
+  },
+  {
+    "Solresol": "mifadosol",
+    "English":
+    [
+      "Aspire",
+      "ambition",
+      "ambitious",
+      "ambitiously"
+    ]
+  },
+  {
+    "Solresol": "mifadola",
+    "English":
+    [
+      "Solicit",
+      "solicitation",
+      "solicitor",
+      "insistant"
+    ]
+  },
+  {
+    "Solresol": "mifadosi",
+    "English":
+    [
+      "Intrigue (to plan illicit or detrimental things)",
+      "cunning",
+      "stratagems",
+      "crafty"
+    ]
+  },
+  {
+    "Solresol": "mifaredo",
+    "English":
+    [
+      "Personality",
+      "personal"
+    ]
+  },
+  {
+    "Solresol": "mifaremi",
+    "English":
+    [
+      "Incidental",
+      "incidentally"
+    ]
+  },
+  {
+    "Solresol": "mifarefa",
+    "English":
+    [
+      "Self-esteem",
+      "pride"
+    ]
+  },
+  {
+    "Solresol": "mifaresol",
+    "English":
+    [
+      "Vanity",
+      "ostentation",
+      "vainglory",
+      "conceited",
+      "vain"
+    ]
+  },
+  {
+    "Solresol": "mifarela",
+    "English":
+    [
+      "Become arrogant",
+      "arrogance",
+      "pride",
+      "haughtiness",
+      "arrogant",
+      "proud",
+      "imperious",
+      "haughty"
+    ]
+  },
+  {
+    "Solresol": "mifaresi",
+    "English":
+    [
+      "Pride oneself",
+      "boast",
+      "presumption",
+      "pride",
+      "proud",
+      "presumptuous"
+    ]
+  },
+  {
+    "Solresol": "mifamido",
+    "English":
+    [
+      "Susceptibility",
+      "susceptible"
+    ]
+  },
+  {
+    "Solresol": "mifamire",
+    "English":
+    [
+      "Mediocrity",
+      "mediocre",
+      "poor",
+      "common",
+      "regular"
+    ]
+  },
+  {
+    "Solresol": "mifamifa",
+    "English":
+    [
+      "Laze",
+      "loiter",
+      "idle",
+      "laziness",
+      "dawdling",
+      "indolence",
+      "idleness",
+      "inactivity",
+      "lazy",
+      "loafer",
+      "nonchalant",
+      "inactive "
+    ]
+  },
+  {
+    "Solresol": "mifamisol",
+    "English":
+    [
+      "Neglect",
+      "omit",
+      "negligence",
+      "omission",
+      "negligent",
+      "negligently"
+    ]
+  },
+  {
+    "Solresol": "mifamila",
+    "English":
+    [
+      "Sensuality",
+      "intemperance",
+      "sensual",
+      "voluptuous",
+      "carnal"
+    ]
+  },
+  {
+    "Solresol": "mifamisi",
+    "English":
+    [
+      "Gluttony",
+      "greedy",
+      "glutton",
+      "\"pig\"",
+      "greedily"
+    ]
+  },
+  {
+    "Solresol": "mifasoldo",
+    "English":
+    [
+      "Libertine",
+      "prostitute",
+      "wantonness",
+      "prostitution",
+      "vagrant",
+      "debauchery"
+    ]
+  },
+  {
+    "Solresol": "mifasolre",
+    "English":
+    [
+      "Effrontery",
+      "impudence",
+      "insolence",
+      "cheeky",
+      "impudent"
+    ]
+  },
+  {
+    "Solresol": "mifasolmi",
+    "English":
+    [
+      "Corrupt",
+      "pervert",
+      "debauch",
+      "corruption",
+      "perversity",
+      "depravity",
+      "warped",
+      "perverted",
+      "perverse"
+    ]
+  },
+  {
+    "Solresol": "mifasolfa",
+    "English":
+    [
+      "Be disarmed",
+      "succumb",
+      "disarmed",
+      "defeated"
+    ]
+  },
+  {
+    "Solresol": "mifasolla",
+    "English":
+    [
+      "To make blunt",
+      "blunt",
+      "blasé"
+    ]
+  },
+  {
+    "Solresol": "mifasolsi",
+    "English":
+    [
+      "Awful",
+      "horrible",
+      "odious",
+      "hateable",
+      "detestable",
+      "execrable",
+      "abominable",
+      "horribly",
+      "dreadfully",
+      "badly"
+    ]
+  },
+  {
+    "Solresol": "mifalado",
+    "English":
+    [
+      "Debase",
+      "degradation",
+      "abjection",
+      "ignominy",
+      "low",
+      "abject"
+    ]
+  },
+  {
+    "Solresol": "mifalare",
+    "English":
+    [
+      "Betray",
+      "treason",
+      "traitor",
+      "treacherous",
+      "traitorously"
+    ]
+  },
+  {
+    "Solresol": "mifalami",
+    "English":
+    [
+      "Steal",
+      "rob",
+      "swindle",
+      "theft",
+      "spoils",
+      "thief"
+    ]
+  },
+  {
+    "Solresol": "mifalafa",
+    "English":
+    [
+      "Deceive",
+      "fool",
+      "cheat",
+      "guile",
+      "deceitful",
+      "deception",
+      "cheating",
+      "imposter",
+      "duplicity",
+      "misleading"
+    ]
+  },
+  {
+    "Solresol": "mifalasol",
+    "English":
+    [
+      "Falsify",
+      "forgery",
+      "forged"
+    ]
+  },
+  {
+    "Solresol": "mifalasi",
+    "English":
+    [
+      "Violate",
+      "transgress",
+      "infringe",
+      "offense",
+      "contravention",
+      "offense",
+      "offender",
+      "transgressor",
+      "violator"
+    ]
+  },
+  {
+    "Solresol": "mifasido",
+    "English":
+    [
+      "Adultery",
+      "adulterer"
+    ]
+  },
+  {
+    "Solresol": "mifasire",
+    "English":
+    [
+      "To be jealous",
+      "jealous",
+      "jealousy"
+    ]
+  },
+  {
+    "Solresol": "mifasimi",
+    "English":
+    [
+      "To irritate",
+      "anger",
+      "exasperate",
+      "indignate",
+      "irritation",
+      "exasperation",
+      "irritated",
+      "outraged",
+      "exasperated"
+    ]
+  },
+  {
+    "Solresol": "mifasifa",
+    "English":
+    [
+      "To get angry",
+      "to lose one's temper",
+      "fulminate",
+      "enraged",
+      "fit of anger",
+      "ardor",
+      "anger",
+      "frenzy",
+      " fury",
+      "rage",
+      "furious"
+    ]
+  },
+  {
+    "Solresol": "mifasisol",
+    "English":
+    [
+      "Fickleness",
+      "lightness",
+      "frovolity",
+      "inconstant",
+      "volatile"
+    ]
+  },
+  {
+    "Solresol": "mifasila",
+    "English":
+    [
+      "Revenge",
+      "avenge",
+      "avenger",
+      "vindictive"
+    ]
+  },
+  {
+    "Solresol": "misoldore",
+    "English":
+    [
+      "Tease",
+      "harass",
+      "teasing"
+    ]
+  },
+  {
+    "Solresol": "misoldomi",
+    "English":
+    [
+      "Reassure",
+      "calm",
+      "appease",
+      "calming",
+      "tranquility",
+      "serenity",
+      "serene",
+      "quiet",
+      "reassuring"
+    ]
+  },
+  {
+    "Solresol": "misoldofa",
+    "English":
+    [
+      "Annoy",
+      "tease",
+      "teasing",
+      "playfulness",
+      "harassing"
+    ]
+  },
+  {
+    "Solresol": "misoldosol",
+    "English":
+    [
+      "Thoughtlessness",
+      "ill-conceived",
+      "poorly considered",
+      "thoughtlessly"
+    ]
+  },
+  {
+    "Solresol": "misoldola",
+    "English":
+    [
+      "Change",
+      "vary",
+      "variation",
+      "mutation",
+      "variability",
+      "instability",
+      "variable"
+    ]
+  },
+  {
+    "Solresol": "misoldosi",
+    "English":
+    [
+      "Diversify",
+      "diversity",
+      "variant",
+      "variety",
+      "variations"
+    ]
+  },
+  {
+    "Solresol": "misolredo",
+    "English":
+    [
+      "Person",
+      "a being",
+      "individual",
+      "human creature",
+      "people",
+      "personal",
+      "individually",
+      "personally"
+    ]
+  },
+  {
+    "Solresol": "misolremi",
+    "English":
+    [
+      "Recommend",
+      "recommendation"
+    ]
+  },
+  {
+    "Solresol": "misolrefa",
+    "English":
+    [
+      "To present",
+      "presentation"
+    ]
+  },
+  {
+    "Solresol": "misolresol",
+    "English":
+    [
+      "Accept",
+      "receive",
+      "admit",
+      "admission",
+      "reception",
+      "admissible",
+      "receivable"
+    ]
+  },
+  {
+    "Solresol": "misolrela",
+    "English":
+    [
+      "Meet",
+      "get together",
+      "meeting",
+      "group",
+      "assemble",
+      "assembled",
+      "grouped"
+    ]
+  },
+  {
+    "Solresol": "misolresi",
+    "English":
+    [
+      "Society",
+      "corporation",
+      "company",
+      "member of a society"
+    ]
+  },
+  {
+    "Solresol": "misolmido",
+    "English":
+    [
+      "Smallness",
+      "pettiness",
+      "petty"
+    ]
+  },
+  {
+    "Solresol": "misolmire",
+    "English":
+    [
+      "Attend",
+      "to frequent",
+      "attendance"
+    ]
+  },
+  {
+    "Solresol": "misolmifa",
+    "English":
+    [
+      "To note",
+      "to observe",
+      "point out",
+      "remark",
+      "observation"
+    ]
+  },
+  {
+    "Solresol": "misolmisol",
+    "English":
+    [
+      "Watch",
+      "look",
+      "glance"
+    ]
+  },
+  {
+    "Solresol": "misolmila",
+    "English":
+    [
+      "Converse",
+      "gossip",
+      "chat",
+      "conversation",
+      "dialogue",
+      "conversationalist"
+    ]
+  },
+  {
+    "Solresol": "misolmisi",
+    "English":
+    [
+      "Answer",
+      "reply",
+      "respond",
+      "refute",
+      "response",
+      "refutation"
+    ]
+  },
+  {
+    "Solresol": "misolfado",
+    "English":
+    [
+      "To become ugly",
+      "ugliness",
+      "hideous",
+      "unattractive"
+    ]
+  },
+  {
+    "Solresol": "misolfare",
+    "English":
+    [
+      "Attitude",
+      "poise",
+      "posture "
+    ]
+  },
+  {
+    "Solresol": "misolfami",
+    "English":
+    [
+      "Turn (v.)",
+      "pace (v.)"
+    ]
+  },
+  {
+    "Solresol": "misolfasol",
+    "English":
+    [
+      "Propriety",
+      "appropriateness",
+      "decency",
+      "proper",
+      "seemly",
+      "presentable"
+    ]
+  },
+  {
+    "Solresol": "misolfala",
+    "English":
+    [
+      "In good taste",
+      "good manners",
+      "distinction",
+      "distinguished"
+    ]
+  },
+  {
+    "Solresol": "misolfasi",
+    "English":
+    [
+      "Politeness",
+      "courtesy",
+      "civility",
+      "good manners",
+      "polite"
+    ]
+  },
+  {
+    "Solresol": "misollado",
+    "English":
+    [
+      "To become singular",
+      "unique",
+      "eccentric",
+      "quirky",
+      "original",
+      "bizarre",
+      "strange"
+    ]
+  },
+  {
+    "Solresol": "misollare",
+    "English":
+    [
+      "Capricious",
+      "whimsical",
+      "moody"
+    ]
+  },
+  {
+    "Solresol": "misollami",
+    "English":
+    [
+      "Mania",
+      "maniac"
+    ]
+  },
+  {
+    "Solresol": "misollafa",
+    "English":
+    [
+      "Simper",
+      "pedantry",
+      "prudery",
+      "affected",
+      "prudish",
+      "pretentious"
+    ]
+  },
+  {
+    "Solresol": "misollasol",
+    "English":
+    [
+      "Coquet",
+      "dainty",
+      "pretty",
+      "to pose oneself",
+      "coquettishly"
+    ]
+  },
+  {
+    "Solresol": "misollasi",
+    "English":
+    [
+      "To woo",
+      "to court",
+      "courtship"
+    ]
+  },
+  {
+    "Solresol": "misolsido",
+    "English":
+    [
+      "Inaugurate",
+      "inaguration",
+      "inaugural"
+    ]
+  },
+  {
+    "Solresol": "misolsire",
+    "English":
+    [
+      "Celebrate",
+      "celebration",
+      "ceremony",
+      "ceremonial"
+    ]
+  },
+  {
+    "Solresol": "misolsimi",
+    "English":
+    [
+      "Holiday",
+      "anniversary"
+    ]
+  },
+  {
+    "Solresol": "misolsifa",
+    "English":
+    [
+      "Indirect",
+      "indirectly"
+    ]
+  },
+  {
+    "Solresol": "misolsisol",
+    "English":
+    [
+      "Ball (dance)",
+      "ballet"
+    ]
+  },
+  {
+    "Solresol": "misolsila",
+    "English":
+    [
+      "Dance",
+      "dancer",
+      "dancing"
+    ]
+  },
+  {
+    "Solresol": "miladore",
+    "English":
+    [
+      "Waltz",
+      "waltzer"
+    ]
+  },
+  {
+    "Solresol": "miladomi",
+    "English":
+    [
+      "Simultaneity",
+      "simultaneous",
+      "collective",
+      "all",
+      "with each other",
+      "all together",
+      "simultaneously",
+      "collectively"
+    ]
+  },
+  {
+    "Solresol": "miladofa",
+    "English":
+    [
+      "Times (n.)",
+      "sometimes",
+      "several times"
+    ]
+  },
+  {
+    "Solresol": "miladosol",
+    "English":
+    [
+      "Entertainment",
+      "recreation",
+      "relaxation",
+      "hobby",
+      "time-passer"
+    ]
+  },
+  {
+    "Solresol": "miladola",
+    "English":
+    [
+      "Joke",
+      "banter",
+      "farce",
+      "comic",
+      "bantering",
+      "facetious",
+      "funny"
+    ]
+  },
+  {
+    "Solresol": "miladosi",
+    "English":
+    [
+      "Parody",
+      "mimic",
+      "ape",
+      "caricature"
+    ]
+  },
+  {
+    "Solresol": "milaredo",
+    "English":
+    [
+      "Mock",
+      "laugh at",
+      "ridicule",
+      "jeer",
+      "sneer",
+      "satirize",
+      "mockery",
+      "satire",
+      "scoffer",
+      "mocker"
+    ]
+  },
+  {
+    "Solresol": "milaremi",
+    "English":
+    [
+      "Ridiculous",
+      "ludicrous",
+      "preposterous"
+    ]
+  },
+  {
+    "Solresol": "milarefa",
+    "English":
+    [
+      "Criticize",
+      "find fault with",
+      "criticism"
+    ]
+  },
+  {
+    "Solresol": "milaresol",
+    "English":
+    [
+      "To speak ill of",
+      "decry",
+      "depreciate",
+      "disparage",
+      "slander",
+      "detraction",
+      "disparagement",
+      "slanderous"
+    ]
+  },
+  {
+    "Solresol": "milarela",
+    "English":
+    [
+      "Slander",
+      "slanderer",
+      "slanderously"
+    ]
+  },
+  {
+    "Solresol": "milaresi",
+    "English":
+    [
+      "Compromise",
+      "compromising"
+    ]
+  },
+  {
+    "Solresol": "milamido",
+    "English":
+    [
+      "Talk nonsense",
+      "ramble",
+      "rave",
+      "unreason",
+      "rambling",
+      "extravagance",
+      "illogical",
+      "unreasonable"
+    ]
+  },
+  {
+    "Solresol": "milamire",
+    "English":
+    [
+      "Secret",
+      "mystery",
+      "mysterious",
+      "secretly",
+      "in secret",
+      "mysteriously"
+    ]
+  },
+  {
+    "Solresol": "milamifa",
+    "English":
+    [
+      "Confidential",
+      "confidence",
+      "confidant",
+      "confidentially"
+    ]
+  },
+  {
+    "Solresol": "milamisol",
+    "English":
+    [
+      "Snoop around",
+      "curiosity",
+      "curious",
+      "curiously"
+    ]
+  },
+  {
+    "Solresol": "milamila",
+    "English":
+    [
+      "Guess",
+      "to divine",
+      "diviner",
+      "guessable "
+    ]
+  },
+  {
+    "Solresol": "milamisi",
+    "English":
+    [
+      "Disclose",
+      "divulge",
+      "reveal",
+      "disclosure",
+      "unveiling",
+      "revelation",
+      "discloser",
+      "revealer"
+    ]
+  },
+  {
+    "Solresol": "milafado",
+    "English":
+    [
+      "Insensitivity",
+      "apathy",
+      "insensitive",
+      "apathetic"
+    ]
+  },
+  {
+    "Solresol": "milafare",
+    "English":
+    [
+      "Indifference",
+      "indifferent",
+      "carefree",
+      "unconcerned",
+      "indifferently"
+    ]
+  },
+  {
+    "Solresol": "milafami",
+    "English":
+    [
+      "Coldness",
+      "impassivity",
+      "cold",
+      "impassive"
+    ]
+  },
+  {
+    "Solresol": "milafasol",
+    "English":
+    [
+      "Composure",
+      "presence of mind",
+      "self-control"
+    ]
+  },
+  {
+    "Solresol": "milafala",
+    "English":
+    [
+      "Prejudge",
+      "bias",
+      "prejudice",
+      "partiality",
+      "prejudiced",
+      "biased"
+    ]
+  },
+  {
+    "Solresol": "milafasi",
+    "English":
+    [
+      "Coterie",
+      "clique",
+      "\"esprit de corps\" (a feeling of pride",
+      "fellowship",
+      "and common loyalty shared by the members of a particular group)"
+    ]
+  },
+  {
+    "Solresol": "milasoldo",
+    "English":
+    [
+      "Blame",
+      "disapprove",
+      "reproach",
+      "disapproval",
+      "reproachful",
+      "disapprobation"
+    ]
+  },
+  {
+    "Solresol": "milasolre",
+    "English":
+    [
+      "Disdain",
+      "disrespect",
+      "think nothing of",
+      "lack of respect",
+      "irreverence"
+    ]
+  },
+  {
+    "Solresol": "milasolmi",
+    "English":
+    [
+      "Defame",
+      "lampoon",
+      "libel",
+      "diatribe",
+      "slanderer"
+    ]
+  },
+  {
+    "Solresol": "milasolfa",
+    "English":
+    [
+      "Challenge",
+      "discuss",
+      "debate",
+      "object",
+      "controvert",
+      "obejection",
+      "controversy",
+      "conflict",
+      "questionable"
+    ]
+  },
+  {
+    "Solresol": "milasolla",
+    "English":
+    [
+      "Insolvency (unable to pay debts owed)",
+      "insolvent"
+    ]
+  },
+  {
+    "Solresol": "milasolsi",
+    "English":
+    [
+      "Oppose",
+      "contradict",
+      "contrast",
+      "opposition",
+      "contradiciton",
+      "unlike",
+      "opposite"
+    ]
+  },
+  {
+    "Solresol": "milasido",
+    "English":
+    [
+      "Congress"
+    ]
+  },
+  {
+    "Solresol": "milasire",
+    "English":
+    [
+      "Note",
+      "annotate",
+      "annotation",
+      "remark"
+    ]
+  },
+  {
+    "Solresol": "milasimi",
+    "English":
+    [
+      "Review",
+      "report",
+      "extract",
+      "essence of"
+    ]
+  },
+  {
+    "Solresol": "milasifa",
+    "English":
+    [
+      "Deliberate",
+      "deliberation",
+      "deliberative"
+    ]
+  },
+  {
+    "Solresol": "milasisol",
+    "English":
+    [
+      "Report",
+      "relate",
+      "reporter",
+      "minutes (of a meeting)",
+      "reporter"
+    ]
+  },
+  {
+    "Solresol": "milasila",
+    "English":
+    [
+      "Conclude",
+      "infer",
+      "conclusion",
+      "solution",
+      "conclusive",
+      "final",
+      "definitely"
+    ]
+  },
+  {
+    "Solresol": "misidore",
+    "English":
+    [
+      "Appearance",
+      "aspect",
+      "visibility",
+      "apparent",
+      "ostensible",
+      "visible",
+      "apparently"
+    ]
+  },
+  {
+    "Solresol": "misidomi",
+    "English":
+    [
+      "Likelihood",
+      "probability",
+      "likely",
+      "probable",
+      "presumable",
+      "believable"
+    ]
+  },
+  {
+    "Solresol": "misidofa",
+    "English":
+    [
+      "Seem",
+      "seeming",
+      "semblance",
+      "\"to have an air of\""
+    ]
+  },
+  {
+    "Solresol": "misidosol",
+    "English":
+    [
+      "Pretext",
+      "excuse",
+      "allege",
+      "allegation",
+      "answer evasively",
+      "subterfuge"
+    ]
+  },
+  {
+    "Solresol": "misidola",
+    "English":
+    [
+      "Dare",
+      "aplomb",
+      "boldness",
+      "audacity",
+      "dared",
+      "bold",
+      "boldly"
+    ]
+  },
+  {
+    "Solresol": "misidosi",
+    "English":
+    [
+      "Imbibe (absorb or assimilate ideas or knowledge)",
+      "identify (with?) (relate)"
+    ]
+  },
+  {
+    "Solresol": "misiredo",
+    "English":
+    [
+      "Remain",
+      "stay",
+      "hold oneself in"
+    ]
+  },
+  {
+    "Solresol": "misiremi",
+    "English":
+    [
+      "Anxious to have",
+      "look forward to",
+      "can't wait for"
+    ]
+  },
+  {
+    "Solresol": "misirefa",
+    "English":
+    [
+      "Anticipate",
+      "anticipation",
+      "(forestall",
+      "premature",
+      "in advance)"
+    ]
+  },
+  {
+    "Solresol": "misiresol",
+    "English":
+    [
+      "Assume",
+      "suppose",
+      "presume",
+      "surmise",
+      "supposition",
+      "conjecture",
+      "hypothesis",
+      "supposed"
+    ]
+  },
+  {
+    "Solresol": "misirela",
+    "English":
+    [
+      "Sense",
+      "augur",
+      "foresee",
+      "omen",
+      "prescience",
+      "inner vision",
+      "second sight",
+      "ominous"
+    ]
+  },
+  {
+    "Solresol": "misiresi",
+    "English":
+    [
+      "Predict",
+      "prophesy",
+      "tell fortunes",
+      "prediction",
+      "prognosis",
+      "prophet",
+      "divination",
+      "oracle",
+      "soothsayer",
+      "prophetic",
+      "divinatory"
+    ]
+  },
+  {
+    "Solresol": "misimido",
+    "English":
+    [
+      "Slavery",
+      "yoke",
+      "subjugation",
+      "servility",
+      "servitude",
+      "slave",
+      "serf",
+      "servile",
+      "at the mercy of"
+    ]
+  },
+  {
+    "Solresol": "misimire",
+    "English":
+    [
+      "Depend",
+      "dependence",
+      "dependent"
+    ]
+  },
+  {
+    "Solresol": "misimifa",
+    "English":
+    [
+      "Responsibility",
+      "responsible"
+    ]
+  },
+  {
+    "Solresol": "misimisol",
+    "English":
+    [
+      "Submit",
+      "submit to"
+    ]
+  },
+  {
+    "Solresol": "misimila",
+    "English":
+    [
+      "Obey",
+      "submit oneself",
+      "resign oneself",
+      "obedience",
+      "submission",
+      "resignation",
+      "obedient"
+    ]
+  },
+  {
+    "Solresol": "misimisi",
+    "English":
+    [
+      "Circumstance",
+      "case",
+      "circumstantial"
+    ]
+  },
+  {
+    "Solresol": "misifado",
+    "English":
+    [
+      "Indiscretion",
+      "indiscreet",
+      "obtrusive",
+      "indiscretely"
+    ]
+  },
+  {
+    "Solresol": "misifare",
+    "English":
+    [
+      "Sleepwalking",
+      "somnambulism",
+      "sleepwalker"
+    ]
+  },
+  {
+    "Solresol": "misifami",
+    "English":
+    [
+      "Magnetize",
+      "magnetism",
+      "magnet",
+      "magnetic"
+    ]
+  },
+  {
+    "Solresol": "misifasol",
+    "English":
+    [
+      "Fluid",
+      "fluidity"
+    ]
+  },
+  {
+    "Solresol": "misifala",
+    "English":
+    [
+      "Light (weight)",
+      "aerial",
+      "vaporous"
+    ]
+  },
+  {
+    "Solresol": "misifasi",
+    "English":
+    [
+      "Spiritism",
+      "spiritist"
+    ]
+  },
+  {
+    "Solresol": "misisoldo",
+    "English":
+    [
+      "Experiment",
+      "test",
+      "experimenter",
+      "experimental"
+    ]
+  },
+  {
+    "Solresol": "misisolre",
+    "English":
+    [
+      "Prove",
+      "demonstrate",
+      "evidence",
+      "demonstration",
+      "proven",
+      "obvious",
+      "demonstrated"
+    ]
+  },
+  {
+    "Solresol": "misisolmi",
+    "English":
+    [
+      "Observe",
+      "note",
+      "finding",
+      "observation",
+      "found",
+      "observed"
+    ]
+  },
+  {
+    "Solresol": "misisolfa",
+    "English":
+    [
+      "Persuade",
+      "convince",
+      "persuation",
+      "persuasive",
+      "persuaded",
+      "convinced"
+    ]
+  },
+  {
+    "Solresol": "misisolla",
+    "English":
+    [
+      "Believe",
+      "imagine",
+      "credulity",
+      "credulous"
+    ]
+  },
+  {
+    "Solresol": "misisolsi",
+    "English":
+    [
+      "Certainty",
+      "surety",
+      "infallibility",
+      "authenticity",
+      "sure",
+      "infallible",
+      "indubitable",
+      "irrifutable",
+      "positive",
+      "certain",
+      "undoubtedly",
+      "surely",
+      "positively"
+    ]
+  },
+  {
+    "Solresol": "misilado",
+    "English":
+    [
+      "Sleight of hand",
+      "prestidigitation",
+      "conjure",
+      "conjuror",
+      "magician"
+    ]
+  },
+  {
+    "Solresol": "misilare",
+    "English":
+    [
+      "Phantasmagoria",
+      "ghost",
+      "spectrum",
+      "specter",
+      "phantom",
+      ""
+    ]
+  },
+  {
+    "Solresol": "misilami",
+    "English":
+    [
+      "Transform",
+      "transmute",
+      "transformation",
+      "transfigure",
+      "transmutation",
+      "transmutable"
+    ]
+  },
+  {
+    "Solresol": "misilafa",
+    "English":
+    [
+      "Bewitch",
+      "cast a spell on someone",
+      "sorcery",
+      "witchcraft",
+      "sorcerer",
+      "magician",
+      "enchanting",
+      "magic"
+    ]
+  },
+  {
+    "Solresol": "misilasol",
+    "English":
+    [
+      "Partner",
+      "accomplice"
+    ]
+  },
+  {
+    "Solresol": "misilasi",
+    "English":
+    [
+      "Colusion",
+      "accomplice (in crime?)",
+      "(accessory)"
+    ]
+  },
+  {
+    "Solresol": "fadoredo",
+    "English":
+    [
+      "Nature",
+      "naturalist",
+      "natural",
+      "naturally"
+    ]
+  },
+  {
+    "Solresol": "fadoremi",
+    "English":
+    [
+      "Countryside",
+      "country",
+      "countryman",
+      "villager",
+      "peasant",
+      "shepherd"
+    ]
+  },
+  {
+    "Solresol": "fadorefa",
+    "English":
+    [
+      "Landscape",
+      "scenery",
+      "site",
+      "landscape"
+    ]
+  },
+  {
+    "Solresol": "fadoresol",
+    "English":
+    [
+      "Picturesque",
+      "rugged"
+    ]
+  },
+  {
+    "Solresol": "fadorela",
+    "English":
+    [
+      "Surround",
+      "gird",
+      "area",
+      "vicinity",
+      "surrounded",
+      "around",
+      "girded"
+    ]
+  },
+  {
+    "Solresol": "fadoresi",
+    "English":
+    [
+      "Farm",
+      "farmer"
+    ]
+  },
+  {
+    "Solresol": "fadomido",
+    "English":
+    [
+      "Mountain",
+      "mount",
+      "hill",
+      "mountainous",
+      "hilly"
+    ]
+  },
+  {
+    "Solresol": "fadomire",
+    "English":
+    [
+      "Volcano",
+      "volcanic"
+    ]
+  },
+  {
+    "Solresol": "fadomifa",
+    "English":
+    [
+      "To be engulfed",
+      "pit",
+      "chasm",
+      "abyss",
+      "precipice"
+    ]
+  },
+  {
+    "Solresol": "fadomisol",
+    "English":
+    [
+      "Rock",
+      "rocky"
+    ]
+  },
+  {
+    "Solresol": "fadomila",
+    "English":
+    [
+      "Dry",
+      "arid",
+      "drought",
+      "sterile",
+      "infertile",
+      "unsuccessful"
+    ]
+  },
+  {
+    "Solresol": "fadomisi",
+    "English":
+    [
+      "Desert",
+      "deserted",
+      "uninhabited"
+    ]
+  },
+  {
+    "Solresol": "fadofado",
+    "English":
+    [
+      "Isolate",
+      "put away",
+      "seclude",
+      "isolation",
+      "loneliness",
+      "isolated",
+      "lonely",
+      "solitary",
+      "alone "
+    ]
+  },
+  {
+    "Solresol": "fadofare",
+    "English":
+    [
+      "Take refuge",
+      "withdraw",
+      "retire",
+      "refuge",
+      "asylum",
+      "reclusion",
+      "recluse"
+    ]
+  },
+  {
+    "Solresol": "fadofami",
+    "English":
+    [
+      "Park",
+      "grove",
+      "the woods",
+      "forest",
+      "forestry"
+    ]
+  },
+  {
+    "Solresol": "fadofasol",
+    "English":
+    [
+      "Tree",
+      "shrub",
+      "bush"
+    ]
+  },
+  {
+    "Solresol": "fadofala",
+    "English":
+    [
+      "Foliage",
+      "leaves"
+    ]
+  },
+  {
+    "Solresol": "fadofasi",
+    "English":
+    [
+      "Shade",
+      "shadowing",
+      "shadowy",
+      "shady"
+    ]
+  },
+  {
+    "Solresol": "fadosoldo",
+    "English":
+    [
+      "Close (v.)",
+      "closing",
+      "closed"
+    ]
+  },
+  {
+    "Solresol": "fadosolre",
+    "English":
+    [
+      "Clear (cultivate",
+      "clear the land",
+      "prepare the ground)"
+    ]
+  },
+  {
+    "Solresol": "fadosolmi",
+    "English":
+    [
+      "Mow",
+      "reap",
+      "trim"
+    ]
+  },
+  {
+    "Solresol": "fadosolfa",
+    "English":
+    [
+      "Rake",
+      "harrow"
+    ]
+  },
+  {
+    "Solresol": "fadosolla",
+    "English":
+    [
+      "Dig",
+      "spade",
+      "pickaxe"
+    ]
+  },
+  {
+    "Solresol": "fadosolsi",
+    "English":
+    [
+      "Graft",
+      "grafter"
+    ]
+  },
+  {
+    "Solresol": "fadolado",
+    "English":
+    [
+      "Take off",
+      "delete",
+      "remove",
+      "subtract",
+      "prune",
+      "extract",
+      "deletion",
+      "removal"
+    ]
+  },
+  {
+    "Solresol": "fadolare",
+    "English":
+    [
+      "Plant",
+      "planting",
+      "planter",
+      "plant"
+    ]
+  },
+  {
+    "Solresol": "fadolami",
+    "English":
+    [
+      "To (take) root",
+      "root"
+    ]
+  },
+  {
+    "Solresol": "fadolafa",
+    "English":
+    [
+      "Stem",
+      "stalk",
+      "trunk",
+      "stump"
+    ]
+  },
+  {
+    "Solresol": "fadolasol",
+    "English":
+    [
+      "Branch",
+      "limb",
+      "bough"
+    ]
+  },
+  {
+    "Solresol": "fadolasi",
+    "English":
+    [
+      "Hedge",
+      "bush",
+      "undergrowth"
+    ]
+  },
+  {
+    "Solresol": "fadosido",
+    "English":
+    [
+      "Garden (v.)",
+      "gardening",
+      "horticulture",
+      "gardener",
+      "horticulturist"
+    ]
+  },
+  {
+    "Solresol": "fadosire",
+    "English":
+    [
+      "Garden (n.)",
+      "grove"
+    ]
+  },
+  {
+    "Solresol": "fadosimi",
+    "English":
+    [
+      "Bloom",
+      "flower (v.)",
+      "blossom",
+      "florist",
+      "floral"
+    ]
+  },
+  {
+    "Solresol": "fadosifa",
+    "English":
+    [
+      "Bouquet",
+      "flower-seller"
+    ]
+  },
+  {
+    "Solresol": "fadosisol",
+    "English":
+    [
+      "Classic",
+      "classical",
+      "(standard",
+      "traditional)"
+    ]
+  },
+  {
+    "Solresol": "fadosila",
+    "English":
+    [
+      "Perfume",
+      "embalm",
+      "balm",
+      "smell",
+      "scent",
+      "aroma",
+      "perfumer",
+      "fragrant",
+      "odorous",
+      "embalmed"
+    ]
+  },
+  {
+    "Solresol": "faredore",
+    "English":
+    [
+      "Cultivate",
+      "culture",
+      "agriculture",
+      "cultivator",
+      "(farmer)",
+      "agricultural"
+    ]
+  },
+  {
+    "Solresol": "faredomi",
+    "English":
+    [
+      "Succeed",
+      "come after",
+      "successor",
+      "after"
+    ]
+  },
+  {
+    "Solresol": "faredofa",
+    "English":
+    [
+      "Plow",
+      "furrow",
+      "till",
+      "tillage",
+      "husbandman",
+      "ploughable"
+    ]
+  },
+  {
+    "Solresol": "faredosol",
+    "English":
+    [
+      "Sow",
+      "sowing",
+      "seed"
+    ]
+  },
+  {
+    "Solresol": "faredola",
+    "English":
+    [
+      "Grain",
+      "oats",
+      "millet",
+      "corn"
+    ]
+  },
+  {
+    "Solresol": "faredosi",
+    "English":
+    [
+      "Wheat",
+      "rye"
+    ]
+  },
+  {
+    "Solresol": "faremido",
+    "English":
+    [
+      "Ripen",
+      "mature",
+      "maturity",
+      "ripe",
+      "maturely"
+    ]
+  },
+  {
+    "Solresol": "faremire",
+    "English":
+    [
+      "Pick",
+      "pluck",
+      "collect",
+      "picking"
+    ]
+  },
+  {
+    "Solresol": "faremifa",
+    "English":
+    [
+      "Harvest",
+      "reap",
+      "collect",
+      "reaper",
+      "harvester"
+    ]
+  },
+  {
+    "Solresol": "faremisol",
+    "English":
+    [
+      "Glean",
+      "gleaner"
+    ]
+  },
+  {
+    "Solresol": "faremila",
+    "English":
+    [
+      "Ear (of wheat/corn)"
+    ]
+  },
+  {
+    "Solresol": "faremisi",
+    "English":
+    [
+      "Field",
+      "meadow",
+      "prairie",
+      "plain",
+      "pastoral"
+    ]
+  },
+  {
+    "Solresol": "farefado",
+    "English":
+    [
+      "Vegetate",
+      "grow",
+      "vegetation",
+      "growth",
+      "plant"
+    ]
+  },
+  {
+    "Solresol": "farefare",
+    "English":
+    [
+      "Greening",
+      "greenery",
+      "herbage",
+      "turf",
+      "grass"
+    ]
+  },
+  {
+    "Solresol": "farefami",
+    "English":
+    [
+      "Valley",
+      "dale"
+    ]
+  },
+  {
+    "Solresol": "farefasol",
+    "English":
+    [
+      "Hunt",
+      "hunting",
+      "hunter"
+    ]
+  },
+  {
+    "Solresol": "farefala",
+    "English":
+    [
+      "Pursue",
+      "pursuit",
+      "pursuer"
+    ]
+  },
+  {
+    "Solresol": "farefasi",
+    "English":
+    [
+      "Savagery",
+      "savage",
+      "wild"
+    ]
+  },
+  {
+    "Solresol": "faresoldo",
+    "English":
+    [
+      "Horse",
+      "steed"
+    ]
+  },
+  {
+    "Solresol": "faresolre",
+    "English":
+    [
+      "Bridle",
+      "reins",
+      "bit"
+    ]
+  },
+  {
+    "Solresol": "faresolmi",
+    "English":
+    [
+      "Saddle",
+      "saddler"
+    ]
+  },
+  {
+    "Solresol": "faresolfa",
+    "English":
+    [
+      "Stirrup"
+    ]
+  },
+  {
+    "Solresol": "faresolla",
+    "English":
+    [
+      "Whip",
+      "crop"
+    ]
+  },
+  {
+    "Solresol": "faresolsi",
+    "English":
+    [
+      "Harness"
+    ]
+  },
+  {
+    "Solresol": "farelado",
+    "English":
+    [
+      "Animal",
+      "quadroped"
+    ]
+  },
+  {
+    "Solresol": "farelare",
+    "English":
+    [
+      "Sheep",
+      "lamb"
+    ]
+  },
+  {
+    "Solresol": "farelami",
+    "English":
+    [
+      "Cattle",
+      "cow",
+      "bull",
+      "beef"
+    ]
+  },
+  {
+    "Solresol": "farelafa",
+    "English":
+    [
+      "Pig",
+      "pork",
+      "sow",
+      "boar"
+    ]
+  },
+  {
+    "Solresol": "farelasol",
+    "English":
+    [
+      "Goat",
+      "kid"
+    ]
+  },
+  {
+    "Solresol": "farelasi",
+    "English":
+    [
+      "Donkey",
+      "ass"
+    ]
+  },
+  {
+    "Solresol": "faresido",
+    "English":
+    [
+      "Camel"
+    ]
+  },
+  {
+    "Solresol": "faresire",
+    "English":
+    [
+      "Dog",
+      "bitch"
+    ]
+  },
+  {
+    "Solresol": "faresimi",
+    "English":
+    [
+      "Cat"
+    ]
+  },
+  {
+    "Solresol": "faresifa",
+    "English":
+    [
+      "Bird"
+    ]
+  },
+  {
+    "Solresol": "faresisol",
+    "English":
+    [
+      "Wings",
+      "plumage",
+      "feathers"
+    ]
+  },
+  {
+    "Solresol": "faresila",
+    "English":
+    [
+      "Fly",
+      "flit",
+      "fly away",
+      "take flight",
+      "flight"
+    ]
+  },
+  {
+    "Solresol": "famidore",
+    "English":
+    [
+      "Conscription",
+      "recruitment",
+      "(drafting)",
+      "(\"compulsory enlistment for state service\")"
+    ]
+  },
+  {
+    "Solresol": "famidomi",
+    "English":
+    [
+      "Soldier",
+      "corporal",
+      "brigadier",
+      "sergeant",
+      "sergeant major",
+      "warrant officer",
+      "noncommissioned officer"
+    ]
+  },
+  {
+    "Solresol": "famidofa",
+    "English":
+    [
+      "Uniform"
+    ]
+  },
+  {
+    "Solresol": "famidosol",
+    "English":
+    [
+      "Equipment",
+      "pouch",
+      "belt",
+      "shoulder strap",
+      "harness",
+      "knapsack (backpack)"
+    ]
+  },
+  {
+    "Solresol": "famidola",
+    "English":
+    [
+      "To arm",
+      "arms",
+      "weapons",
+      "weapon maker",
+      "armor"
+    ]
+  },
+  {
+    "Solresol": "famidosi",
+    "English":
+    [
+      "To increase gradually (graduate)",
+      "grade",
+      "degree",
+      "rank",
+      "gradual",
+      "gradually"
+    ]
+  },
+  {
+    "Solresol": "famiredo",
+    "English":
+    [
+      "Staff (as in employees)"
+    ]
+  },
+  {
+    "Solresol": "famiremi",
+    "English":
+    [
+      "Officer",
+      "lieutenant",
+      "captain",
+      "major",
+      "battalion chief"
+    ]
+  },
+  {
+    "Solresol": "famirefa",
+    "English":
+    [
+      "Colonel"
+    ]
+  },
+  {
+    "Solresol": "famiresol",
+    "English":
+    [
+      "\"Aide-de-camp\"",
+      "Camp assistant",
+      "\"A military officer acting as a confidential assistant to a senior officer\""
+    ]
+  },
+  {
+    "Solresol": "famirela",
+    "English":
+    [
+      "General",
+      "generalship",
+      "brigadier general",
+      "division general",
+      "generalissimo"
+    ]
+  },
+  {
+    "Solresol": "famiresi",
+    "English":
+    [
+      "Marshal"
+    ]
+  },
+  {
+    "Solresol": "famifado",
+    "English":
+    [
+      "Vice",
+      "vicious",
+      "viciously"
+    ]
+  },
+  {
+    "Solresol": "famifare",
+    "English":
+    [
+      "Army",
+      "troops"
+    ]
+  },
+  {
+    "Solresol": "famifami",
+    "English":
+    [
+      "Activity",
+      "vigilance",
+      "active",
+      "vigilant",
+      "alert",
+      "actively"
+    ]
+  },
+  {
+    "Solresol": "famifasol",
+    "English":
+    [
+      "Brigade",
+      "division"
+    ]
+  },
+  {
+    "Solresol": "famifala",
+    "English":
+    [
+      "Regiment",
+      "legion",
+      "battalion",
+      "squadron",
+      "company"
+    ]
+  },
+  {
+    "Solresol": "famifasi",
+    "English":
+    [
+      "Zouaves",
+      "Spahis (both are members of infantry/cavalry in France) "
+    ]
+  },
+  {
+    "Solresol": "famisoldo",
+    "English":
+    [
+      "To kill",
+      "to \"off\"",
+      "killed"
+    ]
+  },
+  {
+    "Solresol": "famisolre",
+    "English":
+    [
+      "Infantry",
+      "rifleman",
+      "infantryman",
+      "grenadier",
+      "\"outfielder\""
+    ]
+  },
+  {
+    "Solresol": "famisolmi",
+    "English":
+    [
+      "Cavalry",
+      "cavalryman"
+    ]
+  },
+  {
+    "Solresol": "famisolfa",
+    "English":
+    [
+      "Artillery",
+      "gunner"
+    ]
+  },
+  {
+    "Solresol": "famisolla",
+    "English":
+    [
+      "Reverse",
+      "inverse",
+      "in reverse",
+      "in the opposite way"
+    ]
+  },
+  {
+    "Solresol": "famisolsi",
+    "English":
+    [
+      "Engineer",
+      "engineering"
+    ]
+  },
+  {
+    "Solresol": "familado",
+    "English":
+    [
+      "Camp",
+      "encampment"
+    ]
+  },
+  {
+    "Solresol": "familami",
+    "English":
+    [
+      "Bivouac"
+    ]
+  },
+  {
+    "Solresol": "familafa",
+    "English":
+    [
+      "Itinerant",
+      "travelling"
+    ]
+  },
+  {
+    "Solresol": "familasol",
+    "English":
+    [
+      "Material (n.)",
+      "equipment"
+    ]
+  },
+  {
+    "Solresol": "familasi",
+    "English":
+    [
+      "Flag",
+      "banner"
+    ]
+  },
+  {
+    "Solresol": "famisido",
+    "English":
+    [
+      "Firearms",
+      "musketry (musketeer)"
+    ]
+  },
+  {
+    "Solresol": "famisire",
+    "English":
+    [
+      "Bomb",
+      "cannon",
+      "mortar"
+    ]
+  },
+  {
+    "Solresol": "famisimi",
+    "English":
+    [
+      "Percussion",
+      "drums"
+    ]
+  },
+  {
+    "Solresol": "famisifa",
+    "English":
+    [
+      "Shoot",
+      "rifle",
+      "shooting",
+      "discharge"
+    ]
+  },
+  {
+    "Solresol": "famisisol",
+    "English":
+    [
+      "Translation issues",
+      "but I'm guessing: a synchronized firing of guns"
+    ]
+  },
+  {
+    "Solresol": "famisila",
+    "English":
+    [
+      "Pistol",
+      "handgun"
+    ]
+  },
+  {
+    "Solresol": "fasoldore",
+    "English":
+    [
+      "Gunpowder"
+    ]
+  },
+  {
+    "Solresol": "fasoldomi",
+    "English":
+    [
+      "Cartrige",
+      "(capsule)"
+    ]
+  },
+  {
+    "Solresol": "fasoldofa",
+    "English":
+    [
+      "Bullet",
+      "bullet shells"
+    ]
+  },
+  {
+    "Solresol": "fasoldosol",
+    "English":
+    [
+      "To begin",
+      "initiate",
+      "prime",
+      "boot up",
+      "wick",
+      "fuse",
+      "(also to light a wick?)"
+    ]
+  },
+  {
+    "Solresol": "fasoldola",
+    "English":
+    [
+      "Sword",
+      "saber"
+    ]
+  },
+  {
+    "Solresol": "fasoldosi",
+    "English":
+    [
+      "Dagger",
+      "poniard",
+      "stilleto"
+    ]
+  },
+  {
+    "Solresol": "fasolredo",
+    "English":
+    [
+      "Covet",
+      "lust",
+      "greed",
+      "insatiability",
+      "rapacious",
+      "greedy",
+      "insatiable"
+    ]
+  },
+  {
+    "Solresol": "fasolremi",
+    "English":
+    [
+      "Besiege",
+      "take over",
+      "siege",
+      "besieging"
+    ]
+  },
+  {
+    "Solresol": "fasolrefa",
+    "English":
+    [
+      "Attack",
+      "assail",
+      "offensive",
+      "assault",
+      "aggression",
+      "attacker",
+      "assailant",
+      "aggressor",
+      "aggressive"
+    ]
+  },
+  {
+    "Solresol": "fasolresol",
+    "English":
+    [
+      "Fight",
+      "combat",
+      "battle",
+      "melee",
+      "battlefield"
+    ]
+  },
+  {
+    "Solresol": "fasolrela",
+    "English":
+    [
+      "Fire",
+      "unload",
+      "release",
+      "shooting",
+      "rifleman"
+    ]
+  },
+  {
+    "Solresol": "fasolresi",
+    "English":
+    [
+      "\"Grapeshot\"",
+      "hail of bullets",
+      "machine gun (v.)"
+    ]
+  },
+  {
+    "Solresol": "fasolmido",
+    "English":
+    [
+      "Stupidity",
+      "inability",
+      "unable",
+      "limited",
+      "unintelligent",
+      "unintelligently"
+    ]
+  },
+  {
+    "Solresol": "fasolmire",
+    "English":
+    [
+      "Strategy",
+      "tactic",
+      "tactical",
+      "strategic"
+    ]
+  },
+  {
+    "Solresol": "fasolmifa",
+    "English":
+    [
+      "Serve",
+      "service",
+      "servant"
+    ]
+  },
+  {
+    "Solresol": "fasolmisol",
+    "English":
+    [
+      "Resist",
+      "defend",
+      "hold out",
+      "resistance",
+      "resistant",
+      "unbeaten"
+    ]
+  },
+  {
+    "Solresol": "fasolmila",
+    "English":
+    [
+      "Inflexibility",
+      "invulnerability",
+      "invinciblility",
+      "indomitable",
+      "unshakable",
+      "irresistibly",
+      "unswervingly"
+    ]
+  },
+  {
+    "Solresol": "fasolmisi",
+    "English":
+    [
+      "Stubborn",
+      "obstinate",
+      "stubbornness",
+      "obstinately"
+    ]
+  },
+  {
+    "Solresol": "fasolfado",
+    "English":
+    [
+      "Unsightly",
+      "awkward",
+      "ugly",
+      "ungraceful",
+      "unpleasing",
+      "clumsy"
+    ]
+  },
+  {
+    "Solresol": "fasolfare",
+    "English":
+    [
+      "Warring",
+      "war",
+      "\"military art\"",
+      "warrior",
+      "military",
+      "martial",
+      "warlike"
+    ]
+  },
+  {
+    "Solresol": "fasolfami",
+    "English":
+    [
+      "Conquer",
+      "overcome",
+      "disarm",
+      "tame",
+      "surmount",
+      "victory",
+      "winner"
+    ]
+  },
+  {
+    "Solresol": "fasolfasol",
+    "English":
+    [
+      "Conquer",
+      "conquest",
+      "feat",
+      "conqueror"
+    ]
+  },
+  {
+    "Solresol": "fasolfala",
+    "English":
+    [
+      "Heroism",
+      "heroes",
+      "hero",
+      "heroin",
+      "heroic"
+    ]
+  },
+  {
+    "Solresol": "fasolfasi",
+    "English":
+    [
+      "Triumph",
+      "victory",
+      "victor",
+      "triumphant",
+      "triumphal"
+    ]
+  },
+  {
+    "Solresol": "fasollado",
+    "English":
+    [
+      "Sea",
+      "ocean",
+      "gulf",
+      "bay"
+    ]
+  },
+  {
+    "Solresol": "fasollare",
+    "English":
+    [
+      "Drift",
+      "fluctuate",
+      "undulate",
+      "flow",
+      "wave",
+      "vague",
+      "ripple",
+      "floating",
+      "rolling",
+      "undulating"
+    ]
+  },
+  {
+    "Solresol": "fasollami",
+    "English":
+    [
+      "Marine",
+      "maritime"
+    ]
+  },
+  {
+    "Solresol": "fasollafa",
+    "English":
+    [
+      "Fleet",
+      "squadron"
+    ]
+  },
+  {
+    "Solresol": "fasollasol",
+    "English":
+    [
+      "Ship",
+      "brig"
+    ]
+  },
+  {
+    "Solresol": "fasollasi",
+    "English":
+    [
+      "Boat",
+      "skiff"
+    ]
+  },
+  {
+    "Solresol": "fasolsido",
+    "English":
+    [
+      "Mast",
+      "foremast"
+    ]
+  },
+  {
+    "Solresol": "fasolsire",
+    "English":
+    [
+      "Sail (n.)"
+    ]
+  },
+  {
+    "Solresol": "fasolsimi",
+    "English":
+    [
+      "Rudder"
+    ]
+  },
+  {
+    "Solresol": "fasolsisol",
+    "English":
+    [
+      "Marine crew",
+      "sailor"
+    ]
+  },
+  {
+    "Solresol": "fasolsila",
+    "English":
+    [
+      "Admirality",
+      "admiral",
+      "vice-admiral",
+      "contre-admiral"
+    ]
+  },
+  {
+    "Solresol": "faladore",
+    "English":
+    [
+      "To navigate",
+      "navigation",
+      "navigator",
+      "navigable"
+    ]
+  },
+  {
+    "Solresol": "faladomi",
+    "English":
+    [
+      "Space",
+      "expanse",
+      "area",
+      "spacious",
+      "expansive"
+    ]
+  },
+  {
+    "Solresol": "faladofa",
+    "English":
+    [
+      "Kilometer"
+    ]
+  },
+  {
+    "Solresol": "faladosol",
+    "English":
+    [
+      "Row (v)",
+      "oar",
+      "rowing",
+      "rower",
+      "oarsman"
+    ]
+  },
+  {
+    "Solresol": "faladola",
+    "English":
+    [
+      "To sail (v.)"
+    ]
+  },
+  {
+    "Solresol": "faladosi",
+    "English":
+    [
+      "Maneuver",
+      "one who maneuvers"
+    ]
+  },
+  {
+    "Solresol": "falaredo",
+    "English":
+    [
+      "To board",
+      "access",
+      "dock",
+      "boardable",
+      "accessible"
+    ]
+  },
+  {
+    "Solresol": "falaremi",
+    "English":
+    [
+      "To anchor",
+      "to moor",
+      "anchor",
+      "mooring"
+    ]
+  },
+  {
+    "Solresol": "falarefa",
+    "English":
+    [
+      "Seaport",
+      "harbor"
+    ]
+  },
+  {
+    "Solresol": "falaresol",
+    "English":
+    [
+      "Beach",
+      "shore",
+      "bank"
+    ]
+  },
+  {
+    "Solresol": "falarela",
+    "English":
+    [
+      "Coast",
+      "seashore",
+      "sea-cliff"
+    ]
+  },
+  {
+    "Solresol": "falaresi",
+    "English":
+    [
+      "Strait",
+      "peninsula",
+      "isthmus"
+    ]
+  },
+  {
+    "Solresol": "falamido",
+    "English":
+    [
+      "Madness",
+      "insanity",
+      "dementia",
+      "crazy",
+      "insane"
+    ]
+  },
+  {
+    "Solresol": "falamire",
+    "English":
+    [
+      "Lake",
+      "lagoon",
+      "pond"
+    ]
+  },
+  {
+    "Solresol": "falamifa",
+    "English":
+    [
+      "Depth",
+      "deep",
+      "deeply"
+    ]
+  },
+  {
+    "Solresol": "falamisol",
+    "English":
+    [
+      "To fish",
+      "fishing",
+      "fisherman"
+    ]
+  },
+  {
+    "Solresol": "falamila",
+    "English":
+    [
+      "Fishing line"
+    ]
+  },
+  {
+    "Solresol": "falamisi",
+    "English":
+    [
+      "Bait",
+      "lure",
+      "fishhook"
+    ]
+  },
+  {
+    "Solresol": "falafado",
+    "English":
+    [
+      "Swim",
+      "swimmer",
+      "by swimming"
+    ]
+  },
+  {
+    "Solresol": "falafare",
+    "English":
+    [
+      "To flood",
+      "inundate",
+      "swamp (v.)",
+      "submerge",
+      "overwhelm"
+    ]
+  },
+  {
+    "Solresol": "falafami",
+    "English":
+    [
+      "To fool",
+      "dupe",
+      "fooled",
+      "duped"
+    ]
+  },
+  {
+    "Solresol": "falafasol",
+    "English":
+    [
+      "To shipwreck",
+      "shipwreck",
+      "shipwrecked",
+      "castaway"
+    ]
+  },
+  {
+    "Solresol": "falafala",
+    "English":
+    [
+      "To drown",
+      "drowned",
+      "a drowned person"
+    ]
+  },
+  {
+    "Solresol": "falafasi",
+    "English":
+    [
+      "Torrent",
+      "surge",
+      "torrentuous",
+      "billowing"
+    ]
+  },
+  {
+    "Solresol": "falasoldo",
+    "English":
+    [
+      "Creek",
+      "stream",
+      "brook"
+    ]
+  },
+  {
+    "Solresol": "falasolre",
+    "English":
+    [
+      "Channel",
+      "canal",
+      "conduit"
+    ]
+  },
+  {
+    "Solresol": "falasolmi",
+    "English":
+    [
+      "Well (n.)",
+      "sump",
+      "water well"
+    ]
+  },
+  {
+    "Solresol": "falasolfa",
+    "English":
+    [
+      "Pump (v.)",
+      "draw (liquid)",
+      "pump (n.)",
+      "pumper"
+    ]
+  },
+  {
+    "Solresol": "falasolla",
+    "English":
+    [
+      "To flow",
+      "gush",
+      "gushing",
+      "cascade",
+      "waterfall"
+    ]
+  },
+  {
+    "Solresol": "falasolsi",
+    "English":
+    [
+      "Unite",
+      "rally",
+      "band together",
+      "gang up",
+      "union",
+      "rally",
+      "federalism",
+      "confederation",
+      "coalition",
+      "league",
+      "federal",
+      "united",
+      "rallied",
+      "ligated"
+    ]
+  },
+  {
+    "Solresol": "falasido",
+    "English":
+    [
+      "Continent",
+      "mainland",
+      "continental"
+    ]
+  },
+  {
+    "Solresol": "falasire",
+    "English":
+    [
+      "Europe",
+      "European",
+      "a European person"
+    ]
+  },
+  {
+    "Solresol": "falasimi",
+    "English":
+    [
+      "Asia",
+      "Asian",
+      "an Asian person"
+    ]
+  },
+  {
+    "Solresol": "falasifa",
+    "English":
+    [
+      "Africa",
+      "African",
+      "an African person"
+    ]
+  },
+  {
+    "Solresol": "falasisol",
+    "English":
+    [
+      "America",
+      "the New World",
+      "American",
+      "an American person"
+    ]
+  },
+  {
+    "Solresol": "falasila",
+    "English":
+    [
+      "Oceania",
+      "Australia",
+      "Oceanian",
+      "an Oceanian person",
+      "(Australian",
+      "an Australian person)"
+    ]
+  },
+  {
+    "Solresol": "fasidore",
+    "English":
+    [
+      "Travel",
+      "tour",
+      "peregrination",
+      "pilgrimage",
+      "traveler",
+      "tourist",
+      "pilgrim"
+    ]
+  },
+  {
+    "Solresol": "fasidomi",
+    "English":
+    [
+      "Leave",
+      "go from",
+      "depart"
+    ]
+  },
+  {
+    "Solresol": "fasidofa",
+    "English":
+    [
+      "Route",
+      "road map"
+    ]
+  },
+  {
+    "Solresol": "fasidosol",
+    "English":
+    [
+      "To separate oneself",
+      "to part",
+      "separation",
+      "separable"
+    ]
+  },
+  {
+    "Solresol": "fasidola",
+    "English":
+    [
+      "To go away",
+      "to retire",
+      "remoteness",
+      "distance",
+      "distant",
+      "remote",
+      "far away"
+    ]
+  },
+  {
+    "Solresol": "fasidosi",
+    "English":
+    [
+      "To absent oneself",
+      "absence",
+      "absent"
+    ]
+  },
+  {
+    "Solresol": "fasiredo",
+    "English":
+    [
+      "Railway",
+      "railroad"
+    ]
+  },
+  {
+    "Solresol": "fasiremi",
+    "English":
+    [
+      "Locomotive"
+    ]
+  },
+  {
+    "Solresol": "fasirefa",
+    "English":
+    [
+      "Transport",
+      "transfer",
+      "transportation",
+      "transferable",
+      "transportable"
+    ]
+  },
+  {
+    "Solresol": "fasiresol",
+    "English":
+    [
+      "Baggage",
+      "luggage",
+      "case",
+      "trunk",
+      "suitcase"
+    ]
+  },
+  {
+    "Solresol": "fasirela",
+    "English":
+    [
+      "Duty",
+      "debt",
+      "debtor",
+      "indebted"
+    ]
+  },
+  {
+    "Solresol": "fasiresi",
+    "English":
+    [
+      "Roll",
+      "wheel",
+      "bearing",
+      "cog"
+    ]
+  },
+  {
+    "Solresol": "fasimido",
+    "English":
+    [
+      "To dash/rush",
+      "élan",
+      "spontaneity",
+      "suddenness",
+      "spontaneous",
+      "suddenly",
+      "all at once",
+      "immediately",
+      "instantly",
+      "spontaneously"
+    ]
+  },
+  {
+    "Solresol": "fasimire",
+    "English":
+    [
+      "Speed",
+      "haste",
+      "velocity",
+      "promptness",
+      "quickly",
+      "fast"
+    ]
+  },
+  {
+    "Solresol": "fasimifa",
+    "English":
+    [
+      "Vivacity",
+      "exuberance",
+      "impetuosity",
+      "dashing",
+      "lively",
+      "expeditious",
+      "strongly",
+      "impetuously"
+    ]
+  },
+  {
+    "Solresol": "fasimisol",
+    "English":
+    [
+      "Move",
+      "movement",
+      "oscillation",
+      "locomotion",
+      "fluctuation",
+      "engine",
+      "moving"
+    ]
+  },
+  {
+    "Solresol": "fasimila",
+    "English":
+    [
+      "To hurry",
+      "hasten",
+      "accelerate",
+      "acceleration",
+      "accelerator"
+    ]
+  },
+  {
+    "Solresol": "fasimisi",
+    "English":
+    [
+      "Advance",
+      "move",
+      "thrust",
+      "forward (motion)"
+    ]
+  },
+  {
+    "Solresol": "fasifado",
+    "English":
+    [
+      "To catch sight of",
+      "to glimpse",
+      "to see",
+      "view",
+      "point of view"
+    ]
+  },
+  {
+    "Solresol": "fasifare",
+    "English":
+    [
+      "Perspective",
+      "in perspective"
+    ]
+  },
+  {
+    "Solresol": "fasifami",
+    "English":
+    [
+      "Moderate",
+      "to temper",
+      "repress",
+      "moderation",
+      "restraint",
+      "moderate",
+      "withheld",
+      "reserve",
+      "tempered",
+      "temperate",
+      "moderator",
+      "moderately"
+    ]
+  },
+  {
+    "Solresol": "fasifasol",
+    "English":
+    [
+      "Accident",
+      "incident",
+      "event"
+    ]
+  },
+  {
+    "Solresol": "fasifala",
+    "English":
+    [
+      "Scare",
+      "frighten",
+      "terrify",
+      "scary",
+      "frightening",
+      "frightful",
+      "terrible",
+      "dreadful"
+    ]
+  },
+  {
+    "Solresol": "fasifasi",
+    "English":
+    [
+      "To be scared",
+      "shudder",
+      "terror",
+      "fright",
+      "fear",
+      "dread",
+      "trembling",
+      "terrified",
+      "scared"
+    ]
+  },
+  {
+    "Solresol": "fasisoldo",
+    "English":
+    [
+      "Train",
+      "\"following cars\"",
+      "wagon"
+    ]
+  },
+  {
+    "Solresol": "fasisolre",
+    "English":
+    [
+      "To run through",
+      "route"
+    ]
+  },
+  {
+    "Solresol": "fasisolmi",
+    "English":
+    [
+      "Direct",
+      "express",
+      "directly",
+      "in a straight line"
+    ]
+  },
+  {
+    "Solresol": "fasisolfa",
+    "English":
+    [
+      "Road",
+      "trail",
+      "way"
+    ]
+  },
+  {
+    "Solresol": "fasisolla",
+    "English":
+    [
+      "Stop",
+      "to park",
+      "station",
+      "respite",
+      "truce",
+      "stationary"
+    ]
+  },
+  {
+    "Solresol": "fasisolsi",
+    "English":
+    [
+      "Bifurcate (divide into two branches/forks)",
+      "branch",
+      "bifurcation"
+    ]
+  },
+  {
+    "Solresol": "fasilado",
+    "English":
+    [
+      "South",
+      "southern",
+      "meridian"
+    ]
+  },
+  {
+    "Solresol": "fasilare",
+    "English":
+    [
+      "East",
+      "eastern",
+      "Orient",
+      "the East",
+      "Oriental"
+    ]
+  },
+  {
+    "Solresol": "fasilami",
+    "English":
+    [
+      "The four cardinal points",
+      "points of the compass"
+    ]
+  },
+  {
+    "Solresol": "fasilafa",
+    "English":
+    [
+      "To join together",
+      "to meet",
+      "to rejoin",
+      "to get together"
+    ]
+  },
+  {
+    "Solresol": "fasilasol",
+    "English":
+    [
+      "Arrive",
+      "reach",
+      "achieve",
+      "arrival",
+      "finish"
+    ]
+  },
+  {
+    "Solresol": "fasilasi",
+    "English":
+    [
+      "Station (railway/bus)",
+      "landing dock",
+      "wharf",
+      "pier",
+      "unloading dock"
+    ]
+  },
+  {
+    "Solresol": "soldoredo",
+    "English":
+    [
+      "Art",
+      "artist",
+      "artistic",
+      "artistically"
+    ]
+  },
+  {
+    "Solresol": "soldoremi",
+    "English":
+    [
+      "Theater",
+      "theatre",
+      "theatrical",
+      "theatrically"
+    ]
+  },
+  {
+    "Solresol": "soldorefa",
+    "English":
+    [
+      "Represent",
+      "representation"
+    ]
+  },
+  {
+    "Solresol": "soldoresol",
+    "English":
+    [
+      "Work of theater",
+      "a theatrical piece"
+    ]
+  },
+  {
+    "Solresol": "soldorela",
+    "English":
+    [
+      "Negro",
+      "a black person"
+    ]
+  },
+  {
+    "Solresol": "soldoresi",
+    "English":
+    [
+      "Décor",
+      "decorator"
+    ]
+  },
+  {
+    "Solresol": "soldomila",
+    "English":
+    [
+      "Author",
+      "writer"
+    ]
+  },
+  {
+    "Solresol": "soldosoldo",
+    "English":
+    [
+      "Exit",
+      "come out",
+      "exit (n.)"
+    ]
+  },
+  {
+    "Solresol": "solredore",
+    "English":
+    [
+      "Harp",
+      "harpist"
+    ]
+  },
+  {
+    "Solresol": "solredomi",
+    "English":
+    [
+      "Flute",
+      "flutist"
+    ]
+  },
+  {
+    "Solresol": "solredofa",
+    "English":
+    [
+      "High woodwinds",
+      "clarinet",
+      "bassoon"
+    ]
+  },
+  {
+    "Solresol": "solredosol",
+    "English":
+    [
+      "Saxophone",
+      "trombone"
+    ]
+  },
+  {
+    "Solresol": "solredola",
+    "English":
+    [
+      "Trumpet",
+      "bugle",
+      "horn"
+    ]
+  },
+  {
+    "Solresol": "solredosi",
+    "English":
+    [
+      "Fanfare",
+      "sounding (of trumpets &c.)"
+    ]
+  },
+  {
+    "Solresol": "solremifa",
+    "English":
+    [
+      "Sing",
+      "song",
+      "singer",
+      "singing"
+    ]
+  },
+  {
+    "Solresol": "solrefasi",
+    "English":
+    [
+      "Perfect (v.)",
+      "improve",
+      "develop",
+      "enhance",
+      "improvement",
+      "development",
+      "improved",
+      "perfected",
+      "perfectible",
+      "perfectibility"
+    ]
+  },
+  {
+    "Solresol": "solresire",
+    "English":
+    [
+      "Attend",
+      "be present",
+      "audience",
+      "listener",
+      "spectator",
+      "the public"
+    ]
+  },
+  {
+    "Solresol": "solmidosi",
+    "English":
+    [
+      "Surpass",
+      "eclipse",
+      "overshadow",
+      "outweigh",
+      "prevail",
+      "take precedence over",
+      "dominate",
+      "exceed"
+    ]
+  },
+  {
+    "Solresol": "solfasoldo",
+    "English":
+    [
+      "Disappear",
+      "vanish",
+      "disappearance",
+      "gone",
+      "missing",
+      "vanished"
+    ]
+  },
+  {
+    "Solresol": "solfalafa",
+    "English":
+    [
+      "Concern",
+      "pertain to",
+      "related"
+    ]
+  },
+  {
+    "Solresol": "sollafami",
+    "English":
+    [
+      "Reproduce",
+      "reflect",
+      "reproduction",
+      "reflection",
+      "reflectivity",
+      "reflexivity",
+      "reflector"
+    ]
+  },
+  {
+    "Solresol": "sollasire",
+    "English":
+    [
+      "To know",
+      "knowledge",
+      "science",
+      "education",
+      "instruction",
+      "scholarship",
+      "savant",
+      "educated",
+      "enlightened",
+      "erudite",
+      "scholar",
+      "literate",
+      "learned",
+      "wisely",
+      "knowingly",
+      "learnedly",
+      "eruditely"
+    ]
+  },
+  {
+    "Solresol": "solsidomi",
+    "English":
+    [
+      "Prose writer",
+      "prose (language in ordinary from",
+      "without metrical structure; plain or dull language)",
+      "prosaic"
+    ]
+  },
+  {
+    "Solresol": "solsimire",
+    "English":
+    [
+      "Idea",
+      "notion",
+      "concept"
+    ]
+  },
+  {
+    "Solresol": "solsimisol",
+    "English":
+    [
+      "Think",
+      "meditate",
+      "reflect",
+      "thought",
+      "meditation",
+      "reflection",
+      "thinker",
+      "thoughtful",
+      "meditative",
+      "musingly"
+    ]
+  },
+  {
+    "Solresol": "solsimila",
+    "English":
+    [
+      "Imagine",
+      "imagination",
+      "imaginative",
+      "imaginatively",
+      "imaginable"
+    ]
+  },
+  {
+    "Solresol": "solsifasol",
+    "English":
+    [
+      "Invent",
+      "create",
+      "invention",
+      "creation",
+      "inventor",
+      "creator",
+      "inventive"
+    ]
+  },
+  {
+    "Solresol": "solsifasi",
+    "English":
+    [
+      "Innovate",
+      "innovation",
+      "newness",
+      "novelty",
+      "innovative",
+      "innovator",
+      "new",
+      "modern",
+      "recent",
+      "newly",
+      "recently",
+      "modernly",
+      "lately"
+    ]
+  },
+  {
+    "Solresol": "solsisolsi",
+    "English":
+    [
+      "Glory",
+      "glorious",
+      "that which has gained glory",
+      "gloriously",
+      "with glory"
+    ]
+  },
+  {
+    "Solresol": "solsilasi",
+    "English":
+    [
+      "Inform",
+      "warn",
+      "announce",
+      "notify",
+      "share",
+      "notice",
+      "advertisement"
+    ]
+  },
+  {
+    "Solresol": "ladoresol",
+    "English":
+    [
+      "Produce",
+      "production",
+      "product",
+      "producer"
+    ]
+  },
+  {
+    "Solresol": "ladosido",
+    "English":
+    [
+      "Fabric",
+      "cloth",
+      "material"
+    ]
+  },
+  {
+    "Solresol": "ladosifa",
+    "English":
+    [
+      "Getting closer",
+      "come closer",
+      "approach"
+    ]
+  },
+  {
+    "Solresol": "laredosol",
+    "English":
+    [
+      "Brightness",
+      "white",
+      "whitish"
+    ]
+  },
+  {
+    "Solresol": "larefare",
+    "English":
+    [
+      "Offer",
+      "propose",
+      "proposal",
+      "offer",
+      "motion (not \"movement\")",
+      "offering",
+      "offerer",
+      "supplier",
+      "nominator"
+    ]
+  },
+  {
+    "Solresol": "laresolla",
+    "English":
+    [
+      "Take",
+      "seize",
+      "grab",
+      "taking",
+      "seizure",
+      "capture",
+      "catch",
+      "booty",
+      "loot",
+      "spoil (n.)",
+      "prey"
+    ]
+  },
+  {
+    "Solresol": "larelare",
+    "English":
+    [
+      "Count",
+      "counting",
+      "enumerate",
+      "list",
+      "account",
+      "enumeration",
+      "counter"
+    ]
+  },
+  {
+    "Solresol": "larelami",
+    "English":
+    [
+      "Calculate",
+      "calculation",
+      "arithmetic",
+      "algebra",
+      "calculator",
+      "arithmetician",
+      "algebraic",
+      "arithmetically",
+      "algrebraically"
+    ]
+  },
+  {
+    "Solresol": "larelafa",
+    "English":
+    [
+      "Quantify",
+      "number",
+      "numbering",
+      "figure",
+      "numerical",
+      "numeral"
+    ]
+  },
+  {
+    "Solresol": "lamidore",
+    "English":
+    [
+      "Augment",
+      "increase",
+      "enlarge",
+      "add to",
+      "magnify",
+      "magnification",
+      "extra",
+      "added",
+      "increased",
+      "additional"
+    ]
+  },
+  {
+    "Solresol": "lamidofa",
+    "English":
+    [
+      "Fructify",
+      "be productive",
+      "yield a profit",
+      "fertilize",
+      "fertility",
+      "fertile",
+      "fertile",
+      "productive"
+    ]
+  },
+  {
+    "Solresol": "lamifare",
+    "English":
+    [
+      "Search",
+      "browse",
+      "research",
+      "searchers",
+      "researchers"
+    ]
+  },
+  {
+    "Solresol": "lamisolre",
+    "English":
+    [
+      "Cease",
+      "discontinue",
+      "termination",
+      "cessation",
+      "discontinuation",
+      "discontinued"
+    ]
+  },
+  {
+    "Solresol": "lamisolfa",
+    "English":
+    [
+      "The rest",
+      "remaining",
+      "residue"
+    ]
+  },
+  {
+    "Solresol": "lamilafa",
+    "English":
+    [
+      "Commodity",
+      "merchandise",
+      "goods"
+    ]
+  },
+  {
+    "Solresol": "lamilasi",
+    "English":
+    [
+      "Employ",
+      "apply",
+      "use",
+      "utilise",
+      "consume (?)",
+      "adapt",
+      "make use of",
+      "application",
+      "consumer (?)",
+      "applicable",
+      "adaptable"
+    ]
+  },
+  {
+    "Solresol": "lamisifa",
+    "English":
+    [
+      "Result",
+      "occur",
+      "arise",
+      "result",
+      "consequence",
+      "consequently",
+      "as a result",
+      "accordingly",
+      "in consequence",
+      "therefore",
+      "because of this"
+    ]
+  },
+  {
+    "Solresol": "lafadosi",
+    "English":
+    [
+      "Share",
+      "distribute",
+      "dispense",
+      "sharing",
+      "distribution",
+      "allocation",
+      "distributor",
+      "dispenser",
+      "distributive"
+    ]
+  },
+  {
+    "Solresol": "lafarefa",
+    "English":
+    [
+      "Quarter",
+      "fourth",
+      "quart"
+    ]
+  },
+  {
+    "Solresol": "lafaresol",
+    "English":
+    [
+      "Third"
+    ]
+  },
+  {
+    "Solresol": "lafarela",
+    "English":
+    [
+      "Half"
+    ]
+  },
+  {
+    "Solresol": "lafaresi",
+    "English":
+    [
+      "Complete",
+      "supplement",
+      "supplementary",
+      "entire",
+      "whole",
+      "completely",
+      "entirely",
+      "fully",
+      "thoroughly",
+      "from top to bottom",
+      "in whole",
+      "in entire"
+    ]
+  },
+  {
+    "Solresol": "lafasoldo",
+    "English":
+    [
+      "Currency",
+      "money",
+      "cash",
+      "monetary"
+    ]
+  },
+  {
+    "Solresol": "lasolresol",
+    "English":
+    [
+      "Disillusioned",
+      "disillusion",
+      "disenchantment",
+      "disappointment",
+      "disillusionment",
+      "disenchanted",
+      "disappointing"
+    ]
+  },
+  {
+    "Solresol": "lasolfasol",
+    "English":
+    [
+      "Importance",
+      "important",
+      "significant",
+      "considerable"
+    ]
+  },
+  {
+    "Solresol": "lasidofa",
+    "English":
+    [
+      "Flange",
+      "collar",
+      "stiff collar",
+      "false collar"
+    ]
+  },
+  {
+    "Solresol": "lasidosol",
+    "English":
+    [
+      "Cuffs",
+      "sleeves"
+    ]
+  },
+  {
+    "Solresol": "lasifami",
+    "English":
+    [
+      "Toys",
+      "toy",
+      "rattles (?)"
+    ]
+  },
+  {
+    "Solresol": "sidolami",
+    "English":
+    [
+      "River",
+      "fluvial"
+    ]
+  },
+  {
+    "Solresol": "sidolasi",
+    "English":
+    [
+      "Fountain"
+    ]
+  },
+  {
+    "Solresol": "siremido",
+    "English":
+    [
+      "Deafness",
+      "deaf",
+      "deafly"
+    ]
+  },
+  {
+    "Solresol": "sirelasi",
+    "English":
+    [
+      "Constitute",
+      "establish",
+      "form",
+      "constitution",
+      "formation",
+      "constituent",
+      "constitutional",
+      "constitutionally"
+    ]
+  },
+  {
+    "Solresol": "simifado",
+    "English":
+    [
+      "Manage",
+      "administer",
+      "direct",
+      "administration",
+      "management",
+      "direction",
+      "leadership",
+      "administrator",
+      "director",
+      "manager",
+      "administrative",
+      "administratively"
+    ]
+  },
+  {
+    "Solresol": "simisoldo",
+    "English":
+    [
+      "Darkness",
+      "obscurity",
+      "dark",
+      "shadowy",
+      "darkly"
+    ]
+  },
+  {
+    "Solresol": "simisolsi",
+    "English":
+    [
+      "Add to",
+      "supplement",
+      "attach to",
+      "assistant"
+    ]
+  },
+  {
+    "Solresol": "similasi",
+    "English":
+    [
+      "Publish",
+      "promulgate",
+      "proclaim",
+      "publication",
+      "promulgation",
+      "proclamation",
+      "publicist",
+      "public",
+      "publicly"
+    ]
+  },
+  {
+    "Solresol": "sifamido",
+    "English":
+    [
+      "To get weaker",
+      "weakness",
+      "debility",
+      "feebleness",
+      "weak",
+      "frail",
+      "sickly",
+      "thin",
+      "puny",
+      "feebly"
+    ]
+  },
+  {
+    "Solresol": "sifasoldo",
+    "English":
+    [
+      "Indicate",
+      "designate",
+      "indication",
+      "designation",
+      "indicator",
+      "indicative",
+      "designative"
+    ]
+  },
+  {
+    "Solresol": "sifalare",
+    "English":
+    [
+      "Meet",
+      "come across",
+      "meeting",
+      "consultation"
+    ]
+  },
+  {
+    "Solresol": "sifalami",
+    "English":
+    [
+      "Recognize someone",
+      "aknowledge",
+      "show gratitude",
+      "recognizable"
+    ]
+  },
+  {
+    "Solresol": "siladofa",
+    "English":
+    [
+      "Flee",
+      "escape",
+      "run away",
+      "desert",
+      "fugitives",
+      "deserter"
+    ]
+  },
+  {
+    "Solresol": "silasila",
+    "English":
+    [
+      "Lose",
+      "loss",
+      "deficit",
+      "loser",
+      "lost",
+      "irremediable",
+      "irreparable"
+    ]
+  },
+  {
+    "Solresol": "dodo",
+    "English":
+    [
+      "Imperfect",
+      "definite preterite"
+    ]
+  },
+  {
+    "Solresol": "rere",
+    "English":
+    [
+      "Pluperfect"
+    ]
+  },
+  {
+    "Solresol": "mimi",
+    "English":
+    [
+      "Future"
+    ]
+  },
+  {
+    "Solresol": "fafa",
+    "English":
+    [
+      "Conditional"
+    ]
+  },
+  {
+    "Solresol": "solsol",
+    "English":
+    [
+      "Imperative"
+    ]
+  },
+  {
+    "Solresol": "lala",
+    "English":
+    [
+      "Present participle"
+    ]
+  },
+  {
+    "Solresol": "sisi",
+    "English":
+    [
+      "Past participle"
+    ]
+  },
+  {
+    "Solresol": "dodore",
+    "English":
+    [
+      "Earth",
+      "world",
+      "globe",
+      "land"
+    ]
+  },
+  {
+    "Solresol": "dodomi",
+    "English":
+    [
+      "Seasons"
+    ]
+  },
+  {
+    "Solresol": "dodofa",
+    "English":
+    [
+      "Winter"
+    ]
+  },
+  {
+    "Solresol": "dodosol",
+    "English":
+    [
+      "Spring"
+    ]
+  },
+  {
+    "Solresol": "dodola",
+    "English":
+    [
+      "Summer"
+    ]
+  },
+  {
+    "Solresol": "dodosi",
+    "English":
+    [
+      "Autumn",
+      "fall"
+    ]
+  },
+  {
+    "Solresol": "dorere",
+    "English":
+    [
+      "January"
+    ]
+  },
+  {
+    "Solresol": "domimi",
+    "English":
+    [
+      "February"
+    ]
+  },
+  {
+    "Solresol": "dofafa",
+    "English":
+    [
+      "March"
+    ]
+  },
+  {
+    "Solresol": "dosolsol",
+    "English":
+    [
+      "April"
+    ]
+  },
+  {
+    "Solresol": "dolala",
+    "English":
+    [
+      "May"
+    ]
+  },
+  {
+    "Solresol": "dosisi",
+    "English":
+    [
+      "June"
+    ]
+  },
+  {
+    "Solresol": "reredo",
+    "English":
+    [
+      "July"
+    ]
+  },
+  {
+    "Solresol": "reremi",
+    "English":
+    [
+      "August"
+    ]
+  },
+  {
+    "Solresol": "rerefa",
+    "English":
+    [
+      "September"
+    ]
+  },
+  {
+    "Solresol": "reresol",
+    "English":
+    [
+      "October"
+    ]
+  },
+  {
+    "Solresol": "rerela",
+    "English":
+    [
+      "November"
+    ]
+  },
+  {
+    "Solresol": "reresi",
+    "English":
+    [
+      "December"
+    ]
+  },
+  {
+    "Solresol": "redodo",
+    "English":
+    [
+      "One",
+      "first",
+      "single",
+      "unit",
+      "only"
+    ]
+  },
+  {
+    "Solresol": "remimi",
+    "English":
+    [
+      "Two",
+      "second",
+      "secondly",
+      "interval of a second"
+    ]
+  },
+  {
+    "Solresol": "refafa",
+    "English":
+    [
+      "Three",
+      "third",
+      "thirdly",
+      "interval of a third"
+    ]
+  },
+  {
+    "Solresol": "resolsol",
+    "English":
+    [
+      "Four",
+      "fourth",
+      "fourthly",
+      "interval of a fourth"
+    ]
+  },
+  {
+    "Solresol": "relala",
+    "English":
+    [
+      "Five",
+      "fifth",
+      "fifthly",
+      "interval of a fifth"
+    ]
+  },
+  {
+    "Solresol": "resisi",
+    "English":
+    [
+      "Six",
+      "sixth",
+      "sixthly",
+      "interval of a sixth"
+    ]
+  },
+  {
+    "Solresol": "mimido",
+    "English":
+    [
+      "Seven",
+      "seventh"
+    ]
+  },
+  {
+    "Solresol": "mimire",
+    "English":
+    [
+      "Eight",
+      "eighth",
+      "octave"
+    ]
+  },
+  {
+    "Solresol": "mimifa",
+    "English":
+    [
+      "Nine",
+      "ninth"
+    ]
+  },
+  {
+    "Solresol": "mimisol",
+    "English":
+    [
+      "Ten",
+      "tenth"
+    ]
+  },
+  {
+    "Solresol": "mimila",
+    "English":
+    [
+      "Eleven",
+      "eleventh"
+    ]
+  },
+  {
+    "Solresol": "mimisi",
+    "English":
+    [
+      "Twelve",
+      "twelfth"
+    ]
+  },
+  {
+    "Solresol": "midodo",
+    "English":
+    [
+      "Thirteen",
+      "thirteenth"
+    ]
+  },
+  {
+    "Solresol": "mirere",
+    "English":
+    [
+      "Fourteen",
+      "fourteenth"
+    ]
+  },
+  {
+    "Solresol": "mifafa",
+    "English":
+    [
+      "Fifteenth",
+      "fifteenth"
+    ]
+  },
+  {
+    "Solresol": "misolsol",
+    "English":
+    [
+      "Sixteen",
+      "sixteenth"
+    ]
+  },
+  {
+    "Solresol": "milala",
+    "English":
+    [
+      "Seventeen",
+      "seventeenth"
+    ]
+  },
+  {
+    "Solresol": "misisi",
+    "English":
+    [
+      "Eighteen",
+      "eighteenth"
+    ]
+  },
+  {
+    "Solresol": "fafado",
+    "English":
+    [
+      "Nineteen",
+      "nineteenth"
+    ]
+  },
+  {
+    "Solresol": "fafare",
+    "English":
+    [
+      "Twenty",
+      "twentieth"
+    ]
+  },
+  {
+    "Solresol": "fafami",
+    "English":
+    [
+      "Thirty",
+      "thirtieth"
+    ]
+  },
+  {
+    "Solresol": "fafasol",
+    "English":
+    [
+      "Fourty",
+      "fourtieth"
+    ]
+  },
+  {
+    "Solresol": "fafala",
+    "English":
+    [
+      "Fifty",
+      "fiftieth"
+    ]
+  },
+  {
+    "Solresol": "fafasi",
+    "English":
+    [
+      "Sixty",
+      "sixtieth"
+    ]
+  },
+  {
+    "Solresol": "fadodo",
+    "English":
+    [
+      "Eighty",
+      "eightieth"
+    ]
+  },
+  {
+    "Solresol": "farere",
+    "English":
+    [
+      "Hundred",
+      "hundredth"
+    ]
+  },
+  {
+    "Solresol": "famimi",
+    "English":
+    [
+      "Thousand",
+      "thousandth"
+    ]
+  },
+  {
+    "Solresol": "fasolsol",
+    "English":
+    [
+      "Million",
+      "millionth"
+    ]
+  },
+  {
+    "Solresol": "falala",
+    "English":
+    [
+      "Billion",
+      "billionth"
+    ]
+  },
+  {
+    "Solresol": "fasisi",
+    "English":
+    [
+      "Trillion",
+      "trillionth"
+    ]
+  },
+  {
+    "Solresol": "solsoldo",
+    "English":
+    [
+      "Monday"
+    ]
+  },
+  {
+    "Solresol": "solsolre",
+    "English":
+    [
+      "Tuesday"
+    ]
+  },
+  {
+    "Solresol": "solsolmi",
+    "English":
+    [
+      "Wednesday"
+    ]
+  },
+  {
+    "Solresol": "solsolfa",
+    "English":
+    [
+      "Thursday"
+    ]
+  },
+  {
+    "Solresol": "solsolla",
+    "English":
+    [
+      "Friday"
+    ]
+  },
+  {
+    "Solresol": "solsolsi",
+    "English":
+    [
+      "Saturday"
+    ]
+  },
+  {
+    "Solresol": "soldodo",
+    "English":
+    [
+      "Sunday"
+    ]
+  },
+  {
+    "Solresol": "solrere",
+    "English":
+    [
+      "The past",
+      "former",
+      "past"
+    ]
+  },
+  {
+    "Solresol": "solmimi",
+    "English":
+    [
+      "The present"
+    ]
+  },
+  {
+    "Solresol": "solfafa",
+    "English":
+    [
+      "The future"
+    ]
+  },
+  {
+    "Solresol": "sollala",
+    "English":
+    [
+      "Hour"
+    ]
+  },
+  {
+    "Solresol": "solsisi",
+    "English":
+    [
+      "Minute",
+      "second",
+      "moment",
+      "instant"
+    ]
+  },
+  {
+    "Solresol": "lalado",
+    "English":
+    [
+      "Dawn",
+      "twilight"
+    ]
+  },
+  {
+    "Solresol": "lalare",
+    "English":
+    [
+      "Day",
+      "daylight",
+      "light"
+    ]
+  },
+  {
+    "Solresol": "lalami",
+    "English":
+    [
+      "Meteorology",
+      "phenomenon",
+      "meteor"
+    ]
+  },
+  {
+    "Solresol": "lalafa",
+    "English":
+    [
+      "Morning"
+    ]
+  },
+  {
+    "Solresol": "lalasol",
+    "English":
+    [
+      "Evening",
+      "twilight"
+    ]
+  },
+  {
+    "Solresol": "lalasi",
+    "English":
+    [
+      "Night",
+      "by night"
+    ]
+  },
+  {
+    "Solresol": "ladodo",
+    "English":
+    [
+      "Temperature",
+      "climate"
+    ]
+  },
+  {
+    "Solresol": "larere",
+    "English":
+    [
+      "Fog",
+      "mist",
+      "foggy",
+      "misty"
+    ]
+  },
+  {
+    "Solresol": "lamimi",
+    "English":
+    [
+      "Humidity",
+      "wet",
+      "moisten",
+      "soak",
+      "humid"
+    ]
+  },
+  {
+    "Solresol": "lafafa",
+    "English":
+    [
+      "Snow",
+      "hail",
+      "sleet"
+    ]
+  },
+  {
+    "Solresol": "lasolsol",
+    "English":
+    [
+      "Freeze",
+      "frost",
+      "ice",
+      "icy"
+    ]
+  },
+  {
+    "Solresol": "lasisi",
+    "English":
+    [
+      "Cold",
+      "chilly",
+      "frigid"
+    ]
+  },
+  {
+    "Solresol": "sisido",
+    "English":
+    [
+      "Rain",
+      "shower",
+      "downpour",
+      "rainy"
+    ]
+  },
+  {
+    "Solresol": "sisire",
+    "English":
+    [
+      "Wind",
+      "breeze",
+      "zephyr",
+      "gust",
+      "hurricane"
+    ]
+  },
+  {
+    "Solresol": "sisimi",
+    "English":
+    [
+      "Cloud",
+      "cloudy"
+    ]
+  },
+  {
+    "Solresol": "sisifa",
+    "English":
+    [
+      "Lightning",
+      "flash"
+    ]
+  },
+  {
+    "Solresol": "sisisol",
+    "English":
+    [
+      "Thunder",
+      "storm",
+      "stormy"
+    ]
+  },
+  {
+    "Solresol": "sisila",
+    "English":
+    [
+      "Heat",
+      "warmth",
+      "warm",
+      "caloric",
+      "with heat",
+      "warmly"
+    ]
+  },
+  {
+    "Solresol": "sidodo",
+    "English":
+    [
+      "Atmosphere",
+      "air"
+    ]
+  },
+  {
+    "Solresol": "sirere",
+    "English":
+    [
+      "Star",
+      "planet",
+      "comet"
+    ]
+  },
+  {
+    "Solresol": "simimi",
+    "English":
+    [
+      "Moon",
+      "lunar"
+    ]
+  },
+  {
+    "Solresol": "sifafa",
+    "English":
+    [
+      "Sun",
+      "solar"
+    ]
+  },
+  {
+    "Solresol": "sisolsol",
+    "English":
+    [
+      "Shine",
+      "radiate",
+      "radiance",
+      "radiation"
+    ]
+  },
+  {
+    "Solresol": "silala",
+    "English":
+    [
+      "Sky",
+      "firmament",
+      "Milky Way",
+      "celestial dome",
+      "heavenly"
+    ]
+  },
+  {
+    "Solresol": "dodosolmi",
+    "English":
+    [
+      "Evangelize",
+      "gospel",
+      "Bible",
+      "New Testament",
+      "Evangelist",
+      "evangelical",
+      "evangelically"
+    ]
+  },
+  {
+    "Solresol": "dodosolla",
+    "English":
+    [
+      "Christianity",
+      "Christian",
+      "Christianly",
+      "like a Christian"
+    ]
+  },
+  {
+    "Solresol": "dolasisi",
+    "English":
+    [
+      "Protect",
+      "patronize",
+      "protection",
+      "patronage",
+      "protectorate",
+      "auspices",
+      "protector",
+      "patron",
+      "patroness"
+    ]
+  },
+  {
+    "Solresol": "dosimimi",
+    "English":
+    [
+      "After",
+      "later",
+      "at a later time"
+    ]
+  },
+  {
+    "Solresol": "redodola",
+    "English":
+    [
+      "Vineyard",
+      "winemaker",
+      "vintner"
+    ]
+  },
+  {
+    "Solresol": "remimisol",
+    "English":
+    [
+      "Barn",
+      "stable",
+      "shed",
+      "cowshed"
+    ]
+  },
+  {
+    "Solresol": "remimila",
+    "English":
+    [
+      "Forage",
+      "grazing",
+      "fodder",
+      "hay",
+      "grass",
+      "straw",
+      "thatch",
+      "clover",
+      "alfalfa"
+    ]
+  },
+  {
+    "Solresol": "mimidola",
+    "English":
+    [
+      "While",
+      "whilst",
+      "when",
+      "as",
+      "at the same time",
+      "during the time that"
+    ]
+  },
+  {
+    "Solresol": "mimidosi",
+    "English":
+    [
+      "Up till",
+      "until",
+      "till",
+      "up to",
+      "down to",
+      "to the point of",
+      "even "
+    ]
+  },
+  {
+    "Solresol": "mimiredo",
+    "English":
+    [
+      "Under",
+      "beneath",
+      "below",
+      "underneath"
+    ]
+  },
+  {
+    "Solresol": "mimiremi",
+    "English":
+    [
+      "As",
+      "like",
+      "alike",
+      "such as"
+    ]
+  },
+  {
+    "Solresol": "mimirefa",
+    "English":
+    [
+      "Join",
+      "junction",
+      "adherence",
+      "adhesion",
+      "joint",
+      "adherent",
+      "contiguous",
+      "joining",
+      "connecting",
+      "adjoining",
+      "close to",
+      "beside",
+      "near",
+      "against"
+    ]
+  },
+  {
+    "Solresol": "mimiresi",
+    "English":
+    [
+      "On",
+      "upon",
+      "over",
+      "on top of",
+      "above"
+    ]
+  },
+  {
+    "Solresol": "mimifado",
+    "English":
+    [
+      "The front",
+      "front",
+      "in front of",
+      "before",
+      "in the front",
+      "at the front"
+    ]
+  },
+  {
+    "Solresol": "mimisoldo",
+    "English":
+    [
+      "Where",
+      "in what place"
+    ]
+  },
+  {
+    "Solresol": "mimisolla",
+    "English":
+    [
+      "On the other side",
+      "on the opposite side"
+    ]
+  },
+  {
+    "Solresol": "mimilado",
+    "English":
+    [
+      "Frequency",
+      "frequent",
+      "frequently",
+      "often",
+      "most of the time",
+      "almost always"
+    ]
+  },
+  {
+    "Solresol": "mimisire",
+    "English":
+    [
+      "Very soon",
+      "in an instant (translation guess)"
+    ]
+  },
+  {
+    "Solresol": "midodofa",
+    "English":
+    [
+      "As much",
+      "no less",
+      "just as much",
+      "no more no less",
+      "equally"
+    ]
+  },
+  {
+    "Solresol": "mireredo",
+    "English":
+    [
+      "Any",
+      "anything",
+      "everything",
+      "whatever",
+      "doesn't matter"
+    ]
+  },
+  {
+    "Solresol": "mirerefa",
+    "English":
+    [
+      "Only",
+      "not only (?)"
+    ]
+  },
+  {
+    "Solresol": "mifafami",
+    "English":
+    [
+      "Instead of",
+      "in place of",
+      "rather than",
+      "in lieu of"
+    ]
+  },
+  {
+    "Solresol": "misolsoldo",
+    "English":
+    [
+      "Therefore",
+      "thus",
+      "consequently",
+      "so",
+      "and so",
+      "hence"
+    ]
+  },
+  {
+    "Solresol": "milalami",
+    "English":
+    [
+      "When",
+      "what time"
+    ]
+  },
+  {
+    "Solresol": "milalafa",
+    "English":
+    [
+      "A few",
+      "some",
+      "many",
+      "several",
+      "plurality",
+      "plural"
+    ]
+  },
+  {
+    "Solresol": "milalasol",
+    "English":
+    [
+      "Despite",
+      "in spite of"
+    ]
+  },
+  {
+    "Solresol": "milalasi",
+    "English":
+    [
+      "Although",
+      "albeit",
+      "while",
+      "even though"
+    ]
+  },
+  {
+    "Solresol": "misisimi",
+    "English":
+    [
+      "In"
+    ]
+  },
+  {
+    "Solresol": "midorere",
+    "English":
+    [
+      "Approximation",
+      "approximate",
+      "approximately",
+      "almost",
+      "about",
+      "nearly so",
+      "virtually"
+    ]
+  },
+  {
+    "Solresol": "midofafa",
+    "English":
+    [
+      "Much",
+      "so much"
+    ]
+  },
+  {
+    "Solresol": "midolala",
+    "English":
+    [
+      "Same",
+      "the same"
+    ]
+  },
+  {
+    "Solresol": "miredodo",
+    "English":
+    [
+      "More",
+      "in addition",
+      "moreover",
+      "also",
+      "further"
+    ]
+  },
+  {
+    "Solresol": "mirelala",
+    "English":
+    [
+      "Perhaps",
+      "possibly",
+      "maybe"
+    ]
+  },
+  {
+    "Solresol": "misidodo",
+    "English":
+    [
+      "First",
+      "firstly",
+      "primarily",
+      "first of all"
+    ]
+  },
+  {
+    "Solresol": "fafadore",
+    "English":
+    [
+      "To have pain",
+      "hurt",
+      "ache",
+      "indisposition",
+      "illness",
+      "malady",
+      "ill",
+      "indisposed",
+      "unwell",
+      "sick",
+      "in bad health",
+      "sickly"
+    ]
+  },
+  {
+    "Solresol": "fafaredo",
+    "English":
+    [
+      "Prescribe",
+      "prescription"
+    ]
+  },
+  {
+    "Solresol": "fasolsolre",
+    "English":
+    [
+      "Freshness",
+      "fresh",
+      "new",
+      "freshly",
+      "newly"
+    ]
+  },
+  {
+    "Solresol": "fasolsolla",
+    "English":
+    [
+      "Blow one's nose",
+      "handkerchief"
+    ]
+  },
+  {
+    "Solresol": "falalare",
+    "English":
+    [
+      "Catch a cold",
+      "cold",
+      "flu",
+      "whooping cough"
+    ]
+  },
+  {
+    "Solresol": "lasollala",
+    "English":
+    [
+      "Barley",
+      "gruel",
+      "grits"
+    ]
+  },
+  {
+    "Solresol": "sisidore",
+    "English":
+    [
+      "Justicy",
+      "equity",
+      "fairness",
+      "impartiality",
+      "fair",
+      "equitable",
+      "impartial",
+      "just",
+      "judiciary",
+      "legal",
+      "justly",
+      "fairly",
+      "impartially"
+    ]
+  },
+  {
+    "Solresol": "sisidomi",
+    "English":
+    [
+      "Decree",
+      "law",
+      "code",
+      "legislator",
+      "jurist",
+      "legislation",
+      "legal"
+    ]
+  },
+  {
+    "Solresol": "sisisolmi",
+    "English":
+    [
+      "Judge (v.)",
+      "judgement",
+      "sentence",
+      "verdict",
+      "judge (n.)",
+      "arbitrator",
+      "referee",
+      "jurisdictional"
+    ]
+  },
+  {
+    "Solresol": "sisisolsi",
+    "English":
+    [
+      "Condemn",
+      "condemnation"
+    ]
+  },
+  {
+    "Solresol": "simimire",
+    "English":
+    [
+      "Prosecute",
+      "prosecution",
+      "prosecutor",
+      "attorney",
+      "representative"
+    ]
+  }
+]
