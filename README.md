@@ -1,3 +1,6 @@
+Random cool "Chaos Mode" thing from YouTube:
+https://www.youtube.com/watch?v=QgESqHhW6aY 
+
 # Setup
 ```
 python -m venv myenv
