@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Solresol Notation</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vexflow/3.0.9/vexflow-min.js"></script>
+</head>
+<body>
+
+<div id="staff"></div>
+
+<script>
+// This function will parse the word from the URL
+function getSolresolWordFromURL() {
+  // Assuming the URL is like: http://yourdomain.com/?word=doremi
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  return urlParams.get('word'); // or use 'pathname' if it's part of the URL path
+}
+
+// This function translates Solresol to the corresponding musical notes
+function translateSolresolToNotes(solresolWord) {
+  const solresolToNote = {
+    'do': 'C/4',
+    're': 'D/4',
+    'mi': 'E/4',
+    'fa': 'F/4',
+    'sol': 'G/4',
+    'la': 'A/4',
+    'si': 'B/4',
+    // Add all necessary Solresol translations
+  };
+
+  // Use a regex that matches 'sol' or any other two characters
+  const regex = /sol|.{1,2}/g;
+  
+  // Check and log each syllable
+  return solresolWord.match(regex).map(syllable => {
+    if (!solresolToNote[syllable]) {
+      console.error(`Unrecognized syllable: ${syllable}`);
+      return 'C/4'; // Default to C4 or consider skipping this syllable
+    }
+    return solresolToNote[syllable];
+  });
+}
+
+// This function renders the musical staff with the notes
+function renderMusic(notes) {
+  // Log the notes to be rendered
+  console.log('Rendering notes:', notes);
+
+  const VF = Vex.Flow;
+  const div = document.getElementById("staff");
+  const renderer = new VF.Renderer(div, VF.Renderer.Backends.SVG);
+
+  renderer.resize(500, 200);
+  const context = renderer.getContext();
+  const stave = new VF.Stave(10, 40, 400);
+  stave.addClef("treble").addTimeSignature("4/4");
+  stave.setContext(context).draw();
+
+  // Log each note object
+  const noteObjects = notes.map(note => {
+    console.log('Creating note object for:', note);
+    return new VF.StaveNote({ keys: [note], duration: "q" });
+  });
+
+  const voice = new VF.Voice({ num_beats: notes.length, beat_value: 4 });
+  voice.addTickables(noteObjects);
+
+  const formatter = new VF.Formatter().joinVoices([voice]).format([voice], 400);
+  voice.draw(context, stave);
+}
+
+const solresolWord = getSolresolWordFromURL();
+if (solresolWord) {
+  const notes = translateSolresolToNotes(solresolWord);
+  renderMusic(notes);
+} else {
+  // Handle error or display a default message
+  document.getElementById("staff").innerText = "Please enter a Solresol word in the URL.";
+}
+</script>
+
+</body>
+</html>
+
